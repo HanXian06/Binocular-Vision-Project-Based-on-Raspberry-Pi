@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/HanXian06/Binocular-Vision-Project-Based-on-Raspberry-Pi",
+  "revision": "03445cf5d2eadb918949b145bb2907336ecc12db",
+  "date": "2026-11-05",
+  "square_size_m": 0.015,
+  "measured_lens_spacing_m": 0.0585,
+  "image_size": [
+    640,
+    480
+  ],
+  "inner_corners": [
+    8,
+    6
+  ],
+  "state": "review_only_calibration_unaccepted",
+  "data_scope": "Data1105 PartA 20 pairs only"
+}
