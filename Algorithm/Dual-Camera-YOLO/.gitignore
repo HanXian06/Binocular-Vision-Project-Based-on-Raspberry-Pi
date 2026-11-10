@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.whl
+.camera.lock
+checks/
+*.log
+.ssh/
+*-access
+*-access.pub
+*-known-hosts

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Dual Camera YOLO
+Comment=Detect common objects with both cameras
+Exec=sh -c "exec sh ~/pi-dual-yolo/start.sh"
+Icon=camera-video
+Terminal=false
+Categories=Utility;
