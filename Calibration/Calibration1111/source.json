@@ -1,0 +1,19 @@
+{
+  "repository": "https://github.com/HanXian06/Binocular-Vision-Project-Based-on-Raspberry-Pi",
+  "data_revision": "03445cf5d2eadb918949b145bb2907336ecc12db",
+  "data_subset": "Dataset/Data1105/PartA* only, 20 pairs",
+  "date": "2026-11-11",
+  "baseline_m": 0.0585,
+  "baseline_source": "user verified exact input",
+  "square_size_m": 0.015,
+  "image_size": [
+    640,
+    480
+  ],
+  "pattern_inner_corners": [
+    8,
+    6
+  ],
+  "state": "local_review_only_candidate_not_accepted",
+  "scope": "fixed intrinsics, constrained stereo pose calibration only"
+}

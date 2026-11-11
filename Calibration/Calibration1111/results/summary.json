@@ -1,0 +1,68 @@
+{
+  "baseline_m": 0.058499999999999996,
+  "old_baseline_m": 0.027993180930546382,
+  "intrinsics_policy": "frozen previous K/D fitted on all 20 pairs",
+  "loss": "linear least squares; no pairs discarded",
+  "full_fit_success": true,
+  "full_fit_nfev": 32,
+  "stereo_reprojection_rms_px": 5.166239670157739,
+  "old_stereo_rms_px": 3.975068802722845,
+  "R": [
+    [
+      0.9992920816553296,
+      -0.005635049416026464,
+      0.03719652885736925
+    ],
+    [
+      0.004915641281576751,
+      0.9997996418426249,
+      0.01940393367721707
+    ],
+    [
+      -0.03729841835452305,
+      -0.019207352483825563,
+      0.9991195652167028
+    ]
+  ],
+  "T_m": [
+    -0.05805275393283657,
+    0.007149326762567201,
+    0.0010074163268324198
+  ],
+  "median_of_pair_vertical_medians_px": 2.241458332086495,
+  "old_median_of_pair_vertical_medians_px": 1.8419973696122014,
+  "starts": [
+    {
+      "success": true,
+      "squared_error": 51244.86256247343
+    },
+    {
+      "success": true,
+      "squared_error": 51244.862072662174
+    }
+  ],
+  "extrinsic_validation": [
+    {
+      "index": 3,
+      "vertical_median_px": 1.2026757257526413,
+      "vertical_p95_px": 5.891859079537644
+    },
+    {
+      "index": 8,
+      "vertical_median_px": 5.505465426030213,
+      "vertical_p95_px": 7.970492274152951
+    },
+    {
+      "index": 13,
+      "vertical_median_px": 1.3824960149910055,
+      "vertical_p95_px": 4.372733899477497
+    },
+    {
+      "index": 18,
+      "vertical_median_px": 1.8559230986815862,
+      "vertical_p95_px": 4.325892265344785
+    }
+  ],
+  "validation_success": true,
+  "warning": "Fixed baseline is an input constraint, not accuracy evidence. Heldout images were used for previous intrinsics. Candidate not accepted."
+}
