@@ -1,0 +1,261 @@
+person
+bicycle
+car
+motorcycle
+airplane
+bus
+train
+truck
+boat
+traffic light
+fire hydrant
+stop sign
+parking meter
+bench
+bird
+cat
+dog
+horse
+sheep
+cow
+elephant
+bear
+zebra
+giraffe
+backpack
+umbrella
+handbag
+tie
+suitcase
+frisbee
+skis
+snowboard
+sports ball
+kite
+baseball bat
+baseball glove
+skateboard
+surfboard
+tennis racket
+bottle
+wine glass
+cup
+fork
+knife
+spoon
+bowl
+banana
+apple
+sandwich
+orange
+broccoli
+carrot
+hot dog
+pizza
+donut
+cake
+chair
+couch
+potted plant
+bed
+dining table
+toilet
+tv
+laptop
+mouse
+remote
+keyboard
+cell phone
+microwave
+oven
+toaster
+sink
+refrigerator
+book
+clock
+vase
+scissors
+teddy bear
+hair drier
+toothbrush
+power strip
+electrical outlet
+smartwatch
+wristwatch
+fitness tracker
+wall charger
+electrical plug
+USB cable
+power adapter
+extension cord
+USB flash drive
+memory card
+power bank
+headphones
+earbuds
+earbud charging case
+computer monitor
+computer tower
+tablet computer
+webcam
+video camera
+digital camera
+camera lens
+tripod
+microphone
+speaker
+game controller
+router
+printer
+projector
+remote control
+calculator
+flashlight
+light bulb
+battery
+circuit board
+electronic component
+multimeter
+soldering iron
+wire spool
+wire connector
+cable tie
+screwdriver
+wrench
+pliers
+wire cutters
+hammer
+drill
+utility knife
+measuring tape
+ruler
+level tool
+clamp
+vise
+toolbox
+screw
+bolt
+nut
+washer
+bracket
+gear
+spring
+wheel
+door handle
+lock
+key
+key ring
+pen
+pencil
+marker pen
+notebook
+clipboard
+paper
+sticky note
+paper clip
+stapler
+tape dispenser
+glue stick
+eraser
+hole punch
+folder
+document envelope
+cardboard box
+shipping label
+plastic storage bin
+trash can
+recycling bin
+coat hanger
+eyeglasses
+safety goggles
+face mask
+gloves
+wallet
+umbrella stand
+desk
+office chair
+bookshelf
+cabinet
+drawer
+door
+window
+whiteboard
+bulletin board
+desk lamp
+ceiling fan
+mirror
+picture frame
+curtain
+floor mat
+light switch
+air conditioner
+air purifier
+humidifier
+soap dispenser
+tissue box
+towel
+water dispenser
+coffee machine
+electric kettle
+thermos
+mug
+tumbler
+plate
+tray
+cutting board
+pot
+frying pan
+water filter
+rice cooker
+blender
+measuring cup
+spatula
+chopsticks
+food container
+lunch box
+shopping bag
+plastic bag
+shoe
+slipper
+hat
+jacket
+shirt
+pants
+socks
+belt
+helmet
+traffic cone
+fire extinguisher
+exit sign
+smoke detector
+first aid kit
+shopping cart
+trolley
+ladder
+step stool
+mop
+broom
+bucket
+vacuum cleaner
+watering can
+flower pot
+plant leaf
+sofa cushion
+pillow
+blanket
+paper towel
+portable fan
+doorbell
+doorstop
+charging dock
+watch band
+watch charger
+phone stand
+SIM card
+HDMI cable
+Ethernet cable
+network switch
+AC power cord
+sensor
+camera module
+raspberry pi board

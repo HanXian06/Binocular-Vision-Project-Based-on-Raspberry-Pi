@@ -1,0 +1,279 @@
+description: "Ultralytics YOLOe-26s model "
+author: Ultralytics
+date: "2026-11-23T19:06:07.035854+08:00"
+version: "8.4.215"
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+head: YOLOEDetect
+batch: 1
+imgsz:
+- 384
+- 512
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorcycle
+  4: airplane
+  5: bus
+  6: train
+  7: truck
+  8: boat
+  9: traffic light
+  10: fire hydrant
+  11: stop sign
+  12: parking meter
+  13: bench
+  14: bird
+  15: cat
+  16: dog
+  17: horse
+  18: sheep
+  19: cow
+  20: elephant
+  21: bear
+  22: zebra
+  23: giraffe
+  24: backpack
+  25: umbrella
+  26: handbag
+  27: tie
+  28: suitcase
+  29: frisbee
+  30: skis
+  31: snowboard
+  32: sports ball
+  33: kite
+  34: baseball bat
+  35: baseball glove
+  36: skateboard
+  37: surfboard
+  38: tennis racket
+  39: bottle
+  40: wine glass
+  41: cup
+  42: fork
+  43: knife
+  44: spoon
+  45: bowl
+  46: banana
+  47: apple
+  48: sandwich
+  49: orange
+  50: broccoli
+  51: carrot
+  52: hot dog
+  53: pizza
+  54: donut
+  55: cake
+  56: chair
+  57: couch
+  58: potted plant
+  59: bed
+  60: dining table
+  61: toilet
+  62: tv
+  63: laptop
+  64: mouse
+  65: remote
+  66: keyboard
+  67: cell phone
+  68: microwave
+  69: oven
+  70: toaster
+  71: sink
+  72: refrigerator
+  73: book
+  74: clock
+  75: vase
+  76: scissors
+  77: teddy bear
+  78: hair drier
+  79: toothbrush
+  80: power strip
+  81: electrical outlet
+  82: smartwatch
+  83: wristwatch
+  84: fitness tracker
+  85: wall charger
+  86: electrical plug
+  87: USB cable
+  88: power adapter
+  89: extension cord
+  90: USB flash drive
+  91: memory card
+  92: power bank
+  93: headphones
+  94: earbuds
+  95: earbud charging case
+  96: computer monitor
+  97: computer tower
+  98: tablet computer
+  99: webcam
+  100: video camera
+  101: digital camera
+  102: camera lens
+  103: tripod
+  104: microphone
+  105: speaker
+  106: game controller
+  107: router
+  108: printer
+  109: projector
+  110: remote control
+  111: calculator
+  112: flashlight
+  113: light bulb
+  114: battery
+  115: circuit board
+  116: electronic component
+  117: multimeter
+  118: soldering iron
+  119: wire spool
+  120: wire connector
+  121: cable tie
+  122: screwdriver
+  123: wrench
+  124: pliers
+  125: wire cutters
+  126: hammer
+  127: drill
+  128: utility knife
+  129: measuring tape
+  130: ruler
+  131: level tool
+  132: clamp
+  133: vise
+  134: toolbox
+  135: screw
+  136: bolt
+  137: nut
+  138: washer
+  139: bracket
+  140: gear
+  141: spring
+  142: wheel
+  143: door handle
+  144: lock
+  145: key
+  146: key ring
+  147: pen
+  148: pencil
+  149: marker pen
+  150: notebook
+  151: clipboard
+  152: paper
+  153: sticky note
+  154: paper clip
+  155: stapler
+  156: tape dispenser
+  157: glue stick
+  158: eraser
+  159: hole punch
+  160: folder
+  161: document envelope
+  162: cardboard box
+  163: shipping label
+  164: plastic storage bin
+  165: trash can
+  166: recycling bin
+  167: coat hanger
+  168: eyeglasses
+  169: safety goggles
+  170: face mask
+  171: gloves
+  172: wallet
+  173: umbrella stand
+  174: desk
+  175: office chair
+  176: bookshelf
+  177: cabinet
+  178: drawer
+  179: door
+  180: window
+  181: whiteboard
+  182: bulletin board
+  183: desk lamp
+  184: ceiling fan
+  185: mirror
+  186: picture frame
+  187: curtain
+  188: floor mat
+  189: light switch
+  190: air conditioner
+  191: air purifier
+  192: humidifier
+  193: soap dispenser
+  194: tissue box
+  195: towel
+  196: water dispenser
+  197: coffee machine
+  198: electric kettle
+  199: thermos
+  200: mug
+  201: tumbler
+  202: plate
+  203: tray
+  204: cutting board
+  205: pot
+  206: frying pan
+  207: water filter
+  208: rice cooker
+  209: blender
+  210: measuring cup
+  211: spatula
+  212: chopsticks
+  213: food container
+  214: lunch box
+  215: shopping bag
+  216: plastic bag
+  217: shoe
+  218: slipper
+  219: hat
+  220: jacket
+  221: shirt
+  222: pants
+  223: socks
+  224: belt
+  225: helmet
+  226: traffic cone
+  227: fire extinguisher
+  228: exit sign
+  229: smoke detector
+  230: first aid kit
+  231: shopping cart
+  232: trolley
+  233: ladder
+  234: step stool
+  235: mop
+  236: broom
+  237: bucket
+  238: vacuum cleaner
+  239: watering can
+  240: flower pot
+  241: plant leaf
+  242: sofa cushion
+  243: pillow
+  244: blanket
+  245: paper towel
+  246: portable fan
+  247: doorbell
+  248: doorstop
+  249: charging dock
+  250: watch band
+  251: watch charger
+  252: phone stand
+  253: SIM card
+  254: HDMI cable
+  255: Ethernet cable
+  256: network switch
+  257: AC power cord
+  258: sensor
+  259: camera module
+  260: raspberry pi board
+args:
+  quantize: 16
+channels: 3
+end2end: false

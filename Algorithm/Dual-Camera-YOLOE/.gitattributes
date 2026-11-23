@@ -1,0 +1,5 @@
+*.py text eol=lf
+*.sh text eol=lf
+*.txt text eol=lf
+*.param text eol=lf
+*.bin binary
