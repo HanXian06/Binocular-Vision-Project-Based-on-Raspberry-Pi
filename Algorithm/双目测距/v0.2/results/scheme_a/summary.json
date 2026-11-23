@@ -1,0 +1,126 @@
+{
+  "all": {
+    "grid_full": {
+      "total": 43,
+      "available": 33,
+      "mae_m": 0.16963226402126125,
+      "sgbm_mae_on_same_pairs_m": 0.17687663493734418,
+      "mean_selected_points": 398.72093023255815,
+      "mean_valid_points": 131.8372093023256
+    },
+    "grid_equal_count": {
+      "total": 43,
+      "available": 20,
+      "mae_m": 0.08308085457558456,
+      "sgbm_mae_on_same_pairs_m": 0.09251015275716781,
+      "mean_selected_points": 136.8372093023256,
+      "mean_valid_points": 42.16279069767442
+    },
+    "shi_tomasi": {
+      "total": 43,
+      "available": 28,
+      "mae_m": 0.14268164616657036,
+      "sgbm_mae_on_same_pairs_m": 0.15942707619496754,
+      "mean_selected_points": 136.8372093023256,
+      "mean_valid_points": 63.093023255813954
+    },
+    "common_equal_count": {
+      "pairs": 20,
+      "active_mae_m": 0.08351299098421507,
+      "grid_mae_m": 0.08308085457558456
+    }
+  },
+  "box": {
+    "grid_full": {
+      "total": 25,
+      "available": 25,
+      "mae_m": 0.1346401649994481,
+      "sgbm_mae_on_same_pairs_m": 0.12476320147514343,
+      "mean_selected_points": 474.12,
+      "mean_valid_points": 187.6
+    },
+    "grid_equal_count": {
+      "total": 25,
+      "available": 16,
+      "mae_m": 0.06803379921091823,
+      "sgbm_mae_on_same_pairs_m": 0.0679233732074499,
+      "mean_selected_points": 137.64,
+      "mean_valid_points": 57.72
+    },
+    "shi_tomasi": {
+      "total": 25,
+      "available": 19,
+      "mae_m": 0.08494684837616386,
+      "sgbm_mae_on_same_pairs_m": 0.08255485428007024,
+      "mean_selected_points": 137.64,
+      "mean_valid_points": 84.52
+    },
+    "common_equal_count": {
+      "pairs": 16,
+      "active_mae_m": 0.06783873378115887,
+      "grid_mae_m": 0.06803379921091823
+    }
+  },
+  "person": {
+    "grid_full": {
+      "total": 9,
+      "available": 8,
+      "mae_m": 0.27898257346442734,
+      "sgbm_mae_on_same_pairs_m": 0.3397311145067215,
+      "mean_selected_points": 527.6666666666666,
+      "mean_valid_points": 108
+    },
+    "grid_equal_count": {
+      "total": 9,
+      "available": 4,
+      "mae_m": 0.14326907603424982,
+      "sgbm_mae_on_same_pairs_m": 0.19085727095603944,
+      "mean_selected_points": 231,
+      "mean_valid_points": 40.666666666666664
+    },
+    "shi_tomasi": {
+      "total": 9,
+      "available": 9,
+      "mae_m": 0.26456621927965074,
+      "sgbm_mae_on_same_pairs_m": 0.32171287801530624,
+      "mean_selected_points": 231,
+      "mean_valid_points": 66.11111111111111
+    },
+    "common_equal_count": {
+      "pairs": 4,
+      "active_mae_m": 0.14621001979643983,
+      "grid_mae_m": 0.14326907603424982
+    }
+  },
+  "chair": {
+    "grid_full": {
+      "total": 9,
+      "available": 0,
+      "mae_m": null,
+      "sgbm_mae_on_same_pairs_m": null,
+      "mean_selected_points": 60.333333333333336,
+      "mean_valid_points": 0.7777777777777778
+    },
+    "grid_equal_count": {
+      "total": 9,
+      "available": 0,
+      "mae_m": null,
+      "sgbm_mae_on_same_pairs_m": null,
+      "mean_selected_points": 40.44444444444444,
+      "mean_valid_points": 0.4444444444444444
+    },
+    "shi_tomasi": {
+      "total": 9,
+      "available": 0,
+      "mae_m": null,
+      "sgbm_mae_on_same_pairs_m": null,
+      "mean_selected_points": 40.44444444444444,
+      "mean_valid_points": 0.5555555555555556
+    },
+    "common_equal_count": {
+      "pairs": 0,
+      "active_mae_m": null,
+      "grid_mae_m": null
+    }
+  }
+}

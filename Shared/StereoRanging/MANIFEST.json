@@ -1,0 +1,4178 @@
+{
+  "date": "2026-11-23",
+  "publisher": "陈珂乐",
+  "base_commit": "7ee347e136078f3784885fd0ae3ee77dc016c870",
+  "scope": "发布副本；排除本清单自身、开发约定和批量可再生成中间输出",
+  "files": [
+    {
+      "path": "Algorithm/Dual-Camera-YOLO/stereo_v0_3_interface/__init__.py",
+      "bytes": 52,
+      "sha256": "c4e5d3754f5eb71077710e8c7a3b94d3b36f68747ad921c91c6bdee77b2599a4",
+      "git_blob_sha": "fa203d51d42da0b8852850a95f6c97327175d172"
+    },
+    {
+      "path": "Algorithm/Dual-Camera-YOLO/stereo_v0_3_interface/classes.json",
+      "bytes": 1104,
+      "sha256": "e57debe2d3cdd77c1095fb27e0fa7233e5f353e5cde58f6fb5deb6b7870f520e",
+      "git_blob_sha": "8d2941b3e1c443d1c2f54cce1517d6cae3f045bc"
+    },
+    {
+      "path": "Algorithm/Dual-Camera-YOLO/stereo_v0_3_interface/README.md",
+      "bytes": 900,
+      "sha256": "830992668b07b5356d5d06ecb7e5d85ee36d2de1cafa93ac031e9d3f5f528325",
+      "git_blob_sha": "de566af3a0675e4d1f39ce227e6c92c51bb65d6a"
+    },
+    {
+      "path": "Algorithm/Dual-Camera-YOLO/stereo_v0_3_interface/run_stereo.py",
+      "bytes": 282,
+      "sha256": "c680fd5767b9d793737b0fbd7dc2b8d4773c191d6db9e0aa7cee0575d745767e",
+      "git_blob_sha": "b9142eefdc21246376c2917d3204ff0270253907"
+    },
+    {
+      "path": "Algorithm/Dual-Camera-YOLO/stereo_v0_3_interface/yolox_backend.py",
+      "bytes": 3496,
+      "sha256": "24efe2c7e14794dd32985582bbc4f5fd2b7d75ec69b3d1bf507dd474b192b924",
+      "git_blob_sha": "b82dfaae1b6019d944fbe7cf9b0b0100368ced78"
+    },
+    {
+      "path": "Algorithm/双目测距/OMITTED_ARTIFACTS.md",
+      "bytes": 3539,
+      "sha256": "8d0a71b8dab01d09cc827580fa2075f0a79f049c57b9bd411436d2b8c5083624",
+      "git_blob_sha": "e00b9a071f2de6c41e48e5126541cb3116604615"
+    },
+    {
+      "path": "Algorithm/双目测距/prepare_paths.py",
+      "bytes": 1291,
+      "sha256": "572ffba85e4dd7f58384a68947f7740a887e896daad4f3835c5060c94fa92d39",
+      "git_blob_sha": "05c8889f7d91eaef01b115e94cf84b446729a0cf"
+    },
+    {
+      "path": "Algorithm/双目测距/README.md",
+      "bytes": 1035,
+      "sha256": "07545651a9a20410ed9fda18374ce3df3b48ac761e820e373680e74dcf0af5bf",
+      "git_blob_sha": "1998d5d4925eb1dbf290d6ac7814cf92cea21e33"
+    },
+    {
+      "path": "Algorithm/双目测距/restore_baselines.py",
+      "bytes": 1342,
+      "sha256": "f981df7638ac68621fc14974d735b97e84c362fc8f9383209b265e8a9de312bd",
+      "git_blob_sha": "7d08a3cc87679e3cff218ac9cff0fe435eb60410"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/call_budget.json",
+      "bytes": 693,
+      "sha256": "7052746e81a60717642f2c9f99fb7a6143b5f5c32dbe7f7712db70b47b24f89b",
+      "git_blob_sha": "047d15021866959910133b40c034bb3a95f328e3"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/docs/2026-11-23_roi_protocol_report.md",
+      "bytes": 4017,
+      "sha256": "cc6e43ef09a3289752fe00ffd71429cd09beb56ec19216f4b8bcfbc6c610cf0a",
+      "git_blob_sha": "0ca0f98da3818e2fc634ad412869feeadcf45bfa"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/docs/2026-11-23_yolo_stereo_plan.md",
+      "bytes": 9428,
+      "sha256": "0bda2762971b055c0d5b7a801dd609ab9df654e8afead71424b82e06df828f1d",
+      "git_blob_sha": "608dd290411072fe538ec3347eef1d18dac3ea37"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/docs/github_detect.txt",
+      "bytes": 6037,
+      "sha256": "c7ee8271d28b16e40694ea892e3d9700ec04f52727e47ab11d9050f94b90082e",
+      "git_blob_sha": "7b54fd511e2ff27d2c38e767cc60256e361dd417"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/docs/github_README.md",
+      "bytes": 4593,
+      "sha256": "688b151b552559007fe86f056ef1d350409391ec9541692f98140ada6079d953",
+      "git_blob_sha": "3ce2d717e3f58ccb6b9fb8a5dc8f07d9b3861a00"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/docs/github_yolox_backend.txt",
+      "bytes": 3292,
+      "sha256": "1a93dd6ebee0aa2dab961c9b4c18dadc4b2e71afa477ce8bc02f95353c2834bd",
+      "git_blob_sha": "c7c35ab53923f649bdf11108daec89942abee921"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/freeze.json",
+      "bytes": 253,
+      "sha256": "5eb714115019a13a54cdebcbdf6ef1a0a6e0cd8cd57bd07900699c6a1595841c",
+      "git_blob_sha": "91b1dae5432e572a64d2f13e751c85b0159d59a3"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/frozen_targets.json",
+      "bytes": 31347,
+      "sha256": "7064d89e975eb1f10bb61becd9228eb1bd668e8dfceab9df71fff74e7b8ad251",
+      "git_blob_sha": "b0b91bf8ed77e55e62682e1c2af2ab358426f587"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/policy.py",
+      "bytes": 2143,
+      "sha256": "54af6e5724b3a46b1de103aab3eee109d8d8efcf9184ca500bbb211e3aa4d48a",
+      "git_blob_sha": "9c547f1439b098f6f66b9aae93f04b7fcde10adc"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/README.md",
+      "bytes": 1588,
+      "sha256": "144246f8ba1dd68c3042548ccf97ebb761d20dfe60dad499efdae11fac04f2d8",
+      "git_blob_sha": "2ba59614624867b6163d89381a37915b9d12eb0c"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/all_regions.csv",
+      "bytes": 99436,
+      "sha256": "ad9cf85f1c673eeeb384d8afffe2641fa828b4cdc5b13db48338e14e6987799e",
+      "git_blob_sha": "892aeb599694096098a29a7d613981672f32eb68"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/final_comparison.csv",
+      "bytes": 8859,
+      "sha256": "924531696938f4e0af97c858e20fc63eb5c531b219c961a74a014623dbd24a44",
+      "git_blob_sha": "905271c41d4319ce1b8959f815bdd73bf4fde1b4"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0001/result.json",
+      "bytes": 3817,
+      "sha256": "5f1ac0f1c911af220db10cee3b3647279cad3889ec5322b085861421001e5d2b",
+      "git_blob_sha": "86eaef92438ff08f3b3bbdc2aa2b1fa7f9fed7e4"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0002/result.json",
+      "bytes": 3832,
+      "sha256": "cf4e5c5f77ad2791ff8062b2451b4ec6d27c5f04c884af18b4501ef73486dd6e",
+      "git_blob_sha": "3ceef6184e010519414578bfc99f567805f7ef80"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0003/result.json",
+      "bytes": 3824,
+      "sha256": "4c113a63e9893f14dcd7c61fcfe899dce577fb96dd9ed61c2eadd858c0571eaa",
+      "git_blob_sha": "ee297264b841c416cea753cba1e38fa29461b8b5"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0004/result.json",
+      "bytes": 3812,
+      "sha256": "fb811206b38f948a714501df56951cfdb74797e246209e89c6885aa185d73db7",
+      "git_blob_sha": "af93a01ce4e801d1d285b09e252f501f15d5a5e6"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0005/result.json",
+      "bytes": 3819,
+      "sha256": "2ad45c4b973424b02c8633df628729210d912fc768a2577334801118933e9622",
+      "git_blob_sha": "5f7753b214e1460650c82cf4042bdc800b5838e5"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0006/result.json",
+      "bytes": 3747,
+      "sha256": "c4e800095222f80c0ea874f5a90c6309c160ea395867b448a4df0f0eded83848",
+      "git_blob_sha": "a42a93bcee734985279aac70500c9b504534eddf"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0007/result.json",
+      "bytes": 3724,
+      "sha256": "97bc1dbea233bb1e9740ab89639c554351e6458372cbd60f58df4a96ee9aee26",
+      "git_blob_sha": "61aef4ffa35ed2603e09caeac458593328fa2da1"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0008/result.json",
+      "bytes": 3765,
+      "sha256": "7c9843625a56aadb2630b059d57c0658798372e6a4c8e45067e9e52fad42ba8b",
+      "git_blob_sha": "c632b53d34cbfaba2f115caa231fe34da54b8d55"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0009/result.json",
+      "bytes": 3783,
+      "sha256": "4c4d297a3afc7dd2fc50e278b3157995e3e9b51503b95c94615e2538376243a9",
+      "git_blob_sha": "aa27227ac6c510871348d05f9cc83a3e4b537d94"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0010/result.json",
+      "bytes": 3793,
+      "sha256": "ef786249f07e60f10e979ac2103a6e1180c6ca66f8d690cf0d741a37eb445f88",
+      "git_blob_sha": "d2d21b245010f2936e2890a97dd43bcdd1cf733f"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0011/result.json",
+      "bytes": 3710,
+      "sha256": "a4563700e5c8cf577188371bff79613b6a1a6b79605590f88ad00b003e915edd",
+      "git_blob_sha": "be63163cc5fa0e3478e230b414cceb3f7831aac3"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0012/result.json",
+      "bytes": 3706,
+      "sha256": "c6acf380ca27e4b15d5eac57cfd5868d7bd1d99bada7b232aaeb4cb40827bb23",
+      "git_blob_sha": "e587d71fe257825af6c1a96489d3fb4bd3d893fc"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0013/result.json",
+      "bytes": 3755,
+      "sha256": "b965a620e66dbf2f66b7afdef8dd4cf9dd244fe1790fb720b72ba15071a98e7c",
+      "git_blob_sha": "da59062690e59370c86f8f119342cf7a7236e8b4"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0014/result.json",
+      "bytes": 3690,
+      "sha256": "da12eef2977e7bb706f0da09a58b5fbbfeb928cfb16010ef7c547757d7e2e527",
+      "git_blob_sha": "38bfa3df3edff6312e2d72949863261a3d9e0c82"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0015/result.json",
+      "bytes": 3785,
+      "sha256": "e114d7ace25b028ff7a86978e43b8a9127a57e810aa1c3703c7b869324e70c52",
+      "git_blob_sha": "ffd773e6617682ff678ed5c7b4659b0f2d5f198f"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0016/result.json",
+      "bytes": 3711,
+      "sha256": "5e587364ec4f8fd94c10f3a33d842ba0002626596757220829fa6d583c5a4346",
+      "git_blob_sha": "51aef467c328c71b64ddcd8ed9987095c8167811"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0017/result.json",
+      "bytes": 3650,
+      "sha256": "0bab69bf73e69555109aa1d1627c2dd2b98fdaa05990520cc615743dddeb7a49",
+      "git_blob_sha": "6706522e812bdde61201760eb9eba3e89b65463f"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0018/result.json",
+      "bytes": 3666,
+      "sha256": "fcde6e129e7952af049f4970b3b275560e5fb2fd4fff9b37687800b7dea2bdf4",
+      "git_blob_sha": "d0c2f7495d9e07141aa10b65c785cd501474349c"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0019/result.json",
+      "bytes": 3631,
+      "sha256": "d3e1fd5e3d5059c2802bd67a6876b703c076087c2afb38e8494d91a41d6cbc47",
+      "git_blob_sha": "c8c025583ec5b3ccee2e91ed15ba3ff0ab2fa47f"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0020/result.json",
+      "bytes": 3685,
+      "sha256": "510ddef26d5fc570d6a90a9dca248fc4f23a02155054d24b6bbb89060217face",
+      "git_blob_sha": "40825257a9e0ba90453837e2741b29819765cd30"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0021/result.json",
+      "bytes": 3648,
+      "sha256": "8b96a694ab6885adf73a87bbbf390c14def40686483d1dc25be1536d104deeb8",
+      "git_blob_sha": "50d133a792a422404827b5af872bdb4158b0e98b"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0022/result.json",
+      "bytes": 3635,
+      "sha256": "bc8f0fbc4b0126d16708be00827d70f20ba0fc708f76eb0cdb48f355ff73d74f",
+      "git_blob_sha": "7a4b7821d240e2eaba7ef7c37accd65879fee6e0"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0023/result.json",
+      "bytes": 3663,
+      "sha256": "508d733c7552713649ffc37be8b67689ad33c0cb3bd19a8eff8ad3d116d5ef21",
+      "git_blob_sha": "64152fc6016e1cab1d3ad4363427afc078a2239d"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0024/result.json",
+      "bytes": 3640,
+      "sha256": "5ad77402fe16e7f3d68c5a1760f2f73523c394c56f4bc8ea2281debef339b354",
+      "git_blob_sha": "6786b093709a6eebe46627658783393f4b528419"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartB_pair_0025/result.json",
+      "bytes": 3660,
+      "sha256": "ad27684faf3457089759acf2f2a025f073120d704b4de6139c0db099c6ad9604",
+      "git_blob_sha": "97b0dc22c40d42e1d48cb2f08fdf646593188b4a"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0001/result.json",
+      "bytes": 3809,
+      "sha256": "1e0d42106165d7c886d1fae7ee021f4cc4e33934233ba8e00550a901173b4841",
+      "git_blob_sha": "596744b104d2296e82c1e71528e190eb09c26dfa"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0002/result.json",
+      "bytes": 3807,
+      "sha256": "ecf2fc9e83a476912464407476fa5b3824945878bd6fd296b8f212c5246c7371",
+      "git_blob_sha": "96698e82a4f7c2549f6b111e63233e3da5104115"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0003/result.json",
+      "bytes": 3813,
+      "sha256": "ac3c284b23926cb8ac56ca3b788728a2e222767115e7f8e834e323df40a43217",
+      "git_blob_sha": "dd6957f9f5deee553518bc8d4c2e24dc700c0373"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0004/result.json",
+      "bytes": 3770,
+      "sha256": "a9967d5789652ea29ff7cef934627c7230d3fcce74d8c6dbec1c07d47905ba8e",
+      "git_blob_sha": "608f20b0949039b853a56a0ab88d21e7fe2d0c08"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0005/result.json",
+      "bytes": 3759,
+      "sha256": "f67a1310354d84dbed8b0b99cdd529fff77b7098f52c1cf577b52feddd217dda",
+      "git_blob_sha": "40bebf9b55853512081725fd7b4e88007985cad3"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0006/result.json",
+      "bytes": 3776,
+      "sha256": "75195319157ad9faa00cbce8716870f63fdfda4616f10c591e12def1c12a6622",
+      "git_blob_sha": "88d463a4792db56710d329e16a4bef8a7ffaa868"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0007/result.json",
+      "bytes": 3771,
+      "sha256": "9a62768ba77918b89997a72e96af01c25c4768a120f86e3879521e53a43bfbea",
+      "git_blob_sha": "743fb128ae2e84db0f374b1175e28e8a52a4d500"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0008/result.json",
+      "bytes": 3768,
+      "sha256": "be4d9797f60db910e9b9a69c7314fe834637fb6fffc3f708c9455faaaeceb6f4",
+      "git_blob_sha": "78fabe77774a33ca1f697e442dc688cc0301d025"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0009/result.json",
+      "bytes": 3775,
+      "sha256": "20ca99b80862a84e88fc0ed64da82d428d0390d3a7a7af82974a711444ca52c9",
+      "git_blob_sha": "1a2bac3076500ff2993fe0c712ed39e7e3ed21af"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0010/result.json",
+      "bytes": 3727,
+      "sha256": "23d35f3bc32236b9710556dedebc1234593ea6572b5e20da81b5a1484b195ebd",
+      "git_blob_sha": "29b57d0878f19ce1f752eeb3bbe3e0c49226a3c3"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0011/result.json",
+      "bytes": 3662,
+      "sha256": "955b1f5496a81aaad8e21381fac836628da6e830911bea4ba5dab297e70bee4d",
+      "git_blob_sha": "e84dc98dbd8e0acc78fc7019ba97f97d3877ec97"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0012/result.json",
+      "bytes": 3756,
+      "sha256": "39e3e9c57604e5d0798d6c0e54a1ac98d056b6193991ab242a2d8fe1040ea594",
+      "git_blob_sha": "5f43b81886ce1db4db814ee1f1012ec49d7a88d6"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0013/result.json",
+      "bytes": 3785,
+      "sha256": "d68e50e84846e9f9e46f20225542b447377da6376128a59308b1909864a8e3cd",
+      "git_blob_sha": "5096b275c67374503d9f74657f654ca43af0e0cb"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0014/result.json",
+      "bytes": 3764,
+      "sha256": "cd66acb48a51f75b2c3a9fb8b15a38474edd2b989771cd4f4961277684d088ce",
+      "git_blob_sha": "fa2225227519efd4b71a308e9b16afde98dd2ae2"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0015/result.json",
+      "bytes": 3804,
+      "sha256": "529c1be2874c520be25c41d5bf97a33b69b5e92bc58c2f3d29489a7020bc1a69",
+      "git_blob_sha": "5fc21c8c2cad9dd910a1cc2212427660b4fc94e6"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0016/result.json",
+      "bytes": 3711,
+      "sha256": "7c97dff3618eca4830fd5a93ac0727d2d432aa5870335ac68bed8b6b9bb54591",
+      "git_blob_sha": "2c63e665662780ae2aba2baec5e858435dc38ee0"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0017/result.json",
+      "bytes": 3592,
+      "sha256": "1007e1382b921bdf5661b8e2acae0915654fbb50dd35d6f5939201cf08bb51ba",
+      "git_blob_sha": "edf093e8b55689345608f3d2cd1ddc8ad1101263"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/PartC_pair_0018/result.json",
+      "bytes": 3610,
+      "sha256": "7d482f66ab067beb8f337ab3b38d48ed5fdcafe34fadb764c19eefe9e133635e",
+      "git_blob_sha": "7fa92a5c45eb5ad0914f6d8629949b5114cd96d9"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/per_pair.json",
+      "bytes": 171922,
+      "sha256": "d6cbcafdda2a0d487155f0f9933de30f805d97f40b21167bc5619175e69eeccf",
+      "git_blob_sha": "faa4d362788019b5fde4e76b8d5d0ec205a2ae85"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/provenance.json",
+      "bytes": 1737,
+      "sha256": "b33f71e04027dd0549df361a2e42ebab0d6a2b70e1d3104b1944ec0d1640f95c",
+      "git_blob_sha": "c46e9b83febb40bf92b5755683ac96c3447341a9"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.1/summary.json",
+      "bytes": 370,
+      "sha256": "6998c94900199666a4fcb2e2aa964bc8a864d961167b9d1c3f7bf4f982aaec18",
+      "git_blob_sha": "eae460b99c8bdd62dc8dcf4630cd7f9e4fcaab7b"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0001/result.json",
+      "bytes": 3756,
+      "sha256": "02ecea6aba15dd746177131f286e8caf2e26710858de0eeb1f96171084bed429",
+      "git_blob_sha": "49e15a5d7b17855d0f0562391058562d16519d3f"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0002/result.json",
+      "bytes": 3747,
+      "sha256": "de624d2107f277b31c92232006a8f3491f6732d418dec5de7a7b29491dd0c90f",
+      "git_blob_sha": "2013c4dfd6ce7983913834f5c295e4edf97bd5b0"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0003/result.json",
+      "bytes": 3727,
+      "sha256": "d28b271e3c5ebed73ec6c7cc283525b8a7e05d8a50452739e79f540f26aea021",
+      "git_blob_sha": "b963062e587035217bf7dbfbe93eb085aba5e852"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0004/result.json",
+      "bytes": 3740,
+      "sha256": "729ed2567d7676e2e677cfd8c6ec72f5d5fa9d9b93fa8919bd7c8b46db8806d1",
+      "git_blob_sha": "1f1d671c6ede406072dd3a89d9ab18f96782d348"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0005/result.json",
+      "bytes": 3745,
+      "sha256": "4ded1a7b7465bc7a9dcc273094a170b495994d2b5b736f0823f69fce8dc3ecb0",
+      "git_blob_sha": "d7c9d6ad461e827cdc2cc5f91cf20b8fc92a54e8"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0006/result.json",
+      "bytes": 3556,
+      "sha256": "7aae4bce1bc2196ec29ab8e8eed8400eb4ab70d8c33cafc96120e501451a4cf2",
+      "git_blob_sha": "6b59a6ac60d9577a786b8f5e5e469d9fc2479b3f"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0007/result.json",
+      "bytes": 3598,
+      "sha256": "5372f880c6ea788cd0b52de682f15526bf597eae67aab458fd62ce18106bd050",
+      "git_blob_sha": "d8b8bdfbbaeaadfd9d51bc7d66fc92eb322905dd"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0008/result.json",
+      "bytes": 3612,
+      "sha256": "6dce8762a97abf42fc9a9227842ffadd5bf1a23f6228f5b2e186e5f593fd7348",
+      "git_blob_sha": "690e51a55ceabb59b54e5779cb2e5baeabd04f33"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0009/result.json",
+      "bytes": 3558,
+      "sha256": "d260df7b377d4c86205d6fc10573321310adbd927501ec11ae6dbda269fec0ef",
+      "git_blob_sha": "56839148f27b3548a62257acda4feb9b0d93ba7c"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0010/result.json",
+      "bytes": 3616,
+      "sha256": "a05054222d6c302a679bdab1f3fa790ebf7cbc787a2507b57dae677862268852",
+      "git_blob_sha": "b6646cebd843c41013f0f5b089b1d3f61e94dfdc"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0011/result.json",
+      "bytes": 3523,
+      "sha256": "c808e58f0a0371f8ad32755286502fe54855be4b457ce5f8862282ad7f0c2873",
+      "git_blob_sha": "50c9ca4d368ed9fd6ad449b0415aefeeec1bfc8c"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0012/result.json",
+      "bytes": 3498,
+      "sha256": "d7d0ef8ae099d1edbcc9aefa8d29926b752e9381db1f4fc1d24aab72e80396cf",
+      "git_blob_sha": "7a7589de94316b9f0995d8c7aa41213883a1da5c"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0013/result.json",
+      "bytes": 3555,
+      "sha256": "617dd7029931218a1ddea1e72d5ce3406df7d9c2852c92261e8c51692b031fae",
+      "git_blob_sha": "3b2c8104f8be328ed4df6fbc7f61659c643ea4a1"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0014/result.json",
+      "bytes": 3540,
+      "sha256": "9c0bbc6cf6e012ad75adcb17cdf56371823c430665e4ea1e2de1fbeec9126ae0",
+      "git_blob_sha": "a55ff4cd9e97a694dde44f611c2d370ea5abbc3f"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0015/result.json",
+      "bytes": 3571,
+      "sha256": "ca19250729316cd0819aab26888bc2c8f9c3f18406c2b768149ffa616dce974f",
+      "git_blob_sha": "8a23e432fcc02d8e22d0833ff3f17973539a7557"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0016/result.json",
+      "bytes": 3494,
+      "sha256": "1a046d1fe799c643121e866365c1f283130aa3b98593f1a1ba1990f9081a6691",
+      "git_blob_sha": "01517493ccb1ae4df9f66a192fd5af95d0479eb6"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0017/result.json",
+      "bytes": 3474,
+      "sha256": "dfda2e583a5831971cca169f3640d1397346da62cf03c7fea01808d823b27c64",
+      "git_blob_sha": "71a2c8d12fd65428717eca2625305a6dbfd58ff2"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0018/result.json",
+      "bytes": 3504,
+      "sha256": "c86653f8ebb397192cb7cf7dd2f92fd5494e0c106b2e4cfcfd6e8e8fc279ee56",
+      "git_blob_sha": "1e8fee74c1de1f1edab79875604ea5db21bb515b"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0019/result.json",
+      "bytes": 3479,
+      "sha256": "9e6db6dcd5083fd362750fe5e19fe259b1b39d3fd6f050cf502294ddfd6b056a",
+      "git_blob_sha": "d500f7d64e094609bbc9fa03bf5f64db72674654"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0020/result.json",
+      "bytes": 3491,
+      "sha256": "611fe02ad249aaacf77029c082d84f9499f28580d3c98333e067d461cccce472",
+      "git_blob_sha": "f30d8c4eb13bb31e0c723609687ac86777a05bd9"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0021/result.json",
+      "bytes": 3407,
+      "sha256": "f7f9a4f715716622de8d60c8194101857850925dfc08c5544eedc6180397b88a",
+      "git_blob_sha": "8d35fdac1e03c07c744a299f7d768e87598a302f"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0022/result.json",
+      "bytes": 3477,
+      "sha256": "4c0691b7454a1630e184cc17f89e7da87e61f11eddb83fd62ca66f340355a5ac",
+      "git_blob_sha": "547ae7e2c2355f63b2bf50e37469451562327fea"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0023/result.json",
+      "bytes": 3437,
+      "sha256": "c41d480e7efad7957316f80f56b8447bebdb3fa77492839399a1bf295b99543f",
+      "git_blob_sha": "8946d1723feb51bf8aa87c38f4d9c511aaf4bcba"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0024/result.json",
+      "bytes": 3447,
+      "sha256": "6b536c4b2ea15922b1728b8a024af4b882725adf1795b1cc090e9f06b642c4ce",
+      "git_blob_sha": "fd305598d7faa7ba804c222b21f10c238076849b"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartB_pair_0025/result.json",
+      "bytes": 3476,
+      "sha256": "5c77cfed94201ec648a59e93208433961781f2544a3555f7f81bafb7b8893721",
+      "git_blob_sha": "de8a402bfe88371cdf0dd002ee0089d7a8b65be1"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0001/result.json",
+      "bytes": 3763,
+      "sha256": "c3aae9ee457c3dc57d162a4c164e09efe0895f59233873ba1c2ace8c858af7b7",
+      "git_blob_sha": "d431d63dbb559305e14b4fc516b9614bcbdaa8f6"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0002/result.json",
+      "bytes": 3766,
+      "sha256": "9eafa455fe7702473e80dadf6e60ff090b711c4006417de6a93c7139c7f3bcee",
+      "git_blob_sha": "903f5208a5ddbdfaeb74e78909e4b90483049d86"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0003/result.json",
+      "bytes": 3734,
+      "sha256": "935a4bb3ec9a4500ad0d8f43313fd5fae4e034a713af3efd5e91c38b0c7133a2",
+      "git_blob_sha": "4f7f6cb11b63b3b7b1878af8096123990e930dd1"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0004/result.json",
+      "bytes": 3487,
+      "sha256": "fd231b955e9f737466081b9be4ce2d1ffc9437b2e104d31caa0460e4f9524ba8",
+      "git_blob_sha": "062e1aea8e9e3debc9e1a7ed2cb705f364c42643"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0005/result.json",
+      "bytes": 3505,
+      "sha256": "7d83781571c035f174668546df5388d1b162529347964d25cf07d379c3331488",
+      "git_blob_sha": "b4ee7370d3fda0fcbae5de66ad8f0c7c45dc2cf8"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0006/result.json",
+      "bytes": 3517,
+      "sha256": "700d56aac6d44162384acc69b11f1210956af415b5441212c6d9e233e198fa8e",
+      "git_blob_sha": "b398ce063848586661a48813307873f9e1bc7d7d"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0007/result.json",
+      "bytes": 3718,
+      "sha256": "bc776c31e59d16e97a5b521d92a1dfd61f42d316a0bc9e556391bdaf1a534b84",
+      "git_blob_sha": "279fb600464dada16867e60a608b745e1f7c33bc"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0008/result.json",
+      "bytes": 3675,
+      "sha256": "cc1e2d6f6945ee05b59859e83c2f2bb238c94fba9b4237d6f4bd0128c8e6c865",
+      "git_blob_sha": "41574b7f249a6430df6a5aaea7a456334ad408c2"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0009/result.json",
+      "bytes": 3715,
+      "sha256": "41b7e6303712f517b47efcb0a08f682ae73ad4d8c46bb94dde951a1b74059171",
+      "git_blob_sha": "fec5cb96d0af381f7f89bf679cfa7bfb04481045"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0010/result.json",
+      "bytes": 3228,
+      "sha256": "3bbd688740f1132ebd30c25118467855043d6ee3bfa23fd4a6b46a140addf529",
+      "git_blob_sha": "70c3cf55d31e4b45efe6b6bc3c8b4e7ec44c4a64"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0011/result.json",
+      "bytes": 3232,
+      "sha256": "91cc124a12ccf1464fc14be6d6f6889da04e98624f90ecddccee2c91608fe4c2",
+      "git_blob_sha": "48f8d298ff132478fcea95ef0ef2db75646890c5"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0012/result.json",
+      "bytes": 3231,
+      "sha256": "62002d39f976baa9ddb0755200c5205315df2edb8996309338d1e28689f8c027",
+      "git_blob_sha": "c2cab368cb90e9351cedfbc44f0bae59af70ac87"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0013/result.json",
+      "bytes": 3697,
+      "sha256": "362852d3c7c2c290836ae0fd4d31737bb66778cb790c5bd7d1d4801f69c10213",
+      "git_blob_sha": "c86524a295adb72a4f8c97bf64ad510d670eef8f"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0014/result.json",
+      "bytes": 3687,
+      "sha256": "82cb47c9ccae246a759651e1b35a5edaaa1bd3f90303ac8dee5720e8ac5a4d99",
+      "git_blob_sha": "201259ec5a403921fd446eda3ddeb17d62234d4d"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0015/result.json",
+      "bytes": 3684,
+      "sha256": "bb40c6522776be7d2389995224ed42ff1afa561abe9e38360fb0a48ae53db278",
+      "git_blob_sha": "0850dfcc1bbf0c99780345e0546d216a23343bcd"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0016/result.json",
+      "bytes": 3274,
+      "sha256": "392de9b6026733c29e497448be40ea0b2063fd96958b49f4c17719ad2383a579",
+      "git_blob_sha": "da1cbe08bac8e21fda0b50f4e63abd086a7d5ccd"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0017/result.json",
+      "bytes": 3333,
+      "sha256": "2742127e5eafd229646331d0d902962e3d8d872d06fc1d40fd2ab1331feaa8e2",
+      "git_blob_sha": "be210f22c87afc49e4233b71d2c37bfb1fa90c2f"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/PartC_pair_0018/result.json",
+      "bytes": 3326,
+      "sha256": "542846dc7699658bb39b2cdee3470f977e02bc0105815bf2f25885b07462f3c2",
+      "git_blob_sha": "e7f638f7a7176c00c14eadc23aa62941d9cf306e"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/per_pair.json",
+      "bytes": 163912,
+      "sha256": "2b9c2bab90906e8056cf4efb339140b196d6e40a623aed6d112af6927f3d0406",
+      "git_blob_sha": "2ab1c16a4114b2bf577a52a1e2c9e5e9a7278791"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/provenance.json",
+      "bytes": 1149,
+      "sha256": "465f4a8b0e4caa1b160b352890e0ba1a0abd1d06b70c306af02bff1778c4f84d",
+      "git_blob_sha": "652822b6e66d5debec23e19bbfd9d79f4c1dd891"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/v0.2/summary.json",
+      "bytes": 356,
+      "sha256": "defddc9d66aba8997ac00e840e2f4b56db07c153afe859aa27b6f992cc20f413",
+      "git_blob_sha": "083455d93a56fb8af65d2cbf6a98bbda7da3c251"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/results/verification.json",
+      "bytes": 394,
+      "sha256": "6473f1391c88b7052a7a0d80441ead21a869676b610d83d6a827d9589f22b05e",
+      "git_blob_sha": "03df44cc370c28d9f7cfc33a81804c03ca8e84e3"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/run_final.py",
+      "bytes": 6274,
+      "sha256": "eaeb0f3dc2a269824ca7dd69f69c0cc164615d07215d1ceccd948f1e5c5dce87",
+      "git_blob_sha": "6730e94ff4859880063c696888fb8623d07409b3"
+    },
+    {
+      "path": "Algorithm/双目测距/roi_protocol/tests/test_policy.py",
+      "bytes": 783,
+      "sha256": "52018958cc7376d70ff6c891e422d92a5e83b2715a4a8c1a13fffd602aa79ec4",
+      "git_blob_sha": "edf1b419ed9872f142651fab2ac2ab46548490ba"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/configs/sample_pair0006.json",
+      "bytes": 961,
+      "sha256": "4c8ae5f43776492f79d125695598cf3a45cf3a5d2d69a4ccb2ead11da111440e",
+      "git_blob_sha": "e24216cddb5d98a6bc693930555ce616182355bc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/data/sample/pair_0006_L.png",
+      "bytes": 393883,
+      "sha256": "33c09c50b1e9bca7aa93ace3459b05c8421fae03722af5fcb57c06c15ac9b9c6",
+      "git_blob_sha": "a7911409d2bb9c91fabc2143a20f593410623170"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/data/sample/pair_0006_R.png",
+      "bytes": 397079,
+      "sha256": "7877a79852ade99bfade0f92aa065bf2077eff1e440e30db09bac8edc0a06e5d",
+      "git_blob_sha": "9218cff9502033946a746c02d84b7647bdc9adb7"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/docs/consistency_check_plan.md",
+      "bytes": 1452,
+      "sha256": "1a91d2623a92fac8465b4e3537f83146b4bde243e62bf292983e9ef343747132",
+      "git_blob_sha": "c4b04580613dcb08764b67fb40849e1eec5315b6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/docs/consistency_check_review.md",
+      "bytes": 13847,
+      "sha256": "67ef1b9e4d79171832c7ea018bc1e1d8f355ab2089ba653bcfa4968429c911c9",
+      "git_blob_sha": "3f9598a0ce8d30d4de433342f285339e47b3a0f1"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/docs/dataset_evaluation.md",
+      "bytes": 11744,
+      "sha256": "2b81ea1561b5fc53a3426e416930d0efa820fcc0c09e846b0dabc48fe9e6a785",
+      "git_blob_sha": "07ea84a540439f8c17b93dff34489705922d0c69"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/docs/implementation_plan.md",
+      "bytes": 798,
+      "sha256": "e47200c5479e82a631db9e648360b1d85c76f5b34fc75c09b3e554b8e54e9030",
+      "git_blob_sha": "e71248f6df5ca533839f97b18b4cab9543a78fa4"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/docs/local_matching_plan.md",
+      "bytes": 1570,
+      "sha256": "92b8c24a783e939a9f38d43d141bdeb89102fcd45e33e33afda3cb9c1d54f3b2",
+      "git_blob_sha": "aa7acd3eec636da588c91b56fda1f5cec0afd034"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/docs/local_matching_step1_review.md",
+      "bytes": 10291,
+      "sha256": "cae3e7c6d019012b277e9b1a7df10096aca239e8489da56187ccc807412647e7",
+      "git_blob_sha": "e9193f2a9751967bbbf450f1d4d4426573560d49"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/docs/result_review.md",
+      "bytes": 3636,
+      "sha256": "3bfecb720af78d0a9bc27d36f455a98671f1527979dccf890e38f746e2f006e0",
+      "git_blob_sha": "94387e845b48d5c62e512a81a1494094bac39cc9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/docs/source.json",
+      "bytes": 604,
+      "sha256": "24f2aa3999f947a0c05a6f20c2781ab047bca5a5902568050c28b2f5819a108e",
+      "git_blob_sha": "b2cd7ee18f13ba15ca6ca65dec6391190437dc9e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/docs/verification.json",
+      "bytes": 208,
+      "sha256": "ab60416ebd8ca187b040bb68dee8650dd7cebe05d7115a2a67f8e64562cd1267",
+      "git_blob_sha": "ea4ff5cc1bad3264d5b18769016efa94ab2f8a2e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/evaluation/analyze_errors.py",
+      "bytes": 12365,
+      "sha256": "483b845373694b53cdedf86bb4f4d9a5f5c0d635f99224596e0bb125b0ea2599",
+      "git_blob_sha": "6efc8c91fd1e9ba1d75e89a764757a7602144de8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/evaluation/compare_local_features.py",
+      "bytes": 2797,
+      "sha256": "5a9c19fff8249b81342770ff1b3edc712aca11d460e3365d004f8a1c749f7efd",
+      "git_blob_sha": "8f50e8784f72bb85482da589641117e109b1f251"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/evaluation/evaluate_dataset.py",
+      "bytes": 6869,
+      "sha256": "7eb4f7d608270887a86e8187620c245ad192ba2645e404416d6c9fdbc073e97d",
+      "git_blob_sha": "27b180d665632adab80c4b861c6bffc8f1e7b786"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/evaluation/evaluate_local_matching.py",
+      "bytes": 7637,
+      "sha256": "8d79c2a877474b738586bebe881646bb5f56cbfbdf22888202cc7918ce0676a7",
+      "git_blob_sha": "978232fac4a33480b4096f47108bb1569c45ab00"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/evaluation/README.md",
+      "bytes": 2304,
+      "sha256": "0e73c222157d35de03bf9856c6bd97917738045647c1f46e57c53a18c425385d",
+      "git_blob_sha": "baa17a724e71c2e489c7f45cf214e135d7b802a6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/evaluation/roi_annotation_draft.json",
+      "bytes": 10699,
+      "sha256": "f9af49f8de8efbe178a53835203a7f2a1cfae339d1bb510ebc737a31a1c61d30",
+      "git_blob_sha": "fc39538020a42e93d0b21d33700919b28f0d542f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/evaluation/roi_annotations.json",
+      "bytes": 23338,
+      "sha256": "9c0e6b8b31c89c55324d58ccb3003e43d750c3e05a17e90771593b714ff0d039",
+      "git_blob_sha": "20189bb5ddf2970ab6833396d0f26f4b6c4a350a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/evaluation/summarize_local_matching.py",
+      "bytes": 1769,
+      "sha256": "d0d0fbb37a907308e78fb3d8a4b1484ab0cd01f0ab3f4fe3cc8deb1c5b3e2360",
+      "git_blob_sha": "6970c3d46c11d5ad323a3fbd03d973080219f38a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/evaluation/verification.json",
+      "bytes": 434,
+      "sha256": "6b1343c814f8b28d32560995b1a775e1afcfb368ca944af4848317d367e2b7b5",
+      "git_blob_sha": "9145f21b8b42212a3f9cf869d50b61ff878ff538"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/parameters/background1105.npz",
+      "bytes": 3396,
+      "sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+      "git_blob_sha": "e67883277bcbf10d33a81ddaaba2769b95d29c58"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/README.md",
+      "bytes": 7931,
+      "sha256": "6e81f2715a31145c70b171eaac99176e1f2c08c520da7f2d9680fa0c7668970e",
+      "git_blob_sha": "8a5d52163676e4ad37be4e9effe549a8fcdf9501"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/requirements.txt",
+      "bytes": 33,
+      "sha256": "0abaf0ca4a78a09b74141243685c60b3167b682de927577a20a7dae7271a74f3",
+      "git_blob_sha": "47fc71234484535a15baf437796d22894daad12c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/analysis/background_stability.json",
+      "bytes": 1030,
+      "sha256": "54f6b11175185619d8f2ca369d6099ff068d3832b243f072f8b1471cf18f518c",
+      "git_blob_sha": "00baabba9cfa31f93f445b770f8c18ec0774b44f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/analysis/per_pair_diagnostics.csv",
+      "bytes": 19916,
+      "sha256": "9eb23cb334908205fbb48cbf99832d9b043ec6c85618636d9424ba5ea7139351",
+      "git_blob_sha": "3da41bbae02091d4cea81ef7bfedf3a8746114b6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/analysis/summary.json",
+      "bytes": 631,
+      "sha256": "8ab322ff67f00ccb40021c0d9a6a508993654d2c4262e6f488f9c4f5536a895c",
+      "git_blob_sha": "fd028e6ef5bad16c8fcac58234394ee8dc674dd2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/analysis_final/per_pair_diagnostics.csv",
+      "bytes": 21391,
+      "sha256": "597f73250197f569368418cf575a7c0a63d702454b00d861645229eac46e14b0",
+      "git_blob_sha": "ddd904415b53607c529f62a78b958c39db98123e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/analysis_final/provenance.json",
+      "bytes": 661,
+      "sha256": "3cfd715c8db4ea7221fd5bdc1b838bd71c103329006b10639589832d10f3f321",
+      "git_blob_sha": "fb2bbba3e1566a484ac7a5cb62b2b902705add75"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/analysis_final/scene_changes_0013_to_0015.json",
+      "bytes": 2234,
+      "sha256": "e73ede4e83dbab99ea5dc9f3222512488052c656b724b43d7175b29d5ff0805b",
+      "git_blob_sha": "3cd6ef248739dbf5e0ec4da68813f144598fcd19"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/analysis_final/summary.json",
+      "bytes": 631,
+      "sha256": "8ab322ff67f00ccb40021c0d9a6a508993654d2c4262e6f488f9c4f5536a895c",
+      "git_blob_sha": "fd028e6ef5bad16c8fcac58234394ee8dc674dd2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/legacy_check/config_resolved.json",
+      "bytes": 1057,
+      "sha256": "0a0885e4c1c6f64d307c3d78dcc3c839fbfdc2449ef3c36d60c5c27c5d9658c1",
+      "git_blob_sha": "764b510e1f1dc1ea76937563ae433ea5d7250690"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/legacy_check/result.csv",
+      "bytes": 976,
+      "sha256": "631c60fac943dc8392f46fb161e215bf4c13123b11f9de41fa7b5025fa3dc483",
+      "git_blob_sha": "9e751a8b135b66cfe944fccf1673acbaeee9b128"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/legacy_check/result.json",
+      "bytes": 1255,
+      "sha256": "20dee74e7c07cd7bbc65a71467504f26c5cb252fcec4cbeaf1d9a4647e464460",
+      "git_blob_sha": "df0fd101acd5bf5aba1044f2c14d75325aa45731"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/annotations_used.json",
+      "bytes": 23338,
+      "sha256": "9c0e6b8b31c89c55324d58ccb3003e43d750c3e05a17e90771593b714ff0d039",
+      "git_blob_sha": "20189bb5ddf2970ab6833396d0f26f4b6c4a350a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0001/config_resolved.json",
+      "bytes": 1122,
+      "sha256": "37a7755e60bd5c4b56f5a4ea1304e798a018503b2883c41278044217a649c505",
+      "git_blob_sha": "4a1e4d3caf9885b4e7e5511ff40e10effbe0a3a0"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0001/result.csv",
+      "bytes": 1371,
+      "sha256": "b5f38e1cc4a10d87b2d09eef6bf698dc3a13e6314ce7d15e7b3cc952157f59dc",
+      "git_blob_sha": "bdd277e780bbe535846ecce6491d2d5918789da3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0001/result.json",
+      "bytes": 2109,
+      "sha256": "e0b5568b85e059bd64685808df371f77195c66ec5bf17477c439c062e72ec6f7",
+      "git_blob_sha": "6f8e25337128e10efbbf59232ea7fb368f15fb76"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0002/config_resolved.json",
+      "bytes": 1123,
+      "sha256": "e8eb86c10f0c3ffb3d5074d46ee1c6e01bd87dcdc7bc63e99cd4139222e284f2",
+      "git_blob_sha": "f935f2d238b9ee867b965f66bd394214dc6f73b7"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0002/result.csv",
+      "bytes": 1374,
+      "sha256": "61df6f873f8ba348d6775c28d476ca80064e20aecb26a095533e13cacf2b545d",
+      "git_blob_sha": "50494bf9459fac2f130d3e98bc87419511bd23c5"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0002/result.json",
+      "bytes": 2113,
+      "sha256": "08c79fe92ab7418938835687c9fff6fe36310b186dc74a440e5c276ff86d0ab6",
+      "git_blob_sha": "62829803157aada44796b5c197d04beccfb98fd6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0003/config_resolved.json",
+      "bytes": 1123,
+      "sha256": "bcfcc6b47a78252def7f61d37fd7b5da0c52c5ffe9fcc6355f0acba1f7a81861",
+      "git_blob_sha": "aebcc05f30c4b721f28f30c8b91a6db343431955"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0003/result.csv",
+      "bytes": 1379,
+      "sha256": "f88444369c8776c5da6e045159e342d1376ef5979bd5233b00809835fd2d5bab",
+      "git_blob_sha": "67ebbd1cab49c354d11babbdbd034cf90999a5d4"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0003/result.json",
+      "bytes": 2117,
+      "sha256": "5f19c1355e5443ecf6a855457fae7855c28b3b382adf0bf72feb9e54a42f0263",
+      "git_blob_sha": "435804572d815ca86ea22a453a9d0a347783dc84"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0004/config_resolved.json",
+      "bytes": 1123,
+      "sha256": "eb901d5777edefbd67adb04ec141b5483c825811dad8bf9b551172b02555e5d1",
+      "git_blob_sha": "726b372e8414c0682e633a4bcf12495088565cdb"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0004/result.csv",
+      "bytes": 1372,
+      "sha256": "f217d535003d130c4ca71e886bf2d0e695a250355760ab49951e802684e58b72",
+      "git_blob_sha": "c9e6a0741bdcf4590b05dc7b2c511e91a1a503a2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0004/result.json",
+      "bytes": 2111,
+      "sha256": "358ef4e138db9cd6ec579b4eedb218f634016e4e90f26c0d5e97d10c5f037c3a",
+      "git_blob_sha": "e663cc2b4b46ba297d8a223667812225f8a6cabf"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0005/config_resolved.json",
+      "bytes": 1123,
+      "sha256": "9a9e2c201912b448a3de27e4236fa3ac5e6c40288f58fca9c3c5d4a3e2348fa2",
+      "git_blob_sha": "79f3ff576de0cbf01fe3b228f6169407f7c906bc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0005/result.csv",
+      "bytes": 1379,
+      "sha256": "70c89d10b1dcdf717a867486c219184ce9241263f88bea8f9d0658a9475c3793",
+      "git_blob_sha": "87fda053e938cb4231e0a59a0d9e7923ac5d5b3b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0005/result.json",
+      "bytes": 2119,
+      "sha256": "a17c46848a1cac02e78d88d0cb737a4034be1cb40548b340fcc5f4b1efb01c5e",
+      "git_blob_sha": "550e2804da2f6b2bed8634b2cf8a12692e86e804"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0006/config_resolved.json",
+      "bytes": 1119,
+      "sha256": "4bc6b6192636caf51bbbb3c128e89493b551c7e19d4e9e9c3a012e0d14af8230",
+      "git_blob_sha": "73acf6b6c9f240e145c8582302107fb5cfb234ad"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0006/result.csv",
+      "bytes": 1370,
+      "sha256": "7170057185a40343578143fb24d267affae602d845295a63c39f22d59319d475",
+      "git_blob_sha": "357da8186be328ea78104c0803fcb2bc08f60727"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0006/result.json",
+      "bytes": 2104,
+      "sha256": "49c2e3691dd76aa7fb4a815f3a4cd34fd52562aa126614a89220bcc243fecdea",
+      "git_blob_sha": "36bc6b30083639bc05f8fb110c7ae60111242c96"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0007/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "0e363f78c5ed90c6e1a67447bfd8a259cb0f0a1335a0a993edf6ef08d3183d72",
+      "git_blob_sha": "caa12fc2885d964fdd46fbc323b9676c1f173bca"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0007/result.csv",
+      "bytes": 1367,
+      "sha256": "61298b5f21aa7b75458525b5c11d14975d8e476e592eb965d417174132b1e56b",
+      "git_blob_sha": "e5a12da463ee654c5f4f0c3bb4a53fd976c0231d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0007/result.json",
+      "bytes": 2098,
+      "sha256": "faa5033e8cb7b43697fd981061457958ee5f4f90ca5b7137369dae08e8aec664",
+      "git_blob_sha": "e066d38ada70e3addd1a899462f088cb8677e0f8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0008/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "99a354cba4121e77ef50532329c3ecafa1a8784f400ebc46f54c35ad26a8191f",
+      "git_blob_sha": "36b15a90eb6c116cf86f4735eddcb0079e614a3c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0008/result.csv",
+      "bytes": 1365,
+      "sha256": "6903f095d5c43ae34b782be2b58f06e45cd39874ce3e23fa6b62507300c87657",
+      "git_blob_sha": "6d20c7524267306fa713f781267e4dc9445e3515"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0008/result.json",
+      "bytes": 2097,
+      "sha256": "6ca79e566d390450f35005b902ef1aa4ccd628f6acb118003c5bf614b64f439a",
+      "git_blob_sha": "d5db243b8d4ea9a3e5b627c6a6621282eedf5c9e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0009/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "e3687247b94a39428f226a5b68d0644dc8f9ac0c13daf0b101f9008941aa6a9a",
+      "git_blob_sha": "157ade88e1cfc18714e8be6e8bcbaa59f13ed7e7"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0009/result.csv",
+      "bytes": 1370,
+      "sha256": "f2c6a241e163d46b8394d8fb3826d151c11f44bd8cdd5c631dd6d2a284163737",
+      "git_blob_sha": "8da7fb5717b6a6e163fb6187981f99ea62f5e498"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0009/result.json",
+      "bytes": 2103,
+      "sha256": "f62e312b125e58c0e19a87aa911680c82501936bfc60dd9d4edfd9cc29961430",
+      "git_blob_sha": "9396d08bba33a923c703a20ffadca148a0206bbf"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0010/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "6cf8381600b9ba129dea8495bc757b5fefb896bce6591d2cba64574f2acf0214",
+      "git_blob_sha": "b0ab2a7b4a3187df4e17a10d87f98c9502befd2a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0010/result.csv",
+      "bytes": 1366,
+      "sha256": "fc579c3d93967f80f5d72c3f569ad0750be1c2c31518df8cbfaa6d0022792847",
+      "git_blob_sha": "13d17190fbac8893bb226e6d88f529584913c31a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0010/result.json",
+      "bytes": 2095,
+      "sha256": "91f9e3c5c529e2547da373199ea45c8e94c0a3fa736785e33b9b1c3701304890",
+      "git_blob_sha": "a58253d79506e9396e0861624e0d443ede9218a0"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0011/config_resolved.json",
+      "bytes": 1120,
+      "sha256": "bcfc64f733104b3a89b7a3b665efe42657494973e64beabedccb26bff8eeb23c",
+      "git_blob_sha": "cea79eaa7c6f303e55ac9fac959f8c72da7b93a8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0011/result.csv",
+      "bytes": 1365,
+      "sha256": "e7dc9dc3d7dc1a43ff71f9c1e6a7e24e14babbd2b592784dc8987fa1482be949",
+      "git_blob_sha": "6202526370a97e0b759c5ed0bf41f2cbea192b75"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0011/result.json",
+      "bytes": 2098,
+      "sha256": "d09c7a2e8b32072684f87bce364a869fda988f6476746f545a819c6fda11d4ce",
+      "git_blob_sha": "fda5ee1b7f0fadd34e85372dccc9fcfab0d5dc6b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0012/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "dd9a1c5e6c938acbdab4e1271ff2d398965e8e15cca94951e48587c9e046aaae",
+      "git_blob_sha": "1e36bddc1a2f28fae87bb8503c6e9d81af3b0008"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0012/result.csv",
+      "bytes": 1353,
+      "sha256": "53eb6b08b85fc0388f8da92e3b5243699dbe4f127b28007fe5e4b67bb0024fcc",
+      "git_blob_sha": "cae98d2bffbb9c70a47ef7b3909603b46ec57a61"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0012/result.json",
+      "bytes": 2086,
+      "sha256": "d286ea55b56ab970aa3f48c0b43581ba5efc476e17a4a1af9b50cf866fc13240",
+      "git_blob_sha": "d71369c610eda9cdca286d89b52385546691928b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0013/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "cdeaa2823892f1898b65e8f266aa4f4f12361ece3f1b57b92799c5cdc59407d6",
+      "git_blob_sha": "7c8ff9bf6231b5ff12879bf610deef2c2fab2754"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0013/result.csv",
+      "bytes": 1371,
+      "sha256": "3b76ff8fa00d2443e1e584e5edbd615f92f78a0b8ab24d7a113c549af00d0554",
+      "git_blob_sha": "b0c4362f7d149fdab2030d7cd24370c7100b1914"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0013/result.json",
+      "bytes": 2104,
+      "sha256": "64a422d5616efba8e065968ab69c109024d79c6f77dcecec607ac12e8c2ec261",
+      "git_blob_sha": "e86ffff82ea991eda9eaabcc46a7d2a6769dec3c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0014/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "83b43833574f64abf668dbd964951c1a7ea123b0fe00034c3c720b7131d1f759",
+      "git_blob_sha": "d7b0e01cff85c002e9a76c5665bb4e81b72d288c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0014/result.csv",
+      "bytes": 1369,
+      "sha256": "a51ca1760321ed81646307f00f48411d48fd3b851c0d1e223cefdfaffbe32841",
+      "git_blob_sha": "0e61a8856ce4ae4aac0585f2df72c3159a0816d5"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0014/result.json",
+      "bytes": 2100,
+      "sha256": "1ce945a8477db1e4046d3def0f27538783b785cd83dd6bb07ad4fcee7c433802",
+      "git_blob_sha": "927525985017180702a79c925a42d977174c4ede"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0015/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "2f877c86f57a218079ceaf19d258d1fdc065153a7542f0d916bfff7809717264",
+      "git_blob_sha": "7d28b3b5558cb23be3cd0fc9a1ef089b8f42fda8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0015/result.csv",
+      "bytes": 1369,
+      "sha256": "361938fb10c360321cf66899d548b77fb75be0521a1e85632382a57e06c6c5d5",
+      "git_blob_sha": "e8d1bdec96429ad02ee5d1552519fb0fb0f0dbaf"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0015/result.json",
+      "bytes": 2102,
+      "sha256": "827fd8e5fb4ad1823db6f4e9451237a0366c0d107304ca240ae6caae376285dc",
+      "git_blob_sha": "dde156582935c4ce3420fa885834118150c55227"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0016/config_resolved.json",
+      "bytes": 1118,
+      "sha256": "8099cdbf080dd02dde0a1dad3b1e0040cfd1a4167d1d4bb92144d6304b1e1931",
+      "git_blob_sha": "1d08645d1bcfd9c95ae3d32ce3bcd0fde9ffad81"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0016/result.csv",
+      "bytes": 1351,
+      "sha256": "7fe9070a5d30b928351e848af40a76c66d9f0671d39164895303302cf44718ff",
+      "git_blob_sha": "ec3a79a1258918fe3258cb2a1e494522e9e3c834"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0016/result.json",
+      "bytes": 2078,
+      "sha256": "0e6d45c7ab0b4402bdb6413d71915af5eb7635555c2ba61f9d54332b99ed5f1c",
+      "git_blob_sha": "87e989e62e435758b23737c952c80b49ff229a13"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0017/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "1e30bda7dc2bdd031bcb261818bbf0029d2b763110960b39870b278fc64f1915",
+      "git_blob_sha": "c3c02a25ba555b7bce0fa3a5ac819c4826dde81d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0017/result.csv",
+      "bytes": 1366,
+      "sha256": "54a0be10a64632594ff12c49b5757ed30e93df73d6036cd247c7e221fc6762d5",
+      "git_blob_sha": "ae790d544c16cebc56cc4c4d985c36d3cd179186"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0017/result.json",
+      "bytes": 2080,
+      "sha256": "1d940e26f70ef86a0e6c988983f6ce7b1a3a90b3f73290331225cb2b06553488",
+      "git_blob_sha": "98e23bfc62a8b125b6e666f1e7f847fa29d828f6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0018/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "bc209792099fb3f1563c5a9586c521452862bba1206554937b1313b2f69a13c7",
+      "git_blob_sha": "56fbbbbe9a72388730f78cac053b848705ec16a3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0018/result.csv",
+      "bytes": 1368,
+      "sha256": "3cad0752ab51c0dba1237d23c6585402eb199146c160d14539d38b527cf5e65f",
+      "git_blob_sha": "4a17e740f6cc4184ff70baaffcfd712db9efb088"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0018/result.json",
+      "bytes": 2097,
+      "sha256": "28e1e105242c7f23195574b3e36198e91147aa242b5dc1c9e159417b1dee4b5a",
+      "git_blob_sha": "7b0eb95c9788bc3d8ac388365945b035579324e4"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0019/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "b06d2b7e4edffe70d7636832a32c8ba4478abdce6081453050c2cbcf693235cc",
+      "git_blob_sha": "bb3e99969360bbc957dafedf0ba6a289f6913c22"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0019/result.csv",
+      "bytes": 1353,
+      "sha256": "0e6bdf4fdce2913b42d891d4bdc42eba2f295993301d3a5b801f25908eb1c53c",
+      "git_blob_sha": "6bd2db6e4cff9bb830476ded02f3979057991c7d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0019/result.json",
+      "bytes": 2069,
+      "sha256": "50639a9ce6aed13bdbee5e86e9b26799709ede156c3b2b6e20e52bb2cbd9e04b",
+      "git_blob_sha": "b88d377bd0d1919c935afed03690b849ecb524ee"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0020/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "c60726974ca2e556e64cbc26ab94326c6d3ccefeadcbc51e553e6b1c0f7122c7",
+      "git_blob_sha": "99fa0ec4d232a06aa7897ab8fa1ecdd50d306d0f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0020/result.csv",
+      "bytes": 1367,
+      "sha256": "40487943b471645abb5dd8d6a7a3bd77a278c6be345d0ebebed18ebe574e599b",
+      "git_blob_sha": "bf7ea5c1889f9d8211d1784262297cbac6c17d41"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0020/result.json",
+      "bytes": 2098,
+      "sha256": "6512beed94bd4d6a21e3c36f1ea8da6598f4249d32792a4b808f4f9fa7867ef1",
+      "git_blob_sha": "c52da08e7361d361c598043e70702d9c185a02fa"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0021/config_resolved.json",
+      "bytes": 1118,
+      "sha256": "c30e766b059fc65a59fcc33bd360a82038c324d9db9c503834d62e2faf5ea337",
+      "git_blob_sha": "4831d5b85e8735ffb232643a01b65561ea3fa149"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0021/result.csv",
+      "bytes": 1329,
+      "sha256": "6c7cd399d038720e0d92113f49abc86e7c27d7268ec03017ed1fbd0fe1399caf",
+      "git_blob_sha": "5c0457761b27c30ec4e555fcf7e2156e63d335fa"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0021/result.json",
+      "bytes": 2059,
+      "sha256": "1a02e1509f35daa1e164f2c942de8c067ef1af8d66792a6509c8af2032d30f75",
+      "git_blob_sha": "68b7776c7310ca3adf1ad96c6cd188cf63542d10"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0022/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "556f8e90f649a3e9c6b2309116f9458c82b313a4cb25c38ddbbd414d02c7dc4d",
+      "git_blob_sha": "97a09af8344620b8ad589a568e1216d1c2b99a59"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0022/result.csv",
+      "bytes": 1315,
+      "sha256": "a414748a8c6408e4fc8c434c3711fa97ec629ddb0821b658db7184a6f8731f93",
+      "git_blob_sha": "8d18ba005d1adccd94270941d737f2a75c901fbe"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0022/result.json",
+      "bytes": 2024,
+      "sha256": "22e6565f4f6f6abbcdeb647bff46e5d07e45b5ac6038ee1beac79488d8ff5157",
+      "git_blob_sha": "ce5a71645f08756d0e11cf9e1d62049d5bba9cb1"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0023/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "5dd12f852a24c8da2437e9699e477067f3acc0bd14bd639d06b0845fa83dca4d",
+      "git_blob_sha": "1ca832f0ba57140880a5883f2778ab27243499f9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0023/result.csv",
+      "bytes": 1366,
+      "sha256": "697291891f3cc9c21b1691dd1900842107431099fab18ca17fa2f065b714a9f6",
+      "git_blob_sha": "318486f8aa897740f53cdfe497c1483a67b19ef3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0023/result.json",
+      "bytes": 2094,
+      "sha256": "2ddb6af600b3cf1bef5ce79b7a39f4f192cb63aa65751a13eb31f2c2d13e7e36",
+      "git_blob_sha": "dfa28ccc9105c85a80f3de912e75cd405c06d54d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0024/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "a1f1cb4d97e58eba2ac55201ca696d84c889c7a448069d1cf351f3a523a8f2cf",
+      "git_blob_sha": "22738dc08b41d27bda57075c560147c09be826ab"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0024/result.csv",
+      "bytes": 1328,
+      "sha256": "915c70a08a836d5602d48b2b7e3172e8e7cdfaa94d78c481f59e8492a9f385c7",
+      "git_blob_sha": "7e8022bdca4b8ccb0c9c5d323c3e9a518c5948ff"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0024/result.json",
+      "bytes": 2057,
+      "sha256": "2b90607fdf84161888ea06ade6079424c74f0cb36fb59e7e4e6c8e177408499c",
+      "git_blob_sha": "aa7cfa3317a2cdfa00dd08e29d2dcec30a44620f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0025/config_resolved.json",
+      "bytes": 1121,
+      "sha256": "483e40248c8c8be3fd85f6a174d03e087e19dc211ea6759a66250a6d7df7f08e",
+      "git_blob_sha": "0fe4aeed82187017ed54e5aeb882e67465bbad85"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0025/result.csv",
+      "bytes": 1360,
+      "sha256": "60d1774c682ea6bda7f3c7162a95c010311119a7a020a5daa6750b24c734ef6d",
+      "git_blob_sha": "bdddb0bf71dad44013ee3172c318f1bdb14d6e28"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartB_pair_0025/result.json",
+      "bytes": 2089,
+      "sha256": "4a5944b6d0b4e7efef606c912bf53d79633f3b796c8766a00fb1b78a78c06f2b",
+      "git_blob_sha": "899f788f0c7e6194095bad4a0916ee42fafc3e14"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0001/config_resolved.json",
+      "bytes": 1058,
+      "sha256": "4e6f0d007f5bb414fafbe3c74a720844269ceafb02ba6cfa77eddb527f7c3a2c",
+      "git_blob_sha": "ed1fc57af3061ce0592fa89bd9ff56d40ffdf2da"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0001/result.csv",
+      "bytes": 1370,
+      "sha256": "6d6768082859c1b846413af493e78b6e0fd516853ba47afd8c344cda3df93748",
+      "git_blob_sha": "a4172effc8f28fac20bd5e09e9f2f2b838564635"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0001/result.json",
+      "bytes": 2105,
+      "sha256": "2bc24d498f39ec7e5c564f5ad92e069a6863a0ca98a481d32c080f4c5fc17cd0",
+      "git_blob_sha": "32ffcb85aea1f8f6181132109ed517b0fcd00959"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0002/config_resolved.json",
+      "bytes": 1061,
+      "sha256": "ba27cdff86ccf8d4248d8748a6a669425b31054861639efde6fdff4480974268",
+      "git_blob_sha": "f1d94b60dca1f568754108bef37e9ca5e51a9e49"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0002/result.csv",
+      "bytes": 1372,
+      "sha256": "81367b4522eddadd0cdd7dd7c725e9244c2d429f61ffd03542297d01f987e33f",
+      "git_blob_sha": "88d88959e61948af77ba38873440d1a5ae525b1d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0002/result.json",
+      "bytes": 2104,
+      "sha256": "389368a1d0ddf6a836b6e7309bc9a950998592add057817d548e1f18f3804d65",
+      "git_blob_sha": "425cd5bbfdcfcb0e0f80560d4f42539f61065ab3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0003/config_resolved.json",
+      "bytes": 1061,
+      "sha256": "ec4cdda7cdf83d9af1157d9e1accf54a241a4fa5c8c3b856668963fa930ecc70",
+      "git_blob_sha": "dd110729d8e63069fa1ea31e473c75945aac3ea3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0003/result.csv",
+      "bytes": 1375,
+      "sha256": "de7a03038856bd98a32a8c8c6a5f489840313081a192631abeac26d7429daaf0",
+      "git_blob_sha": "5e40b00575d624f1cb8a84c3615842549d3fa6f6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0003/result.json",
+      "bytes": 2111,
+      "sha256": "ef03901088c5cfc23f45e9a02b619f02da1b25ae9e8d7439efd97713793f9c19",
+      "git_blob_sha": "e06cb8ee2972fce2374d0ffda12e66cec363f36b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0004/config_resolved.json",
+      "bytes": 1090,
+      "sha256": "8bfd3f3f7a58998593e541e12542e61f6eefdc6585da149fd5d50598dd659cc7",
+      "git_blob_sha": "255304c5d743795ae45023dd0bf224f417212e85"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0004/result.csv",
+      "bytes": 1350,
+      "sha256": "b8dcc02e38c0b5d92f7b38f8841bae1745030925a5cb7ef94187bd2fdfad1123",
+      "git_blob_sha": "0dcdbcd34759b9d907aee29352f99db29c157743"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0004/result.json",
+      "bytes": 2091,
+      "sha256": "d019ad949aaaf8ef952d66acd17996e84ab3b43756fa1f6928db54b844e2f5ff",
+      "git_blob_sha": "962ed9435172dd4fbfd2505fef553632dbda302b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0005/config_resolved.json",
+      "bytes": 1093,
+      "sha256": "4ff3db9ac8ebd192394a6051ae303ea148b9ddf1012329bb2ea8dfd762c6c541",
+      "git_blob_sha": "fe774e47ccc25222423bdb2214e02d82fadeb9f2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0005/result.csv",
+      "bytes": 1345,
+      "sha256": "a5b36dc55d5fbef727f4f4687bb897f5cbb490c49ee8852ffe2488be4e79e38f",
+      "git_blob_sha": "a98de53fcd9f654db927dc7af923ff2e5415668e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0005/result.json",
+      "bytes": 2069,
+      "sha256": "7c8c39457a83739aca5ae026284341961eb29789dd425d8c1a6789f32f6903e8",
+      "git_blob_sha": "55867bec3a04f3874ece01d5230881fac31d4501"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0006/config_resolved.json",
+      "bytes": 1093,
+      "sha256": "b4df04f982459b4e9511f8076c47ba9561ffd7db2df80fd1cfa523f47a13b768",
+      "git_blob_sha": "0b58a5b0ecd818cc48c295a7b14cf2994b0eb275"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0006/result.csv",
+      "bytes": 1361,
+      "sha256": "7bb589a416ca79fa7b347f98468e41a236beb0193457f91bd039706f2ea165e5",
+      "git_blob_sha": "c13ca5e47d40574b60ecae38881d22ffdc6cb4e7"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0006/result.json",
+      "bytes": 2087,
+      "sha256": "c98e89d0b89f7ca6f764820a838a80df7642bcd4e82bb1b4832f0658d8147198",
+      "git_blob_sha": "a14ada59b04443f84cfae10d694d4ca17f7ff1c5"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0007/config_resolved.json",
+      "bytes": 1058,
+      "sha256": "c9e89105904f6540eac7307fac7c490dbea30b0b3e6bd76dc0127f1f9ac3f95f",
+      "git_blob_sha": "f113b0d36da85929862d12d3412ac3331c9e2ab6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0007/result.csv",
+      "bytes": 1364,
+      "sha256": "bed9a7bdc865fc74f6000b699e8a61f84b474d4ed38326995852c85c42d106f4",
+      "git_blob_sha": "ea44de54863635a6f2053485ce556e607aafb728"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0007/result.json",
+      "bytes": 2097,
+      "sha256": "9d833cf294b85b2bf435a410cf2a5e33f5d2e8bef1ed33b4b87daa69c1f96519",
+      "git_blob_sha": "67f15fb5fada1313744d7fa9be070921e391f14d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0008/config_resolved.json",
+      "bytes": 1061,
+      "sha256": "7cff3f6ee80d505c4e1d10f357b6da4292fc2ccb20f595b7a171fb076d08150f",
+      "git_blob_sha": "4a6780ad826c6e6222fcdc617c46fc4704c0060f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0008/result.csv",
+      "bytes": 1368,
+      "sha256": "d5fb58330f77bb86cf8e14730a82734992c8f4c3df76c7dd4defa5eea2e8e79d",
+      "git_blob_sha": "250dbc9dc0540d905b3b9e3d5b78446bf4c9c5db"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0008/result.json",
+      "bytes": 2099,
+      "sha256": "b06db4f22cd74882afae0bdd36ec4c2e9c303d0a54ec5adcbfc9399642ff7f98",
+      "git_blob_sha": "1d6d9c6f83e699aa2c07e7c5f7dd727af4f8347a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0009/config_resolved.json",
+      "bytes": 1061,
+      "sha256": "015f39cbb368fcff48f0457f1827ef0aad31a7078ae01796e6119fbfa271418f",
+      "git_blob_sha": "bd9fb28408339241ef5ab3797fa525c950fa93b3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0009/result.csv",
+      "bytes": 1370,
+      "sha256": "b44dcc1526d98b3f9d354e6581e47df19835df125e1b4d00c09dcec865e69f8e",
+      "git_blob_sha": "f351ef9636aaf335759f10db8ca15642a8e25688"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0009/result.json",
+      "bytes": 2100,
+      "sha256": "5c5502e0a876ef499f0d715122b704f6ec87548b966ad4e2556fb29ac3d33ea7",
+      "git_blob_sha": "5f4604845aaf65dd83e1f4b0b3b929a211327a96"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0010/config_resolved.json",
+      "bytes": 1091,
+      "sha256": "49ad3358b027951dbda8bca96c53c9f7c86d3996899ee4b815449be1f541c232",
+      "git_blob_sha": "fca2a2ea2534bd00c9d85123c130286bd8d6da73"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0010/result.csv",
+      "bytes": 1356,
+      "sha256": "bb85d24afe26e4306a85b51be28a028942511f45bf3d583e4d6325193c32ce26",
+      "git_blob_sha": "f9bac44f514a8fa85de472d32e68ba0603564e1c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0010/result.json",
+      "bytes": 2105,
+      "sha256": "8dbe20a0609936bcedd2f1082b6ca20e303c2ae91de69c653ddd435704783547",
+      "git_blob_sha": "9b8b2069d5fc3e5a6edb5c1082386d5830f4d03c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0011/config_resolved.json",
+      "bytes": 1094,
+      "sha256": "e3ad2f72e41c704ed1e6b3e10157bb9c48629f3a5c54a44c143df1212f10ac92",
+      "git_blob_sha": "49cd3c4afa79e5fa96ed68714c4728dcef685335"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0011/result.csv",
+      "bytes": 1347,
+      "sha256": "adefcebd461350274c660b724d8c89a28836a6631e2ef7dac7567f4d707dbf15",
+      "git_blob_sha": "30e1aeab3c5ba47d081dae54dc0e1e871da4f60a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0011/result.json",
+      "bytes": 2077,
+      "sha256": "70ebc4dc2a67f453c8d7cbb494a9938f8a834d2fa5a4728af7a1224789ca05c2",
+      "git_blob_sha": "57302ef1c4a188fadd99ecdebd0c08d59e612eec"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0012/config_resolved.json",
+      "bytes": 1094,
+      "sha256": "ce2ac1c7f84875a54ceac265ae3fa2682ba689a856d8ee496fd8ddaf06ed01f4",
+      "git_blob_sha": "e2facaa038397db80aab6c433672268472e32b9a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0012/result.csv",
+      "bytes": 1356,
+      "sha256": "8d3246dbc961871b467c7c21631e10a0d1d4b421f5456bd31a3e0d30ca2c9ffd",
+      "git_blob_sha": "fa7c7b8da98ee6af4e272b66d8de605ba473d98f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0012/result.json",
+      "bytes": 2086,
+      "sha256": "a34c112735c1974cadd181a374979f447e1e1417f110a4b6e43061a15223a259",
+      "git_blob_sha": "909ac22dd09819167e2628bdd077ebcaedcf4e15"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0013/config_resolved.json",
+      "bytes": 1057,
+      "sha256": "14e7fd3a8625c98935f0e87a2c7809b4867ead0e9d43a7e7a6ff5c3abb023170",
+      "git_blob_sha": "fd7b764a73d728c2d324f57300b16fd13f415811"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0013/result.csv",
+      "bytes": 1346,
+      "sha256": "9f59106604df885924f1e0574b4c4be24554b18c3ccb530cb16bb334cbea741c",
+      "git_blob_sha": "8e58d345c530a58278df7666737768f9d43fd6c8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0013/result.json",
+      "bytes": 2060,
+      "sha256": "146f99ffaafb8246b82b281d7c02c62f081802610fdde3e5421daac2a1368876",
+      "git_blob_sha": "f33f69de64a7aa24b7d4b58a510dbdb9779033c9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0014/config_resolved.json",
+      "bytes": 1060,
+      "sha256": "f084cdae7c5f3640e2ebfc31dd8dc08507863851ff2a9ab51fc33e7609edcc3a",
+      "git_blob_sha": "a4b8ef81e406c973c14045ec09d95899aa5bbcf2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0014/result.csv",
+      "bytes": 1364,
+      "sha256": "079c42ce9d190dc98119149df89aec553054a4b66e93934b52307fdd34bed9fc",
+      "git_blob_sha": "e9fc1b6e748ece1f92a150200c781c111dbc0523"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0014/result.json",
+      "bytes": 2096,
+      "sha256": "ce085e806764e57ad5cf163f7006d20231a30184785ec19ae28269d86adcfe50",
+      "git_blob_sha": "425847aa8e63bcfb6162185cdff1df7fb986ad26"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0015/config_resolved.json",
+      "bytes": 1060,
+      "sha256": "1e4270865a1d2e9ff00a20b5b531a1ad45a9a6288d23983d1610167a848253a5",
+      "git_blob_sha": "ca936c8358d90e9becd0ff78766846da63588dbb"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0015/result.csv",
+      "bytes": 1362,
+      "sha256": "f777b6f5d6198dd3b79ca7f8eca19b58989e41b082bc104316bdbe145b89801b",
+      "git_blob_sha": "c991a0c62a73e685fa2c07dd3b3ad2f2f7cdf366"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0015/result.json",
+      "bytes": 2091,
+      "sha256": "963d0175d7db882fc9bf054f57346c6808568175d63437cd2ba356d19bcfed60",
+      "git_blob_sha": "8f78e4f5ff0373be393cc1b0e49ad037c7d19e0a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0016/config_resolved.json",
+      "bytes": 1090,
+      "sha256": "471f377a63f7d0982c69d8d433f779217ed331d099829457d429119194e4c700",
+      "git_blob_sha": "c4ebf3e22c58aa73db85794f6fe9ad0dee17102b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0016/result.csv",
+      "bytes": 1355,
+      "sha256": "55acd2ab904f889dc4ba2d05746e6986debd201e58163c3fdad079c2e56df854",
+      "git_blob_sha": "5a3d325e872045e26dbefe545bb8598ad8a39c28"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0016/result.json",
+      "bytes": 2070,
+      "sha256": "19a1c279fd0a941f32287ca443316d881956da063110002a6804f3ee6138160c",
+      "git_blob_sha": "17204c92030ea93a61fc952af698df0dc1708d50"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0017/config_resolved.json",
+      "bytes": 1093,
+      "sha256": "9d9555c22d2e8e5d0d571d9d0d39a2e7a233dee0b23ab1ea01332b597e8d363c",
+      "git_blob_sha": "485e75ebd1508c915254a998e3119e6bdc5fa2d8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0017/result.csv",
+      "bytes": 1315,
+      "sha256": "e135d84ace13937285a82adbcbd1d086c2f6f9ef85f6e083d43096773ae083b4",
+      "git_blob_sha": "ba191d53e93fc835f8b91fc5020c9fae47088a33"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0017/result.json",
+      "bytes": 2028,
+      "sha256": "f0c14dd1c8507824bf7061f23b095c8eda03a474010f865923217b0f6e408238",
+      "git_blob_sha": "a410e6608b813da2ce3be7b17bac2d380cb1fd28"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0018/config_resolved.json",
+      "bytes": 1093,
+      "sha256": "7a1a5f2053fe56388f30d2a3372eed29437df52b5489e5442e2ae0f161cff05d",
+      "git_blob_sha": "29daeca8ee10e0e7d0e54d0400119b650e665047"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0018/result.csv",
+      "bytes": 1350,
+      "sha256": "0035d41427a08a2b62e40d748b41d8c3fc4129d473ee72b2891ea3f241618f5d",
+      "git_blob_sha": "75b350d7172e5f1890cfff5037cb418d2409a649"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/PartC_pair_0018/result.json",
+      "bytes": 2079,
+      "sha256": "4f6531a47b017f1b4feb0d8480409db45a9af5502ab9afd31eacb015b529d5a4",
+      "git_blob_sha": "7284713eecfc1582f58d597b67003cc12f55fcc8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/per_pair.csv",
+      "bytes": 14227,
+      "sha256": "0ffbc33c253310f35ef9104fc1cceb1147616bddef0cd0484194e0253a329b97",
+      "git_blob_sha": "04a30cf456be13aebc2a0e931f65c4e79c3a3270"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/per_pair.json",
+      "bytes": 46993,
+      "sha256": "9c73fc61f0dcfdc174d4a6c133339d127650061433e9097059bfb6acb0bdae56",
+      "git_blob_sha": "71e0970f380840d4ce9fdea51e33c15d9d64507f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/provenance.json",
+      "bytes": 1212,
+      "sha256": "f5352334afadeda5afc4d0b4140b2a79d53c364147412fe312ae07e8da20662b",
+      "git_blob_sha": "1374fc29c5e69f8f6214366fcd468336be3f156e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/runs/summary.json",
+      "bytes": 6633,
+      "sha256": "f5ac0aecc72766c47cbd6e87844156699b0b2046c042175149d7c819ac6502f6",
+      "git_blob_sha": "f9a9b4ab8bb320db56dcf64e3f62e2462f11efe8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/consistency_evaluation/verification.json",
+      "bytes": 503,
+      "sha256": "e9918c7c889efcf42ef19ebbf303707f094358275c5d0c7358c1fbac85c76ece",
+      "git_blob_sha": "731989cf9f20d14e4fd4362d4ca942a1c3edb5f2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/annotations_used.json",
+      "bytes": 23338,
+      "sha256": "9c0e6b8b31c89c55324d58ccb3003e43d750c3e05a17e90771593b714ff0d039",
+      "git_blob_sha": "20189bb5ddf2970ab6833396d0f26f4b6c4a350a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0001/config_resolved.json",
+      "bytes": 1050,
+      "sha256": "a95eb56c503869c0e62bc18d917fe9b63909b0c7090428c34319e0c5b7f400a1",
+      "git_blob_sha": "3e0e311816b4305129c6e683001a446e20b7658c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0001/result.csv",
+      "bytes": 982,
+      "sha256": "03697164f365cb3e12a5263e9c72e01a065d2aa677b5bdbb491dd3ba5b38485f",
+      "git_blob_sha": "d1f05204414b9be169e571480599412d3ce5cd03"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0001/result.json",
+      "bytes": 1261,
+      "sha256": "08c24ac8363735006ee98685bef5ddfb80c0825c57da43c6d795a38b211083ac",
+      "git_blob_sha": "a1ae5164165f7efbf53c813c2ca0fc59b504bced"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0002/config_resolved.json",
+      "bytes": 1051,
+      "sha256": "4669cec5684577a3a0c7399b25cf730d501486366b744e85115d5b4c05e591c4",
+      "git_blob_sha": "e1ab3855d307d54813e4121cf47496531b151d96"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0002/result.csv",
+      "bytes": 982,
+      "sha256": "325f015db5c6fd0cc4753e55f52578742b22e28a27826ea7cfefa1bae338a397",
+      "git_blob_sha": "635a6d4ebdc1a1c6fbdad1ceae35d5084919f574"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0002/result.json",
+      "bytes": 1261,
+      "sha256": "67122a8aad3a8b01b67f18a2a3bde6392a48576f12ceaecfbd94acbc0f5c0c21",
+      "git_blob_sha": "93b3cff7a4dd58287c0756911219ebd86e1398a1"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0003/config_resolved.json",
+      "bytes": 1051,
+      "sha256": "798ce8eca2c41c3e50d18a668d397de0d555305330ef6bdadea4f14a352c471a",
+      "git_blob_sha": "813d5796dab51c2ccc06f19382930c58e1159187"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0003/result.csv",
+      "bytes": 982,
+      "sha256": "8346a198d77121cb2aa26698347c2f44afac787b852e77834f4d5a626e50c3bb",
+      "git_blob_sha": "949b7a6ff856dab9bde725fb6c47472219969408"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0003/result.json",
+      "bytes": 1261,
+      "sha256": "0f6c868d80e4fff3563090df3783120c05a6bf688bf1a44da55d3e0d800dae99",
+      "git_blob_sha": "438d270cf32ac95e7295ab5f3d013f8f137e9a38"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0004/config_resolved.json",
+      "bytes": 1051,
+      "sha256": "4843cb21ecf3572c5fa9bffbb3c11c423d20b5091b07aad8af66a720816b1d7d",
+      "git_blob_sha": "142e6bca004d2599eae4bc2a1984ae4e0556f834"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0004/result.csv",
+      "bytes": 981,
+      "sha256": "0f1629329e1881752c74fe3252c4ed0606bc9fae45e9adea751c583ef8785a52",
+      "git_blob_sha": "c24382fc4dc7d31eec46b3076de18ba2d4bcd7ee"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0004/result.json",
+      "bytes": 1260,
+      "sha256": "efb92b4d561ebc75e69e3aa9f909831fe365a6269b3d6dccfe2b35cdc4448568",
+      "git_blob_sha": "a405eb6500b323a1900a3ce5bc7195770c6c638a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0005/config_resolved.json",
+      "bytes": 1051,
+      "sha256": "12c456d8dcd66878fdb4be9024256f12e5cb7d24b2f2521f6002c51c51984c41",
+      "git_blob_sha": "44bf9d6aa319ba70de0469f484b2cffb86a6b7b2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0005/result.csv",
+      "bytes": 981,
+      "sha256": "a3cd0862951f5f6577ad53c912191866568b181e5b4b213e1b76b263bd087764",
+      "git_blob_sha": "4ee97bbb8706c9316f5fb6d0bf632c73848e7358"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0005/result.json",
+      "bytes": 1260,
+      "sha256": "222801fc62ee9acb2d312e5aec6c0beca546439bfb8bb69a59b380de0f48d14e",
+      "git_blob_sha": "8ffedd242e5325946b92b0d642558d8aacaef632"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0006/config_resolved.json",
+      "bytes": 1047,
+      "sha256": "61b8c3dacb120d0347b255254846d84f9305853295f7ea61ffb882dd1afde4bf",
+      "git_blob_sha": "90dc8653d1461c1b0db49d9a83abc0c6c861ebbd"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0006/result.csv",
+      "bytes": 973,
+      "sha256": "6cd6909e7de43f5323ae2d740d8bb7882a635b01026c08d520893c20bcbb4ed2",
+      "git_blob_sha": "53d6af013b52d19ed584b4f6b961528d621bc553"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0006/result.json",
+      "bytes": 1252,
+      "sha256": "9004a1b6c42c7c2d092fa263f0f8a3aabbbc31b5e15fcad362f7e79b1a0da03e",
+      "git_blob_sha": "1825669d1d5075e378d43297395014d3fd113472"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0007/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "dab38b6249ba87c96827c8f92bd2efc24cdea1413e6c33465123973eb64da13a",
+      "git_blob_sha": "8040f3a531073ff383926bcff489584827772598"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0007/result.csv",
+      "bytes": 973,
+      "sha256": "d5857e48e3fa70e1dd6dd128297a78ac48021164fc9a632f5d4491fe4e70ea24",
+      "git_blob_sha": "5c8c4f75f5bdc7b360c445b9c2756462f731e8a7"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0007/result.json",
+      "bytes": 1252,
+      "sha256": "9dbd2aa47aa3fd38193c89758ea9e3cbbcffad6b4a50cebf38d1d1f3a5850ae9",
+      "git_blob_sha": "af0c71f3a044142405430fdd757e14e362098fc3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0008/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "0812b3b04e67073e9530503757b7e763ab96f8d2fc0b9fb0107e21b8b4c99035",
+      "git_blob_sha": "5d2bfc9cff317f7091115cb28240422eae7af33f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0008/result.csv",
+      "bytes": 974,
+      "sha256": "134c8c2ed86fcf5b0325b24b42b55f8b17497c72d735809161b94e715dec9a9d",
+      "git_blob_sha": "0ce1176636b32064ca52d3c2b95965178d69afb1"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0008/result.json",
+      "bytes": 1253,
+      "sha256": "91624bf90c7398c99498937e3d79a2c1bcbdd66de1f98d20f0b625c25afef71f",
+      "git_blob_sha": "8b31e1eeda758a59fef221128d3d94f255485ba6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0009/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "bf567dfa708b98253bfdc57ba3de555530b74fa308db130750cfc4921b893cbe",
+      "git_blob_sha": "f363dc9d4bc113568c9d1f14d8ddcd461940d608"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0009/result.csv",
+      "bytes": 977,
+      "sha256": "dfd11b4cb5f317b2a8de0698f0834c0ef2bebd8158bbfca386e3a454d96b1f78",
+      "git_blob_sha": "3674aff58fecce8e81ee9de13c1a14a39cd65cff"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0009/result.json",
+      "bytes": 1256,
+      "sha256": "5a3e542a209dd1a8146be1850fd2defb64cbb8d198373317b54bc7793fdb21fa",
+      "git_blob_sha": "8e36ba1ae67d76dfb00418575feca1b9a8aa52f8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0010/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "a75b69171cf7f5f3544042a8eb2b153bdaac330722279a60d8387baf4b60e143",
+      "git_blob_sha": "2d9f91ac01e5ab738e2b2cbedaaf340894d73c19"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0010/result.csv",
+      "bytes": 972,
+      "sha256": "fa0233100a448614d53d84ac5aca7aa14c0e9f37b8dd40b204e225ae7881b685",
+      "git_blob_sha": "27c2181211139063c1833912046cfb3f6f014c04"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0010/result.json",
+      "bytes": 1251,
+      "sha256": "d519f4cf6313022b7250fc91ee863ffcf2292c2f8a8f679286bb421e90d06a36",
+      "git_blob_sha": "90921b4700090aed33898d87e3739d4d366c4084"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0011/config_resolved.json",
+      "bytes": 1048,
+      "sha256": "b1bb601e8acec65c8b7652c91d884b1313ed49c3e386b5e7b308dd8abe27b38b",
+      "git_blob_sha": "bf523c5c8689bf0030f34680438782f08919caa7"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0011/result.csv",
+      "bytes": 973,
+      "sha256": "cd5b6c8c3d9ba387d309b0768b877607ac3ef2909fc33864fd57ab042fe4f7d8",
+      "git_blob_sha": "e2e8a1fa3aaeb11c6474533415369e3133b322ac"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0011/result.json",
+      "bytes": 1252,
+      "sha256": "ddb32c6c341b10eb261fe897f94d82d6be7b7db6974672501095ce6e913a2fc5",
+      "git_blob_sha": "b37635dcee248bc4a46ea75316b0d6105f4feca5"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0012/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "83b21160dc7a2273bd7e0317ad7f08c5be04841e5605c8aefc732108aef4a87e",
+      "git_blob_sha": "9a43d5837b893a4db966e6cee21859247689d81b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0012/result.csv",
+      "bytes": 976,
+      "sha256": "61677198cdb520425e42dbe99914568de2e59f3c5f4e069fd4581c8ef8f2a9e5",
+      "git_blob_sha": "129966241928a6437e9d75295fad513356f219d8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0012/result.json",
+      "bytes": 1255,
+      "sha256": "a6792fa3bf342a59831bd065696b0adf992363dace64c40816fb31646862cbca",
+      "git_blob_sha": "2c07b76a2b9b81db2756feb467728490f7030477"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0013/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "9bc5201e17536a19deb9d21c9b48bc92e8b6b0e1dfc70c1a92ab1aa79ca822d2",
+      "git_blob_sha": "f6b6429282202247f1a445ec04b3f4dfbacf42f4"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0013/result.csv",
+      "bytes": 974,
+      "sha256": "5f175d87919bee9021431b0bc12c58fc3c57e7b161a5c8c77156202a4c2d2ca3",
+      "git_blob_sha": "9cb2a7efe7947c8f288ed5f652c8f11f272dc36e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0013/result.json",
+      "bytes": 1253,
+      "sha256": "1dcecfb846b739b8dca4f33197fd7d2dcfd5babf390f2fe65891a25e0e94f633",
+      "git_blob_sha": "882ebeb15d7b89dadc669a4da7acc2e1bd82fe44"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0014/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "b5ac18b42aa4af3ec054b8231364cfd32a22a663ebb4dae30fde23385bb9f781",
+      "git_blob_sha": "e59ef4c2fc7e0fc7f54d3fe38868389f5b1a3568"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0014/result.csv",
+      "bytes": 974,
+      "sha256": "e7e189691905c2159b7f8197b6fcc13402985926e5e5bda2567177fbd73edd78",
+      "git_blob_sha": "9ecb7f79431b564c5c3c30e1d185cb60750614f2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0014/result.json",
+      "bytes": 1253,
+      "sha256": "43577417cccf1f63ebdc9e0723f550de341a011e9714b3702b7f64755ea7fba6",
+      "git_blob_sha": "38186dafc3cd37c05c65bd2338b43d09592a02f2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0015/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "f4157c267a8f28fe79d016fa509ad120970c8b57a974aecee3f987f6134c4b09",
+      "git_blob_sha": "ca53589d53fbe10abd685375a215af157335bd18"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0015/result.csv",
+      "bytes": 976,
+      "sha256": "c20375941d23d14f7a464f517948a19d167f02a734cc769ded5dd51de1c4e822",
+      "git_blob_sha": "12fd50d3b03c209d2c43c0f5e16872f091c7d176"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0015/result.json",
+      "bytes": 1255,
+      "sha256": "3a3b942bdfe9d58db095f8ae653f4d683ee0b9296cb520f378c0ae2a414299bc",
+      "git_blob_sha": "41240b69477346a93dedc8d227deb71d1514040f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0016/config_resolved.json",
+      "bytes": 1046,
+      "sha256": "6d248dca6831bfa77416113a48e13ff879dde152945ee6ee64bbbdf97dcd39c2",
+      "git_blob_sha": "a671c89d82dfa4a999a0e6a57e4a360119747f3c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0016/result.csv",
+      "bytes": 967,
+      "sha256": "fb4ba56bde5df66d020f6582098adc62d36c3105f6996ee2405323e1d7fbe1b6",
+      "git_blob_sha": "a9c11131bf86d87536fd8984de47594c7c859d18"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0016/result.json",
+      "bytes": 1246,
+      "sha256": "a45f1f6d550021297570f0ee85b6e4524bd9db762f8ec53b5b7b87f14cc80dc1",
+      "git_blob_sha": "f975c863da580cf8218711eaf54972043cdf2f15"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0017/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "f8b07f2e3d385944c02e2b9e393cae1fd3bb6ebb931ee004622b601c7468c9a9",
+      "git_blob_sha": "8eed40876fae073d17e0f707d98733f0531d40da"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0017/result.csv",
+      "bytes": 955,
+      "sha256": "425179147341d0582effb75cd963aae128ff58681ea673bc29c89ef2e6d68d24",
+      "git_blob_sha": "7c6b9d171e72e64876c444dcf4d1edc9acd9b90b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0017/result.json",
+      "bytes": 1234,
+      "sha256": "d612a586f5a5b6193bc914a0982f33fbfb53121eb8c059c0483fa0d8e73e5734",
+      "git_blob_sha": "b1bccb33ca76d3cd84eb437e082e89e31d546e07"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0018/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "babfdf1f9dd6b0d01a69f9ca940621041d832f596a2a11f239e9f66216cd4e1e",
+      "git_blob_sha": "0e1f0918dde5d421fb0015ca21556a147adc95c0"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0018/result.csv",
+      "bytes": 970,
+      "sha256": "4fb1e7a6e59bfb913bc8fa96a8d9cb976cddacfdfefdaabb57175fa8fedef258",
+      "git_blob_sha": "5e01f1bacb074db3eb019a5444acae281fd5b5bf"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0018/result.json",
+      "bytes": 1249,
+      "sha256": "1d4eff15154ae38736b7028a389b67891d670bdaee480f0c51c6cdf970b1ca82",
+      "git_blob_sha": "8ad5d0a503198b8d3f4cadd2da0ef519af1e1a81"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0019/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "8a08f2504b812d7711c0d0fbc9f538a6b10f4ae7b1b9b69a34fa754854ae0923",
+      "git_blob_sha": "a804330a3580f32473e381a07c51f4f1ed85344f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0019/result.csv",
+      "bytes": 959,
+      "sha256": "34649e837451524549b928e0c4509b21574390cc03bb03debbf13e60e4ca81f2",
+      "git_blob_sha": "0711aaa9f165b6e981f36a07fab6e12f83e5a389"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0019/result.json",
+      "bytes": 1238,
+      "sha256": "386a519b2952734e749852e76656d946cdf518453d2f69bb85018d6721c0327c",
+      "git_blob_sha": "5830486a1fed2703c5f7a6184b7ee368db719c0e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0020/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "601cc2ae9269352248e98a6b3ac7e2d148a6303a09b8ea601ee02d1997a78832",
+      "git_blob_sha": "407d1d535f6fa90ddc7813e995763ea7ed469d5e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0020/result.csv",
+      "bytes": 971,
+      "sha256": "31e0e616e9fce14dd35cd5831651d898597dff88ad784e2ebf0e5aadec8ed147",
+      "git_blob_sha": "d761f466b30dc8530bbcf7e6db886de8b712ea58"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0020/result.json",
+      "bytes": 1250,
+      "sha256": "76871d202921335b4e156301c91a5f9cb7760ee2a08f581cf358bea39a807ed4",
+      "git_blob_sha": "8b73d17f395f137f3a0055d2326bf6e255a3e190"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0021/config_resolved.json",
+      "bytes": 1046,
+      "sha256": "9b4b7320d104cfe84bf2df67ca436a423f821f5a746235b1e4e971bda00f6caa",
+      "git_blob_sha": "88178824464b70560f532dbc5b1229554a89bff3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0021/result.csv",
+      "bytes": 969,
+      "sha256": "aaa036f0311358df165549ecd2e394bcc1f97ef369a0e8dc5473390509e3b635",
+      "git_blob_sha": "00b157aed88f74bb65c4a410292de6c5f48f43c2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0021/result.json",
+      "bytes": 1248,
+      "sha256": "168a79376fb91ebe31d7cd38287920492d6bb335eb30930874b4ac81faa52399",
+      "git_blob_sha": "9057161ee3f308761d8cd19030e37815795790d5"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0022/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "088c78c9e0c516f6f9faad451d8b08782083912545754a5deb37455701ad17f7",
+      "git_blob_sha": "ed94c3f69109fcacdff3026c521b4eb7b8126267"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0022/result.csv",
+      "bytes": 950,
+      "sha256": "bb50a14f6f5da4f9c9b476803292001c490a9612dc3bd4e5ae9cc8d80563f780",
+      "git_blob_sha": "c8ab59b13bf054a3ab2cbbff6c826af2badb0e8b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0022/result.json",
+      "bytes": 1229,
+      "sha256": "cbd42d607796f1f094f9bddf3b7e936afb1c278541b65d7313dd89ee6f5fa441",
+      "git_blob_sha": "5495c7a4f410c0e1bded01068a83009c090e51c6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0023/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "661abb9cda4392f73b42a55973f8b1e3ff3da4252daadd2a8e951eb7240b1114",
+      "git_blob_sha": "9ae1e010b8ffc8f01ef38bd41e85831b5c13d988"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0023/result.csv",
+      "bytes": 967,
+      "sha256": "f9c2cc604ecdfd687b7fb2fa7e9633f26ad0bb80c5eb8176a03a0142de025dc3",
+      "git_blob_sha": "61476f96e041266c11390d165acb1d1b90d98f77"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0023/result.json",
+      "bytes": 1246,
+      "sha256": "2e5fa46e84a6ec850116c6c47d258d73a2cf3b01f3303f0e22c8a809a30193ac",
+      "git_blob_sha": "6d95a155ab195e39c225ee8d951494540c0516f1"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0024/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "22a7f8da4451c444bd079c1e1d583d0c0f5de0426b36c9fe077fb0203190c9b5",
+      "git_blob_sha": "2bec7543c3e0a06dbec5061360b103f594964438"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0024/result.csv",
+      "bytes": 970,
+      "sha256": "9fc01d8924ab985571868a3cccb6794e01700015c6913c5a38b525bdec62f0ca",
+      "git_blob_sha": "9effb630b46a81cc482ff7b4316c1ddfe70490dc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0024/result.json",
+      "bytes": 1249,
+      "sha256": "190c9fb79cfcb48655aea62c20a3ad563b48e203c0acd197c3a70c66aefa7e47",
+      "git_blob_sha": "df99819c0ebd99d44fea28c67ac884f5bf22025f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0025/config_resolved.json",
+      "bytes": 1049,
+      "sha256": "217798b21a561a2b662bf23ef4574274e029d9725fc1a40964996d5f82779abf",
+      "git_blob_sha": "798f84b4536847fd29d7f4001dae126ab6db6d05"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0025/result.csv",
+      "bytes": 970,
+      "sha256": "8fe98eb920d80926bd8eabc79003023af3a4f9bb6a64fad67380163eeec2fadb",
+      "git_blob_sha": "316f668b01d7357680e7b9bd36c0b7cdb9362500"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartB_pair_0025/result.json",
+      "bytes": 1249,
+      "sha256": "77d814f059bbfebe5d516810870f37315ae773c14b1577c935d1f200048bac61",
+      "git_blob_sha": "bb927293be5a52aa0681a570d80ef4305de953c5"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0001/config_resolved.json",
+      "bytes": 986,
+      "sha256": "a4fc2ca56d1ebd937f44ef8c5e0d03bcb57b19f3a69029ba159d0031c1a2560f",
+      "git_blob_sha": "c2c9e5950bb69b3f1699df9be5fa2c661226ae30"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0001/result.csv",
+      "bytes": 974,
+      "sha256": "db4f062ac2bf0ab6f7cad113e0f7ad7f9c97bc11cdc5c8c290e59d283ec0279f",
+      "git_blob_sha": "c2ee8afa4c5d889fb7d1a4f69d498cff5d883b82"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0001/result.json",
+      "bytes": 1253,
+      "sha256": "2ac4b64eedb73371c2a15ab2040a40caa5136f8f5b37824c292718df81dfdfa5",
+      "git_blob_sha": "64bd861603a5a3d1f7aeddc95f2ae40b80a79b96"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0002/config_resolved.json",
+      "bytes": 989,
+      "sha256": "516d735b1ef4cc5c285f2092d1a615840b8d80573049f737243aa9d64cd6bbdf",
+      "git_blob_sha": "5ecbb26e3f6f2e5c2912cad3529560350651b786"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0002/result.csv",
+      "bytes": 971,
+      "sha256": "3b759b098153d72862563eb3219aa2251ed60d5c595c9d0b716281363ad03f50",
+      "git_blob_sha": "ea1db7992ba2ebf6d4c68f7ad2a6e9875149d747"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0002/result.json",
+      "bytes": 1250,
+      "sha256": "4fb29d82af49390a0df4086f7a23136861e0b7275b1a4cbd619e89827371ffe6",
+      "git_blob_sha": "dd67c32f1c51daec70a3f7d85f6d13dda55d2694"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0003/config_resolved.json",
+      "bytes": 989,
+      "sha256": "f6d25bf3556b497832efa21a7eaa1e3741a2af36da0d83d7938fbc310226ae14",
+      "git_blob_sha": "2300642e690e1b84c551b39b6ac64b061ae7ee79"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0003/result.csv",
+      "bytes": 978,
+      "sha256": "0d030bf49a11c2b148166ebc46cdbc1ee2166aea155682229011173fc7fd9bba",
+      "git_blob_sha": "b93ceb3a8b49459e5f1d40aea3cf28e6b0371a9d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0003/result.json",
+      "bytes": 1257,
+      "sha256": "177dca19b8fa77f7583fccaa4e28aae8933ede71317b58bde1261138b79be4a7",
+      "git_blob_sha": "3b108569b278d6225966d6c104816ae5c5d70e64"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0004/config_resolved.json",
+      "bytes": 1018,
+      "sha256": "ee04b50ab15767523c993878a162b7219022d46e6eea01d59ab95c21c9c104dd",
+      "git_blob_sha": "67440009bfc51c26282295dbb38bfb582dcb8294"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0004/result.csv",
+      "bytes": 962,
+      "sha256": "6d8b4533aa436e3dcd2878acded79718a4f2f3e69d9fdc3b2241329553d88a5c",
+      "git_blob_sha": "d00981ff534b0bc97e14973853a1f0651ac9c698"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0004/result.json",
+      "bytes": 1241,
+      "sha256": "ffddc0279b5ad095992907590bc3930cea038093f439e8fe6c6b8bf0bcf7acf0",
+      "git_blob_sha": "1ef0e24997e9c201cd18a10db27861173a3ff176"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0005/config_resolved.json",
+      "bytes": 1021,
+      "sha256": "578aa9048159ba1c67c4ee4db6f61149fb378c13f9ba47cb4e6ac4fd97fe5409",
+      "git_blob_sha": "3005eed6cd1b6d9023db08f2ed9eb1fabc72c5ab"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0005/result.csv",
+      "bytes": 965,
+      "sha256": "5f650a15c6f75b2d7a8664901897fbf5ba54c4fbfe101579da64856f19ccab70",
+      "git_blob_sha": "558616928a2a16b6a12aedeb123f3180b959fa01"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0005/result.json",
+      "bytes": 1244,
+      "sha256": "8a557f9d2c1fc10bfb893f053ea4deb6dd9a32f800d38d8c0359547d086c6a32",
+      "git_blob_sha": "d43bb9009553539bd6164377e85ab1a46ab5fc71"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0006/config_resolved.json",
+      "bytes": 1021,
+      "sha256": "fde77762dcaaf66c367b56ec896e5a280b2ffe07ee47b81f490bce39dae2e544",
+      "git_blob_sha": "d8ed8be487e5d1ef5f9d34fb88e0e60245f66f00"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0006/result.csv",
+      "bytes": 969,
+      "sha256": "ce64431e37ba0111f7a24854fbe8068dbfa7e16425a5d69a3334bd98ac3ea2e9",
+      "git_blob_sha": "cfd5b6b6ab3d94ba4ae65721283e7e2172284697"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0006/result.json",
+      "bytes": 1248,
+      "sha256": "4d497f47ec3c2210360e90428c3dd5d5d161aedada73028348e129b9e51d8276",
+      "git_blob_sha": "5a4601918c8e65eddd67d43d6b0b9f04cfe913bd"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0007/config_resolved.json",
+      "bytes": 986,
+      "sha256": "8b93f99fe5b55fda039df3967dfbbc1c8f42f1811b4d9a3a0b50284c1ff20df9",
+      "git_blob_sha": "db87dd5803a81ce4b3b2b1a02fcb05419b8de577"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0007/result.csv",
+      "bytes": 972,
+      "sha256": "7e2c278f5687fa38d32ea2dfed61036eec3f0d34025c713485ede52372cd4619",
+      "git_blob_sha": "b5b3333ec86f10f500a2f517153747f31f581e16"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0007/result.json",
+      "bytes": 1251,
+      "sha256": "a375b93b8ef63c260df037af9f42057b0b4e95aa941baa4a4aa6207edaaff67a",
+      "git_blob_sha": "6648b2079003f55b052ed6f9a01cb3a1be26960c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0008/config_resolved.json",
+      "bytes": 989,
+      "sha256": "b7dc13b7567065445050271cb3decccefee0e7cfb9382834edbc6eb82bd05f70",
+      "git_blob_sha": "2b6c09eb8f7930f12eb5ab4f67083e5c55e59ce5"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0008/result.csv",
+      "bytes": 972,
+      "sha256": "020005f380fde48a870deb0039800882c038eb34b54c7dfb358c37cd91f681fa",
+      "git_blob_sha": "9fe06b168f4bf60ae58393c13c7d97cb080111cc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0008/result.json",
+      "bytes": 1251,
+      "sha256": "d3427709cffa771264724a5988d1960f7befe2eb6745cae4a9f4df9419a6bf73",
+      "git_blob_sha": "17f50133631a3284a702572caea6d2a894396d34"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0009/config_resolved.json",
+      "bytes": 989,
+      "sha256": "aab1db4b267a3edc7f44e7e6761ca1634b484420ff22dd20020dfff3f092bf6a",
+      "git_blob_sha": "64c64c277a5b13dbd463c9f314e182386d93514c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0009/result.csv",
+      "bytes": 972,
+      "sha256": "1f68295bb16d290e61e8b1838dae6593d2bf4f0da1142706f7628901ff33086d",
+      "git_blob_sha": "dc44e265831e48071a8cfd341ca21576c0a01cd3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0009/result.json",
+      "bytes": 1251,
+      "sha256": "ceec4abf9e4f4e3d8a14a49c1359318f06f64595d3a10a3f4ffee3c6e3c1fe9a",
+      "git_blob_sha": "1ebbb629979c42495c450d3052d6662f0f72c4ec"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0010/config_resolved.json",
+      "bytes": 1019,
+      "sha256": "da8e20b53b4c853f33b2e642e7e20a51d9e71db40e69fefbe88261c6f8ede65f",
+      "git_blob_sha": "00e4b2153a9cb60b9d7fed98f4838b537028601c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0010/result.csv",
+      "bytes": 965,
+      "sha256": "b65625fa143bfeffe3431c552f14f99796de4a36da7998b3382afb1407c2227a",
+      "git_blob_sha": "cfa6820c417c532178f2702639e75a625959f9a0"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0010/result.json",
+      "bytes": 1244,
+      "sha256": "1b679f0f38816c96acbe6d7d83d2d85c95f856c4ab6ca299d2a154cea8a548c0",
+      "git_blob_sha": "2366afe72cfdbd6bf6a7defbd7b75ecbe13e70be"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0011/config_resolved.json",
+      "bytes": 1022,
+      "sha256": "8e6e06af706fd0e64f6a4781b6d588a007eaf7c7f057cbc4e082ec40c0a384c7",
+      "git_blob_sha": "765b02e0dd180c2fd676ac72d827d36c9545f119"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0011/result.csv",
+      "bytes": 972,
+      "sha256": "7bb3b6c5eee3e7d2a591da39bd67dc2087a98e5ee6ad8650e621865849d1cff7",
+      "git_blob_sha": "25f37042b485d99f100ed30cfdfe83d01a6533d7"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0011/result.json",
+      "bytes": 1251,
+      "sha256": "498e3798fd94ff66a70f111fcce716a9be960f23480701aa53ed30aa0959bf57",
+      "git_blob_sha": "e5eaaebf742b004c2eceb093e7c13313c9812d54"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0012/config_resolved.json",
+      "bytes": 1022,
+      "sha256": "3f8188a3350d19e2689d8cc5eb983c736dc0ef676906490dc7a24d2381a48bb1",
+      "git_blob_sha": "b1a45d6019cab9dcc0bd32d0aa9742c5e9b7a0cc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0012/result.csv",
+      "bytes": 970,
+      "sha256": "9cca5b4a8fbb5f00700fe11569e6e40ef5fa09d09d81ad7d275bc0029135e6aa",
+      "git_blob_sha": "2f4a3b480cfa3f42c1ec0bd663ad667b8a7ab789"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0012/result.json",
+      "bytes": 1249,
+      "sha256": "8f269d36594dd2d9b472d2e17712e3e9c3fd0e3efacb3c28ae40470731f570a4",
+      "git_blob_sha": "71063db1c66783d2948e5af5f74697ab6f1da66f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0013/config_resolved.json",
+      "bytes": 985,
+      "sha256": "1d43922c08631ded7b43edd6c8a47e522370f5044cd5d23378e4652b9d6e6a42",
+      "git_blob_sha": "aac9fe60a3e4c2d3ace4158b9c22eb8db44e2cc1"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0013/result.csv",
+      "bytes": 952,
+      "sha256": "1013303844bc5e9ed52333635a376e250bd7a5ccda5c980ad3ced17f5c37eebe",
+      "git_blob_sha": "9edf930c4f37d6ca73e334816e1de60b997a54c1"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0013/result.json",
+      "bytes": 1231,
+      "sha256": "2fd1848740b0c96c1ca95701b86be2f8f9608d28cc63885e4ac40ed85a579b57",
+      "git_blob_sha": "65d008ac76494dac5e8bd0403770aa2675f6c1fd"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0014/config_resolved.json",
+      "bytes": 988,
+      "sha256": "c057391adeb8890f7a97c2b0dc22fd0ddfbe4e7acaff10727070f88ec55a7c25",
+      "git_blob_sha": "629d5008b6e9fe36492d81103b0916279923365c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0014/result.csv",
+      "bytes": 973,
+      "sha256": "d26e1b18a1e226263281a2064431f4ba0c47f92dfc6dbf6ebdfbde1f4b1d8c88",
+      "git_blob_sha": "6e34da2505464aacfc67f929211ed8ad83c31ee6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0014/result.json",
+      "bytes": 1252,
+      "sha256": "e977eb487831422a3e7d7d6f331e34d586a5e778032c2ea33b7821a32b4e5285",
+      "git_blob_sha": "66aca3ad700d99d326f43e854d6a52fe0d220465"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0015/config_resolved.json",
+      "bytes": 988,
+      "sha256": "f70ecb23f57416dde866271bb21b6fd6b6adaa32185c7da969edc052076d251d",
+      "git_blob_sha": "4bd4c43bfd14740cb122a64af24cde83164f928e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0015/result.csv",
+      "bytes": 974,
+      "sha256": "215f9e383c49315abfdb7bf4179db4b660bbb6ded23ed360cb4cc8f9cdb33e18",
+      "git_blob_sha": "5a86bf55274d75aef3ebd31aaf66b86eb65260bc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0015/result.json",
+      "bytes": 1253,
+      "sha256": "92525d8009a89f57f999c0bceed1857a276093c8cbb59228b4fb83205d565cdb",
+      "git_blob_sha": "2d82dd7a1e3704163173705c6e404c2b6f916eb6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0016/config_resolved.json",
+      "bytes": 1018,
+      "sha256": "5f34eb04daa15f905a179a53f6fd2b13d2f1530f58c0abe1783cf319d73d2007",
+      "git_blob_sha": "9b903c959359062f965f16a751a55d3d2c0c87f5"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0016/result.csv",
+      "bytes": 953,
+      "sha256": "8ef23a7b5d478874d22feaf9c8c9027214f74531b826fae0bd799a4e0840f2c4",
+      "git_blob_sha": "8ca1c0e0caaf904ec5e6c539f419938edc675643"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0016/result.json",
+      "bytes": 1232,
+      "sha256": "ab2e994d6276de4cdb467d2ed428b51937e17556ac61e8e24ffffa4fafaf52a0",
+      "git_blob_sha": "e91204bf3b71193ef388b68799276de74a30d5a0"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0017/config_resolved.json",
+      "bytes": 1021,
+      "sha256": "58f61ed022c5f7450bc09d0999b16f564a58010c179ab9e18b1f79c758b26152",
+      "git_blob_sha": "0b479623fdd76e97e2b4e1820d08ec3b1265ee99"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0017/result.csv",
+      "bytes": 953,
+      "sha256": "57306390f147b17e20254b124c29170d690521e454e059369382de5dc6d9b740",
+      "git_blob_sha": "acbd111dacb7d11991a0c5288ee36dfebadd972a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0017/result.json",
+      "bytes": 1232,
+      "sha256": "e523c21a6cb19fbb5a1f00ba29734d066b3e0296d4be8f5e6d26246451ddba2c",
+      "git_blob_sha": "30db0d6e0c5e101bbb7bd269154faa2dac6c7b20"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0018/config_resolved.json",
+      "bytes": 1021,
+      "sha256": "a3ca3884618db8fc92b3a24cf7d8e38026bc150993824ab7a61ef59648df8930",
+      "git_blob_sha": "b6088c3cf14af66ad7713e5fded20532aa7ab887"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0018/result.csv",
+      "bytes": 969,
+      "sha256": "2789f4b6902169070f516e9087e6735647d3654985340fdfefa4aed23c41af21",
+      "git_blob_sha": "3d773b9cba46f2c6b3eab5f4aeffb9d5d8f06405"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/PartC_pair_0018/result.json",
+      "bytes": 1248,
+      "sha256": "c90d7ccdc9f7f2ddbc8b8168bbd02758bc519b2dbb7fe5adb37983c139ed2cd5",
+      "git_blob_sha": "7fa33c339c9332cb9b5522047f1b841958ee21d1"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/per_pair.csv",
+      "bytes": 10391,
+      "sha256": "a41e018ab6af442a5a50573982d1f526708712be0c54a3361c054af25c7c4416",
+      "git_blob_sha": "48d56906916bffd1cb2e052e7fd99ef4de1d303d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/per_pair.json",
+      "bytes": 27882,
+      "sha256": "252890d8eda3578ee3317ade32bb241e60d29faa1dc803e5751cbcefae9f62e5",
+      "git_blob_sha": "a495cecf08ed98ccbe7617eff80e9232ef8851ae"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/provenance.json",
+      "bytes": 1034,
+      "sha256": "38dda896264c63d64623f74ea49a49df2e4ec293cf5ac50103857b194f6b57fd",
+      "git_blob_sha": "39ae99bbdcbaf294c8560e4009b2f1fa6d9b0d31"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/dataset_evaluation/runs/summary.json",
+      "bytes": 6579,
+      "sha256": "831333276bbcfb44403701246ce2137d3efa94d827f893e085be4f08aa813bb5",
+      "git_blob_sha": "3c2ee435c02032eec6755318a8211991693fd7a6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/annotations_used.json",
+      "bytes": 23338,
+      "sha256": "9c0e6b8b31c89c55324d58ccb3003e43d750c3e05a17e90771593b714ff0d039",
+      "git_blob_sha": "20189bb5ddf2970ab6833396d0f26f4b6c4a350a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/feature_comparison.json",
+      "bytes": 454145,
+      "sha256": "701ed51c8ea5fc11a1086ebcab8051082ddd04d63bdcdcf9d73c1dd7a370f1ea",
+      "git_blob_sha": "09e51fb6e7416707a8a45dae6815f56bf9780610"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0001/result.json",
+      "bytes": 2343,
+      "sha256": "5bb68e936926a6787582eb327116952f2644340b8824cf7389035600c59e4ef3",
+      "git_blob_sha": "20ddb46bdc58a88f2d0df95c4588135847a93ac3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0002/result.json",
+      "bytes": 2357,
+      "sha256": "0aa4e861a15e0f20ed7792da29a4321a466e3373ab4345e9eddd5aaa1a8a400e",
+      "git_blob_sha": "c46957b01ab42140d2097fe5b46e69d35ad754e8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0003/result.json",
+      "bytes": 2320,
+      "sha256": "2d86f326a3ba452b4dd9c3085d84b04c7440eba180759ec278be8340f5d87931",
+      "git_blob_sha": "b7160710eb50e10928308dde155a701cfff33b0a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0004/result.json",
+      "bytes": 2299,
+      "sha256": "8909bb7737c487913cf44d981a80178dc9574cc021ef733031b67cd0084964d0",
+      "git_blob_sha": "a3e1e96c7cc46407b79c57a8ffcf241ab7ca1eb8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0005/result.json",
+      "bytes": 2324,
+      "sha256": "63baf8e2fc0b145df66016ff6be472e188e7297eefb5d7d0ca95839779d937f0",
+      "git_blob_sha": "b92b75bc9e3cf1d27f1ab96268217598c55978ff"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0006/result.json",
+      "bytes": 2295,
+      "sha256": "90af1240a1a0ec821d757f76861deb6b63e995d31ff31cbbd7e9f30d7b9a5327",
+      "git_blob_sha": "726aaa2c7b54aeae428f27341e3ad53de707207d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0007/result.json",
+      "bytes": 2294,
+      "sha256": "8dee1a22367190e1f97925aa97fcd6e804504151fbb268844bd812b7adb2369e",
+      "git_blob_sha": "bdef79c32139b5be53c90212a833840b0aaf910c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0008/result.json",
+      "bytes": 2303,
+      "sha256": "6f5664d23da38f3356419c801f3c8e77175446fdfbc0c330675c2688c13a6c8d",
+      "git_blob_sha": "36a77e336d338317eeda95a516be1228620ded48"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0009/result.json",
+      "bytes": 2250,
+      "sha256": "aea240172b98c42b4c9316092b103e1c3c5b6129deab60c30f5814262358a8fc",
+      "git_blob_sha": "01104c6432cc3b44d39d5dc85a12f0b653501377"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0010/result.json",
+      "bytes": 2308,
+      "sha256": "b03496d00ff1ac3d06962f23a48137b42ccd938c012af2016eb25c1f9a9dc456",
+      "git_blob_sha": "ed2777651d2368b799b8253f5f68acde3a3a5cc1"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0011/result.json",
+      "bytes": 2237,
+      "sha256": "a11d1d98851b6ad07d9ce714102ccc394b0823717b5951e36b0525fda8d23ad1",
+      "git_blob_sha": "87456df940ea9431b57f04bcc34ba6c41c331c80"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0012/result.json",
+      "bytes": 2215,
+      "sha256": "1876d3337ba8a1ffa04c51834ff10c774e221f9f5fdde688ba92e02f9a1d32d7",
+      "git_blob_sha": "83d8224dd8bdc48b13acb1f920ce4a44b20231bc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0013/result.json",
+      "bytes": 2294,
+      "sha256": "87d14a348294012be3da42921ab63b105c75f1f604f5276bd68d5aa72c7a752c",
+      "git_blob_sha": "a1277c67236cf30c1320210d01fa96c7f62c202b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0014/result.json",
+      "bytes": 2235,
+      "sha256": "aec3b2b0153991174b075f12efa6a3588d9a9171f5fb625af5347342af1e28ec",
+      "git_blob_sha": "05c22a64b644b17b282bb488120c8d327957c883"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0015/result.json",
+      "bytes": 2243,
+      "sha256": "43b45561fd7e4f3d827b0c58b47cb58f7dc5abcc8953f6e523175c529039bce3",
+      "git_blob_sha": "07c4bed622608a35d4078ce8c676ecd2d2aa6f77"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0016/result.json",
+      "bytes": 2224,
+      "sha256": "98d634daf0e69eee64ed0051444f5ef26746fbb48e2c9c2505ecdef968774fd4",
+      "git_blob_sha": "30650f67fd074c5ef030140b7147bb4ae82a9119"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0017/result.json",
+      "bytes": 2206,
+      "sha256": "96131564bda25a4b44f7bc6b4741b47e9e831dffc367a64c3eac079ba9bea1d8",
+      "git_blob_sha": "9c2fe4a0b8295b027ba3a366a33feb403ff41876"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0018/result.json",
+      "bytes": 2231,
+      "sha256": "ea544a85e6c6fec5fe88a0a5ead56cc3e9f72445d86bee0514e2f6ba1c1d8f7d",
+      "git_blob_sha": "8e591ea698044cb703f4b57d5d3810502e9305cb"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0019/result.json",
+      "bytes": 2210,
+      "sha256": "6c60c2dd8baa3e1ff3ae925c10eced6308a6cf63c066b539b3e3d2d719e93bb3",
+      "git_blob_sha": "27ae77f57a6631768abd686019df3dff360043af"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0020/result.json",
+      "bytes": 2240,
+      "sha256": "82344bdf3a97f78994e1b8f0fbe582ba45edb3c1280c0cbda7f2d1c25498e6bd",
+      "git_blob_sha": "9007228ba24773585f7657684569318bd0b9d9dc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0021/result.json",
+      "bytes": 2182,
+      "sha256": "b99179434d4e4dce0eacd0c8590e76da7cee15227ff6d17168afec0c38ffb18e",
+      "git_blob_sha": "0b3a890c445003528e89fa62d8ed66b12b618ff7"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0022/result.json",
+      "bytes": 2158,
+      "sha256": "e54d05868ed3f07aef005c2ccc74ca189da2bb20e4aa4b06d2138733843d4874",
+      "git_blob_sha": "f5e4b6250d812602be93b4bcfcd5d5dd14ee8fe4"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0023/result.json",
+      "bytes": 2120,
+      "sha256": "2074026b7ccad5fbdae01c853f50ab7d94bd652e311c33a70e02ce1769284673",
+      "git_blob_sha": "a94c31c64f8d2ffe6678888fa58a71aa83202048"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0024/result.json",
+      "bytes": 2146,
+      "sha256": "593fd90023b449fe2f99fefccae5ecf386006ec4cca59dd7756c8b5a09f18f8a",
+      "git_blob_sha": "f3ed082fd04e1ba3d4e678f8230b795752629fef"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartB_pair_0025/result.json",
+      "bytes": 2130,
+      "sha256": "4e0c6cf1f82ab099cef9035796f968a270f9993d64696007dfbbd4d4575b0c0d",
+      "git_blob_sha": "9505e6e526573651aa4bd959572fcb5e6d099b5f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0001/result.json",
+      "bytes": 2202,
+      "sha256": "78b19f11ff73f1e937a90f1b7e4d0babe4adfc00f29664b9836cb2d2903f38cd",
+      "git_blob_sha": "a58688589ac2dc4e8c24b66d8c61bba7a59fa993"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0002/result.json",
+      "bytes": 2296,
+      "sha256": "a0d80ea25f2bb182b905acd9d45e31783a5536d5932582c7d3d220131148f3a1",
+      "git_blob_sha": "234961d692e61fa20adabb97aebe288089966d6e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0003/result.json",
+      "bytes": 2226,
+      "sha256": "627b4a7c81cc38d480aae6305ce6fa8dbcaa5534fba19403336b90a9d424766e",
+      "git_blob_sha": "df3ba7916921ab86f1cdb4d9d3032f0f48466e61"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0004/result.json",
+      "bytes": 1986,
+      "sha256": "e077ccd5952cbed83016615fbca5f9a390c374b61830ff637acce7470f6f9381",
+      "git_blob_sha": "39cb3bcc6c0dc0190c4b0279685d35340440bd68"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0005/result.json",
+      "bytes": 1937,
+      "sha256": "eae63485f05f23b15616d7d55d41863eb71ddcda6a4b3dc8ceb52acdba851c3d",
+      "git_blob_sha": "81f760dedf3aa55fe219411841086fbdea67533b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0006/result.json",
+      "bytes": 1993,
+      "sha256": "09772830a04a0fbaae7b600845f2a2a3fdb4a994ce2a6d00805c677350048d04",
+      "git_blob_sha": "471f7e69abacb56a318465753f0e0ee9a4e8c14b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0007/result.json",
+      "bytes": 2218,
+      "sha256": "66fed4eb1f3ba147f150b4e604f6e15a0768834246413bceeb9113c81c64d7a1",
+      "git_blob_sha": "fcd45d6901bbd91b7e0fc3bf0b361a9e0fee2f4f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0008/result.json",
+      "bytes": 2203,
+      "sha256": "b17f426aff7d7349655679ba231b0922049f3e0f70d53c052e05a9c2ba852bb0",
+      "git_blob_sha": "a32f399de6171f7dec17a2e1673a2d051fb2fe94"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0009/result.json",
+      "bytes": 2259,
+      "sha256": "f74206362ef6d676a8aa8526d1b4c893613ebec6517cb1bc793e33659e957eb5",
+      "git_blob_sha": "195161c5058a7f82328fd1c6c75e397686533795"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0010/result.json",
+      "bytes": 2026,
+      "sha256": "6ec6af020ed066087c9e5af2d2a337c3f2e73b950e9effc5144831887540aab6",
+      "git_blob_sha": "537da8a94621199054c81b173cad2725cf204589"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0011/result.json",
+      "bytes": 1907,
+      "sha256": "20c917b27af758f3557e1e0c66d891c7f63c3ae15b32efaefa2503b450312509",
+      "git_blob_sha": "20517e0732d3cf1f706103777c584a3dd84bdc9c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0012/result.json",
+      "bytes": 1948,
+      "sha256": "ea649a0588f7243a42d7eb0934a38cafd66c6eacb9f1f7d4498eb12944eeaef4",
+      "git_blob_sha": "2a443db1cf1a374f07ab5497fcfb3fddc45ef17b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0013/result.json",
+      "bytes": 2200,
+      "sha256": "4fdf8650b7e08dde455824c1f20aedcc357d182ec4e92ae8d0dd9281a3ac1aaf",
+      "git_blob_sha": "db7af0dea3f0324fab7038f72075f86750799915"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0014/result.json",
+      "bytes": 2203,
+      "sha256": "b548b04d4db2b7ae13044fa1baa96dc8ae9d575259f654849ba3236fde82daf5",
+      "git_blob_sha": "f06ce30b8fb16e9353806c7e1b9549bad6cbd5e7"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0015/result.json",
+      "bytes": 2253,
+      "sha256": "2171a9cfe8b7f3bc72ef99003dace75fcab50cc872d3e76c762b00f0e19de0ec",
+      "git_blob_sha": "67cf6ba7bf95541eafcda7976ebca312c166b814"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0016/result.json",
+      "bytes": 1860,
+      "sha256": "9be52d11e551df2ac58aede917f77ae13147ea05f8f5c66e16a2f81346a4dc47",
+      "git_blob_sha": "0663fee7b276a4040539711899c27874b11a121d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0017/result.json",
+      "bytes": 1886,
+      "sha256": "25765af9299f67ea396fa2567626f5a295f06eca5fd5480d0257f967efd5ee97",
+      "git_blob_sha": "bce6c51477cbcd9359c18cc2bb3c75356fe6e70a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/PartC_pair_0018/result.json",
+      "bytes": 1888,
+      "sha256": "89a2e0e42475b90444cb0a6dd0f3544b15d5c5dcb6a548ee20e1e85ba851c11a",
+      "git_blob_sha": "cca9f7b84bbe1f60765361bdca252a4066959f2b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/per_pair.csv",
+      "bytes": 19483,
+      "sha256": "7b0c7115f1bd79f6684876f575d2d60ad44b047be3b74ef63bccbc766a599399",
+      "git_blob_sha": "79a3cf5ec079dda97768e7bc2793ac910f2fb037"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/per_pair.json",
+      "bytes": 100121,
+      "sha256": "4c8d1e8810ccf26db56c91e30f0eb6e12db59486cea1b21558a7fdfe08f46276",
+      "git_blob_sha": "33ce9504693a9968605e6070fe808dff7234ce89"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/provenance.json",
+      "bytes": 402,
+      "sha256": "26c7d8b53068bf7d4dac3349c76e0be0e01efe19323718f5a3b271620b5b4594",
+      "git_blob_sha": "5790690f3e6a58445e2f62d13a446153fe62e2ef"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/same_points_control.json",
+      "bytes": 5400,
+      "sha256": "2f49cb3aa65a1a0c3125d32063100853d3e67da1421cb90e9f236d16efba180f",
+      "git_blob_sha": "e9a44bdc08d32aef24059c4ac2f46fc33c568e8c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/summary.json",
+      "bytes": 3193,
+      "sha256": "184d68bca536f1a4296204abd7c1fed4a9fa7dcd1fe12fb08298a25257682ca1",
+      "git_blob_sha": "1c08a6278bfdec4953b8602af900b471f2d19bb4"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/local_matching_step1/comparison/verification.json",
+      "bytes": 529,
+      "sha256": "df097835b263555ef61395d8e472e11ff44b75bb2d78d0fe259cee5003fa3d5c",
+      "git_blob_sha": "5a67174730fdb01a6b877738c7a7b03c634069a8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/repeat_check/config_resolved.json",
+      "bytes": 1057,
+      "sha256": "0a0885e4c1c6f64d307c3d78dcc3c839fbfdc2449ef3c36d60c5c27c5d9658c1",
+      "git_blob_sha": "764b510e1f1dc1ea76937563ae433ea5d7250690"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/repeat_check/result.csv",
+      "bytes": 972,
+      "sha256": "857c6fb908445794a3126fa3e656f57e784d118c8cc2178acda9a956f98b1b0d",
+      "git_blob_sha": "3d28f017fe47435934507be4ea0061f9c164e416"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/repeat_check/result.json",
+      "bytes": 1251,
+      "sha256": "8766fb6c3392754a6157ae51132ef2e700798ecd0a47cc7e7076d0730ea08d0c",
+      "git_blob_sha": "ec9f14bb5e9a9c26f84dee2ac98f7e4f363130cb"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/sample_pair0006/config_resolved.json",
+      "bytes": 1057,
+      "sha256": "0a0885e4c1c6f64d307c3d78dcc3c839fbfdc2449ef3c36d60c5c27c5d9658c1",
+      "git_blob_sha": "764b510e1f1dc1ea76937563ae433ea5d7250690"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/sample_pair0006/result.csv",
+      "bytes": 973,
+      "sha256": "e21e65f8d21b5740cebe46f99173cc007323129c71cb74bfce5c64aa7ee80a06",
+      "git_blob_sha": "0b2bc711df967f6c61d76e589ebe84251aa15ffe"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/results/sample_pair0006/result.json",
+      "bytes": 1252,
+      "sha256": "5dbd350f833948c8fdbb0981e40e64539947571df9e6cdc27d353504437a3235",
+      "git_blob_sha": "f8282a5cbe2c4fcb84c9f72f067a807dddbdd033"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/run_ranging.py",
+      "bytes": 13918,
+      "sha256": "465e858e855ca72ad44f6af0e6fa34047259d962a35ecd68ee167b5866e6d99d",
+      "git_blob_sha": "e0f0eb92ac33639db8b0a38e6ee2f8e7fe7ff134"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/stereo_ranging/__init__.py",
+      "bytes": 144,
+      "sha256": "02e16428a11fdfcf7839ab629d81a7f2a172462369eda10d694c9ee266a3e088",
+      "git_blob_sha": "0987800ddd280a461da0647ea657af3351520cd9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/stereo_ranging/consistency.py",
+      "bytes": 3512,
+      "sha256": "ef15f481da5d8729a153379c51923d0b0b2966bc69269ed37856b8c630a94881",
+      "git_blob_sha": "c5165c4cbdfb05d9928730256d86f73fc9698047"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/stereo_ranging/geometry.py",
+      "bytes": 2396,
+      "sha256": "fe17bb063240c02707a196d13e2a12169691225918fc19e5ab01c3e7817129d6",
+      "git_blob_sha": "b642a963b24844f59bb1f69e9889b567cee9363c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/stereo_ranging/local_matching.py",
+      "bytes": 4894,
+      "sha256": "f582f93be81a601e96c1a7e85415e85fadf754ba3fab8379b375e8b199fe2617",
+      "git_blob_sha": "824e9a5b1f52b9ddaf7e8f33ab312f5da519c969"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/stereo_ranging/matching.py",
+      "bytes": 4161,
+      "sha256": "70b829f850e5defee4ae7453a9f37a7179532ebae130ababd35a9eba8044c91f",
+      "git_blob_sha": "4f64a8092aa6529e6c314461cf924d7ada072521"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/stereo_ranging/region.py",
+      "bytes": 2499,
+      "sha256": "592d29788d5cffc8b938ef5da113841aecc38f7e2453e3c7b907350801817337",
+      "git_blob_sha": "f36bce06629e71f1fdff140ae43de33e9c98a759"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/tests/test_consistency.py",
+      "bytes": 4017,
+      "sha256": "3ba7b5b6488f04e5a07eab95ddc070c820b7dba2190d4aa12373ead0ce5289c8",
+      "git_blob_sha": "51ce576da62cf52a9115eb9fc0c911080a9f5f23"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/tests/test_local_matching.py",
+      "bytes": 2292,
+      "sha256": "4f7758287754645282b761f281e2c7eb41e4848de780431028577e4e4f53760d",
+      "git_blob_sha": "d8967f9a9662c5d24177e52619d14f7b0257a83e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.1/tests/test_numerics.py",
+      "bytes": 2775,
+      "sha256": "a1f03fc1b2a7ec1921cfcc04145278cb6de49acf89cf0ebce1a8a751a3822303",
+      "git_blob_sha": "94e2c5a9607931bb1c6856f519e1d70c8b54448a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/configs/chair_frame_candidates.json",
+      "bytes": 7470,
+      "sha256": "134f160f344c1421c57e75921b2152a00480bf07313f1b7d48f8260a0d75eb17",
+      "git_blob_sha": "820abe76c27cb2c181616457851d00473abafb74"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/configs/chair_roi_candidates.json",
+      "bytes": 8187,
+      "sha256": "db6646243c4a9e3646d16253faa31cf748d447f1639b4f8e5743dc4a24457895",
+      "git_blob_sha": "0c4929dc6ffd632a3de7bb569c40d165c50ee494"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/configs/dataset_pairs.json",
+      "bytes": 23338,
+      "sha256": "9c0e6b8b31c89c55324d58ccb3003e43d750c3e05a17e90771593b714ff0d039",
+      "git_blob_sha": "20189bb5ddf2970ab6833396d0f26f4b6c4a350a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/configs/scheme_a.json",
+      "bytes": 395,
+      "sha256": "81472519084eea3cfe9525e1613eae17bed0c986af8bd74c39687712b40a1575",
+      "git_blob_sha": "9a06db144ff3d413a5785588415aa7edca83133a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/docs/2026-11-23_roi_attribution_plan.md",
+      "bytes": 11161,
+      "sha256": "e4c905d380812f1dea5e73310155f956a27e2e967b6122aee4af3e2c789886c7",
+      "git_blob_sha": "7dab7206086407f20fbd97f0423c9049eced7a54"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/docs/2026-11-23_v01_v02_comparison_report.md",
+      "bytes": 8820,
+      "sha256": "983566caa0a1226c23c10082b90b891e2f1fd85b96087b91a90b950ea3a9098d",
+      "git_blob_sha": "0bd46093aee4268c0204d79b4d99c6ad0ffe8d6e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/docs/chair_roi_review.md",
+      "bytes": 5548,
+      "sha256": "9e1c1515806bcced88be6170c6e106e46070b1d43449ec83cd560cb4a1b74512",
+      "git_blob_sha": "53aa7510678fffde2e6651e79bd83141c49d0cab"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/docs/implementation_plan.md",
+      "bytes": 813,
+      "sha256": "e212bee098fad9d0b314cbb450ba48ed735d126e301a2032fbb6706498ba14f0",
+      "git_blob_sha": "3a62351c2fd641505932fc5daff5c46873223b57"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/docs/result_review.md",
+      "bytes": 7742,
+      "sha256": "93fa8803a0b33e3996cd7edc970cc64a24c556797a4384d8a45af27a020fa1f4",
+      "git_blob_sha": "dc09973fa3ca548e896076524fbf6064c97e022d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/evaluate_chair_rois.py",
+      "bytes": 4391,
+      "sha256": "98d49db0b53c714349e69673598f4d426a79733cf10275d37aa75bbb3597e627",
+      "git_blob_sha": "db08a8c5c57b15de6ccf2e1cc8fd8bcf9d9d2ff2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/evaluate_scheme_a.py",
+      "bytes": 8974,
+      "sha256": "a142eb1b315c68834d6986ee45318d72327bb0681e9a743e2ebb51ac6cc857ac",
+      "git_blob_sha": "0c03c7df76485b88204d9ed90e4c16abd7082bbf"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/parameters/background1105.npz",
+      "bytes": 3396,
+      "sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+      "git_blob_sha": "e67883277bcbf10d33a81ddaaba2769b95d29c58"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/README.md",
+      "bytes": 4685,
+      "sha256": "3fabd1c3eea9ddba197d9784a8585a658b69ee4ac5db5be26a9ddc62baee8506",
+      "git_blob_sha": "91c64619b9e471332fd21a2ad6ebe6656ff084f9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/requirements.txt",
+      "bytes": 33,
+      "sha256": "0abaf0ca4a78a09b74141243685c60b3167b682de927577a20a7dae7271a74f3",
+      "git_blob_sha": "47fc71234484535a15baf437796d22894daad12c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/chair_roi_review/frame_runs/annotations_used.json",
+      "bytes": 7470,
+      "sha256": "134f160f344c1421c57e75921b2152a00480bf07313f1b7d48f8260a0d75eb17",
+      "git_blob_sha": "820abe76c27cb2c181616457851d00473abafb74"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/chair_roi_review/frame_runs/config_used.json",
+      "bytes": 395,
+      "sha256": "81472519084eea3cfe9525e1613eae17bed0c986af8bd74c39687712b40a1575",
+      "git_blob_sha": "9a06db144ff3d413a5785588415aa7edca83133a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/chair_roi_review/frame_runs/per_roi.csv",
+      "bytes": 11963,
+      "sha256": "42deb3dc1cb910395da3ac87165e934567581cf3d38eb3c62b8ee94e9b93ee24",
+      "git_blob_sha": "ab3bdceeefde867474796798438820c93c299e4a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/chair_roi_review/frame_runs/per_roi.json",
+      "bytes": 41761,
+      "sha256": "3f8425a154c3c81e64e8f877ad1639b9a53f960972af941c1d13bdcaa54d3b9f",
+      "git_blob_sha": "82668b580bfb8b7b81bb0532d5a927a96e17387d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/chair_roi_review/frame_runs/provenance.json",
+      "bytes": 183,
+      "sha256": "7d3a4ac278e70239742bfe9d136ac89a00b28e03e5222c1a3601de84864566e1",
+      "git_blob_sha": "1ef6c45d47242be39aeaa5a6c657583272409dde"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/chair_roi_review/runs/annotations_used.json",
+      "bytes": 8187,
+      "sha256": "db6646243c4a9e3646d16253faa31cf748d447f1639b4f8e5743dc4a24457895",
+      "git_blob_sha": "0c4929dc6ffd632a3de7bb569c40d165c50ee494"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/chair_roi_review/runs/config_used.json",
+      "bytes": 395,
+      "sha256": "81472519084eea3cfe9525e1613eae17bed0c986af8bd74c39687712b40a1575",
+      "git_blob_sha": "9a06db144ff3d413a5785588415aa7edca83133a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/chair_roi_review/runs/per_roi.csv",
+      "bytes": 14418,
+      "sha256": "0c7a58f80f5330f4e9153e091f3009d5b1a9731ba3f9860bd67eda23980a194f",
+      "git_blob_sha": "2d3a7ebbc68e5149081c7bd1509eb4f7d6e63d36"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/chair_roi_review/runs/per_roi.json",
+      "bytes": 54326,
+      "sha256": "23088e0ae8c9e6fb9871afb46f0e64e0d41a145c402706eb05c66c4e9c3e4806",
+      "git_blob_sha": "afee81680248c530f40e0410edf16aee9c19af03"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/chair_roi_review/runs/provenance.json",
+      "bytes": 183,
+      "sha256": "9e43ca090edfa503ed18042e95bf17836fe09582341731dd8b20405f1c9cd993",
+      "git_blob_sha": "c1350fb918857b930ff13df4e8c75f50fa0d0f7d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/chair_roi_review/verification.json",
+      "bytes": 296,
+      "sha256": "a3cb9ca56c3e9ee57568ab31d1d93e7bc096a8f20931f532e3cc49d3ef6455ea",
+      "git_blob_sha": "b3e9d8d508f8821b57a9b82b7de9b867bf4fed0a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/annotations_used.json",
+      "bytes": 23338,
+      "sha256": "9c0e6b8b31c89c55324d58ccb3003e43d750c3e05a17e90771593b714ff0d039",
+      "git_blob_sha": "20189bb5ddf2970ab6833396d0f26f4b6c4a350a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/config_used.json",
+      "bytes": 395,
+      "sha256": "81472519084eea3cfe9525e1613eae17bed0c986af8bd74c39687712b40a1575",
+      "git_blob_sha": "9a06db144ff3d413a5785588415aa7edca83133a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0001/result.json",
+      "bytes": 2010,
+      "sha256": "98e2a3298261fb39eb5743d55e65536ee70f570ab38214a602504da0f53c5225",
+      "git_blob_sha": "b80f2fc125e1e593e8973538a2d6217e245e2f71"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0002/result.json",
+      "bytes": 2058,
+      "sha256": "75ef3455763cd02038cb4f5309cb08a42209169fc5dcb97dfd0ea2d7874cf229",
+      "git_blob_sha": "53fc606929d3a608537b147ebeabc7d87774273d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0003/result.json",
+      "bytes": 1942,
+      "sha256": "98df88aa7d91d19225ca8dcd52d68e3751356dca5ac33b9ecd11dd3a6fc307bb",
+      "git_blob_sha": "b9e2fe0696ea830ee7c67b685218206ade94ae1d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0004/result.json",
+      "bytes": 1977,
+      "sha256": "46e74e6417fa6ddb491a05994c59eef8bf028327a50826c60df9014d483aebb6",
+      "git_blob_sha": "1ab72b38df768d1aa79b4dce2f71446215c7870e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0005/result.json",
+      "bytes": 1919,
+      "sha256": "d8cc36a0ce5906cdfd99d7ce857f3c994851ed72f3f7be5257f4f9b67de669c4",
+      "git_blob_sha": "c43e9e9cd1e52b119839aedeba844c3fc497b419"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0006/result.json",
+      "bytes": 1921,
+      "sha256": "28db85945badf06e85d133744af0aaffacba60573b45ce4305e9e7cb0dbff091",
+      "git_blob_sha": "96cceda1a7bfe648628de24613903e91ad088abf"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0007/result.json",
+      "bytes": 1931,
+      "sha256": "5d4243e906546ce8e29ec6f9870bd768fa91bb00ff916671c48ad90b2c822ca5",
+      "git_blob_sha": "084153996d5bd4fe4613247048f9cfbcc8859a71"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0008/result.json",
+      "bytes": 1926,
+      "sha256": "80f49187752a5500c9e1a5ce7cc5fc654fbd18055272acbfd0b8173530c08314",
+      "git_blob_sha": "9dba380f934f06115a2bb1656a20e416ba1fdbe7"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0009/result.json",
+      "bytes": 1841,
+      "sha256": "4c1a807d939c36e6320d35cd9d680e438ab871ab17d785f5874c649eb87694b9",
+      "git_blob_sha": "38fe3f21f6b7656bdbec1654ab017e8f59c48914"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0010/result.json",
+      "bytes": 1994,
+      "sha256": "16e1dd9100bd8d60b42df85211193f04a4bb964379099c9aaeebb15cb3832214",
+      "git_blob_sha": "ca7633f3ce62709090a0d58b54ee0d2b72e413d9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0011/result.json",
+      "bytes": 1834,
+      "sha256": "9bb9141de22b4ef46eabc9f513796cc9f2e0f10281b8697886382deeddd8178f",
+      "git_blob_sha": "60e89af38b4652dfc7684989eb76e20274ce4b48"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0012/result.json",
+      "bytes": 1833,
+      "sha256": "43f63e88d532ddfa20211ae17fd278356991a993f72210f83f293f96af99dc5d",
+      "git_blob_sha": "809742b4c9a831db489bb59e9f9211c0b6187625"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0013/result.json",
+      "bytes": 1889,
+      "sha256": "ac810e7c3547a0736de2b049dd4f7d46ea13c22585a35e628bff1823772226a2",
+      "git_blob_sha": "5f795ca1c38880105d3a9848b9233bb78b629646"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0014/result.json",
+      "bytes": 1833,
+      "sha256": "b371516ead41677e329d9be6f63236ec14da83df5d45d1db73ea9ad0997feee6",
+      "git_blob_sha": "82fbb7d055cf63cdef9ba342550d12fc95f2a2b0"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0015/result.json",
+      "bytes": 1916,
+      "sha256": "30e2573efe6eab40a21c67e77c96bf31be677046a4c5c209a4522c126533bc2a",
+      "git_blob_sha": "b40086b0f50fa0438073bba29368d38707e69c06"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0016/result.json",
+      "bytes": 1824,
+      "sha256": "2c85e36f00205cd2293273ec149cd80ba974e31c72645680032d3fde373b5452",
+      "git_blob_sha": "32b9a3ec04b098a3925eafd14a074bd15f5311b2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0017/result.json",
+      "bytes": 1878,
+      "sha256": "80ce139f96156e55af92c1a6dc4286172a928f192642109a356c83ef216eba52",
+      "git_blob_sha": "b9c8e4d390be947588dd9d8e290e32502627f077"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0018/result.json",
+      "bytes": 1846,
+      "sha256": "a4aa9cd99d49c4e3615f61af19914891f3a234acdb8d40beb12ede423916c089",
+      "git_blob_sha": "906f7acb8bada7380d48970bf9aa1fbed1780964"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0019/result.json",
+      "bytes": 1804,
+      "sha256": "0e7caf9c797584b53caf42ea8a45b2526f7100dbb32bd96e2fe2d5f7960d53c8",
+      "git_blob_sha": "3541c48fa27457c54d87eae5390290fa703bcc63"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0020/result.json",
+      "bytes": 1761,
+      "sha256": "75d2fdbe74c03e3054f4bfeb7fb0ebdfcb8483c885c013b6873e031cdff21bda",
+      "git_blob_sha": "6c2d4700124c014a3698841d4f490b1e8c99f817"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0021/result.json",
+      "bytes": 1744,
+      "sha256": "8d382d63834b3269ef1622c49e84efa7cc711d074213a13536efc8b22ae004e7",
+      "git_blob_sha": "6a3d638225c68fb05185d1cdcc14b7d6892af7b0"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0022/result.json",
+      "bytes": 1708,
+      "sha256": "dda650c562249d9d473fa51e9126399f49b80c20c6aa471e7b034f3573aef121",
+      "git_blob_sha": "cef55b34a8316a3929ef178d09408f0df488664e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0023/result.json",
+      "bytes": 1758,
+      "sha256": "bf705bf6b902c13e85b9a052d46504e62f2630239856f2e8c0ca5dfe7bb35af1",
+      "git_blob_sha": "40c14cc4c5bc6efe990f593a9c69d04444f9743c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0024/result.json",
+      "bytes": 1775,
+      "sha256": "66e739831211b9eacafbe3636b36ac4fe80c1520e16cdbfe7faf9658fab1cca4",
+      "git_blob_sha": "dc6e2e01040397317d37f229d7c55437f9c34c7c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartB_pair_0025/result.json",
+      "bytes": 1737,
+      "sha256": "2fdaf58e5e54c906d6bd9b3ce1dfd7fdf4d724e5b4bbd5addda027b9f412cbef",
+      "git_blob_sha": "b070f89fcafbf0cd548d76eb2ec6fbc674ad103c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0001/result.json",
+      "bytes": 1841,
+      "sha256": "a9862b450f046ec18e43d2f9fb8112261d5eac56ec872a36b2fd4a488f07a804",
+      "git_blob_sha": "6a4c331bd341b126cf1feaee18182c369e21933c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0002/result.json",
+      "bytes": 1893,
+      "sha256": "764e7aaa4cc96cfce9300442b7e77fe55b98fe53ed0f28fe19fa82ad6e4648ce",
+      "git_blob_sha": "042373d953a270c863ed35770170509d0c94adf0"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0003/result.json",
+      "bytes": 1794,
+      "sha256": "70a32c8d62b8e4f66711d42e44b01fe04059157addc3a66cbe3617c79ddefa00",
+      "git_blob_sha": "73729acf3c52a971b95ca8851c1d9ddb7356d43d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0004/result.json",
+      "bytes": 1657,
+      "sha256": "862fa3d3f413cc4db8523500e3831b7fe76a5a541a7d944177131897c32964ef",
+      "git_blob_sha": "bd2860382a084928f3c282457aa8604611a41d89"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0005/result.json",
+      "bytes": 1659,
+      "sha256": "8f0d1772d0ebb0c797981578f43c559efde1f3bde2ce52a40f4a1333d7747c3e",
+      "git_blob_sha": "3826d09fffeceb6014f4210abd321f7b882dd011"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0006/result.json",
+      "bytes": 1664,
+      "sha256": "8c75391e6fdc77e7418d70bd7ef64f31895aa16713b5519ba8a72a428b72f8ed",
+      "git_blob_sha": "2962855b1f95f1acbafd27c5281fe9fdf61f75b6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0007/result.json",
+      "bytes": 1839,
+      "sha256": "830b112c733c439cda146585ad4490d99c82f182fff157e75496396ef986d70b",
+      "git_blob_sha": "36ae781a07879d6e32b61df446a6399694cb319a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0008/result.json",
+      "bytes": 1848,
+      "sha256": "ba8bf39239dd27eee3af1550ac4c533a5849c72cededf9c02078cd19f1b0901a",
+      "git_blob_sha": "74938bf365b457b42ca7b26e970992ff42e732ab"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0009/result.json",
+      "bytes": 1815,
+      "sha256": "4e3da4c06577a1ef498f0a095ee0f27a68747151c015a4cb2a91642a52ac4e2d",
+      "git_blob_sha": "c6d57fd0754e4dffa109800e3fb448c174a7d957"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0010/result.json",
+      "bytes": 1745,
+      "sha256": "a4fe9a696bed86e37a979a5983e015cf8769dc45d3a7764e375c29d6ad05cc9d",
+      "git_blob_sha": "c66a26aa894dd4448c82c6ccedb95f10e867f17d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0011/result.json",
+      "bytes": 1621,
+      "sha256": "4d7020bf3a50a3cc18e9e91728ea7d0bba6b16225a698108a297a803596991d4",
+      "git_blob_sha": "8d884c8c8856ae4edeef87a4dd549c12e2c54765"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0012/result.json",
+      "bytes": 1621,
+      "sha256": "b87afafa99f475f3c5707d2650945ec8f83bafeca51c9b48a5315a4fbd7de436",
+      "git_blob_sha": "4b5c2ee60d30c093a6aa74792498e9d34a3bd5f7"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0013/result.json",
+      "bytes": 1811,
+      "sha256": "222f7a2f815b3463fd90607f31221a4109a9249d8eeb4af2853205b2df7b0e6d",
+      "git_blob_sha": "2e7195f4bc30b54a530934f2147da53969bb55db"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0014/result.json",
+      "bytes": 1811,
+      "sha256": "bb952a4fd11ff08436aab8abefdf4712b302ec2abb4af26bff5fc6eb2d4c2fbd",
+      "git_blob_sha": "62783921d4f64f70ff4418c7495dab7509e1bd4c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0015/result.json",
+      "bytes": 1805,
+      "sha256": "27afd2d1ea512f60cfb0b391be7e08aab7efb7c5beffb4f15e89a8ae1292dc05",
+      "git_blob_sha": "fb9cbec99854134995cc804c570fbb7f7645b062"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0016/result.json",
+      "bytes": 1548,
+      "sha256": "047e7d53ac7d29a416ee556c5eb8db13910ce89630cf096ee69c314f90d7efa7",
+      "git_blob_sha": "8025f291e9534fd72f8957dd35e6a7ec51087701"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0017/result.json",
+      "bytes": 1547,
+      "sha256": "db3b55b6e15c7512c14b25406b53390e4ab3617171f690db87649502d50fddc5",
+      "git_blob_sha": "cab22bbcfa6e568abd282882b3f5294ca5035079"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/PartC_pair_0018/result.json",
+      "bytes": 1553,
+      "sha256": "482886588c281fdf00339cdf5e480fcc30d61b95febbe072e18da6589fde4178",
+      "git_blob_sha": "942ec119de0f53804c771d079ef7b966f32e6a07"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/per_pair.csv",
+      "bytes": 16888,
+      "sha256": "56141d7940a038532d289fcdf1fac5bf8c26a1c6e91648456c1d475551b631c7",
+      "git_blob_sha": "6bed83bf5a4bcd9dadfd4c826d18dd9f38ba6b36"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/per_pair.json",
+      "bytes": 83949,
+      "sha256": "6381969bf75e1ca849ee8ac462bad47ab4435513d14602e9f55cb6f142abe411",
+      "git_blob_sha": "abb63cadee61865fd1eabf49f408c315e2932dfe"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/provenance.json",
+      "bytes": 715,
+      "sha256": "60d953bd11006824f518fe2dc1983d790484f7579489a7ea6265b37511ea420e",
+      "git_blob_sha": "45851ab4cda19e8c0ba26435a7fd2eeac53e76de"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/summary.json",
+      "bytes": 3567,
+      "sha256": "faf906d6d0fc8b6200e38136be3465f5a3a6827d6a6ff4f35bdb0b2ff152c286",
+      "git_blob_sha": "201573fca0297641474917dd2c3810153c64a25b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/results/scheme_a/verification.json",
+      "bytes": 415,
+      "sha256": "578116be337836d5db399e5bd0eb20bd4727e81ddd46a10afe8f48630985e9b9",
+      "git_blob_sha": "fa7ab7c378d93b9c123cc3ef562e1e36fb9b237e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/stereo_ranging/__init__.py",
+      "bytes": 156,
+      "sha256": "986447d83163d7788b9cccdd8d3aaad9d68307c4bb618ecfcbeb7ae15fe572f4",
+      "git_blob_sha": "3456ba03c629a0ce0027b85db0827f461e0021e8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/stereo_ranging/geometry.py",
+      "bytes": 2396,
+      "sha256": "fe17bb063240c02707a196d13e2a12169691225918fc19e5ab01c3e7817129d6",
+      "git_blob_sha": "b642a963b24844f59bb1f69e9889b567cee9363c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/stereo_ranging/local_matching.py",
+      "bytes": 4894,
+      "sha256": "f582f93be81a601e96c1a7e85415e85fadf754ba3fab8379b375e8b199fe2617",
+      "git_blob_sha": "824e9a5b1f52b9ddaf7e8f33ab312f5da519c969"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/stereo_ranging/selection.py",
+      "bytes": 1989,
+      "sha256": "d7f92fa000f8bbfba7ecdba1f0b43e6ef9c65764ca9bf7b04f7ececb72529a97",
+      "git_blob_sha": "29f706a7d9450036ce3c98ef96dc001b99c54365"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/tests/test_local_matching.py",
+      "bytes": 2292,
+      "sha256": "4f7758287754645282b761f281e2c7eb41e4848de780431028577e4e4f53760d",
+      "git_blob_sha": "d8967f9a9662c5d24177e52619d14f7b0257a83e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.2/tests/test_selection.py",
+      "bytes": 1461,
+      "sha256": "201095c0dbd5377839afa7bf7aa4f22fb76bbe5cee4a5056b10a6ce84282b165",
+      "git_blob_sha": "8b2e445bc478e365fc148ddfc9c2ebbbfff15672"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/check_detection_input.py",
+      "bytes": 2099,
+      "sha256": "f25ea7cbe910c3eedc37a9d566e69a5db3dbf66f97551adc714f9b994fdcd750",
+      "git_blob_sha": "7ac86eab29ba9e080d7e67ddaaf82426380b8b24"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/configs/local_targets.json",
+      "bytes": 31347,
+      "sha256": "7064d89e975eb1f10bb61becd9228eb1bd668e8dfceab9df71fff74e7b8ad251",
+      "git_blob_sha": "b0b91bf8ed77e55e62682e1c2af2ab358426f587"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/configs/pipeline.json",
+      "bytes": 734,
+      "sha256": "6452aba43f2d0422a1e8438693f5e20747850746e6d7e7bdbdb1c96e029c18d8",
+      "git_blob_sha": "eeb7e2a48096a64d13f74e68750bdd90f1989c89"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/detection/__init__.py",
+      "bytes": 52,
+      "sha256": "c4e5d3754f5eb71077710e8c7a3b94d3b36f68747ad921c91c6bdee77b2599a4",
+      "git_blob_sha": "fa203d51d42da0b8852850a95f6c97327175d172"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/detection/classes.json",
+      "bytes": 1104,
+      "sha256": "e57debe2d3cdd77c1095fb27e0fa7233e5f353e5cde58f6fb5deb6b7870f520e",
+      "git_blob_sha": "8d2941b3e1c443d1c2f54cce1517d6cae3f045bc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/detection/yolox_backend.py",
+      "bytes": 515,
+      "sha256": "4051fff3a07d213ce83693a7f43a5da35adbf714356ea80d1d7ca15c162325d8",
+      "git_blob_sha": "dd711f2ef693dbdfb43e6b1638f1f650b93d8ae0"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/docs/2026-11-23_v03_plan.md",
+      "bytes": 2235,
+      "sha256": "0a4a1b583ba9b3a76ecd156051394cd32735e5804171a6cc83b693ff7b049db2",
+      "git_blob_sha": "98204795eb5e933129ddac24888e299974802e9c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/docs/2026-11-23_v03_report.md",
+      "bytes": 7712,
+      "sha256": "0246dc22bad577a9bdac039c077f50c45838c8ebf863bce9f2fcee7f3065630e",
+      "git_blob_sha": "05915c833906c6af4270f058715bf558283f13db"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/docs/run_accounting.json",
+      "bytes": 402,
+      "sha256": "23904779975d88e25cc84d409406b6d9353590c97f1351e0a2bc4bb27edc4758",
+      "git_blob_sha": "c5f1065cc823ce961962a334f12936a826035ec9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/models/yolox_nano.onnx",
+      "bytes": 3659407,
+      "sha256": "c789161ed43c8269fcd4e67c67eeeb4e80c622da2eb296a20bc6007bd18a0b7d",
+      "git_blob_sha": "03adac0e4539a9ce2081b8d316cdbdebfa3a72f0"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/parameters/background1105.npz",
+      "bytes": 3396,
+      "sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+      "git_blob_sha": "e67883277bcbf10d33a81ddaaba2769b95d29c58"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/pipeline.py",
+      "bytes": 3713,
+      "sha256": "b671ebf150a5be40522c7f92c17f18cb99408d0162c977696616ac306f0f3f74",
+      "git_blob_sha": "b541c1e324b9c8619e85103ace7f12ef5e5ebd89"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/README.md",
+      "bytes": 4820,
+      "sha256": "91f4078a3c63808ea243b1d943b45b77b75d86fb423270274999cd54b232bf6a",
+      "git_blob_sha": "59b38d652e92a9b19c9dccd41f53efdbba335df4"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/references/github_detect.txt",
+      "bytes": 6037,
+      "sha256": "c7ee8271d28b16e40694ea892e3d9700ec04f52727e47ab11d9050f94b90082e",
+      "git_blob_sha": "7b54fd511e2ff27d2c38e767cc60256e361dd417"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/references/github_README.md",
+      "bytes": 4566,
+      "sha256": "f50222a7ebe0646dc596f0f4adbeab167c2f465c1cde3f21f5fb11a041142534",
+      "git_blob_sha": "4303b942f8e1e1f6f7a9108eda1a9290c9fa695d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/references/github_yolox_backend.txt",
+      "bytes": 3292,
+      "sha256": "1a93dd6ebee0aa2dab961c9b4c18dadc4b2e71afa477ce8bc02f95353c2834bd",
+      "git_blob_sha": "c7c35ab53923f649bdf11108daec89942abee921"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/references/source.json",
+      "bytes": 445,
+      "sha256": "5fc8cfd82cefeb201b0255b450300e82d781376694fb1c7e33a9fe99bfd543cb",
+      "git_blob_sha": "40f6dc98f6668abd5a0c3d6f1d9c7fa20ca4abd0"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/references/YOLOX-LICENSE.txt",
+      "bytes": 11372,
+      "sha256": "bd07ffd3b46eef1c2deb372afe7c4db28cb35cef9ce50f2c4e719f8c8d8cbf92",
+      "git_blob_sha": "fb5087fa3081c289c7ca000a98773665f7ecc442"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/requirements.txt",
+      "bytes": 33,
+      "sha256": "0abaf0ca4a78a09b74141243685c60b3167b682de927577a20a7dae7271a74f3",
+      "git_blob_sha": "47fc71234484535a15baf437796d22894daad12c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/_model_path_load_failure/config_used.json",
+      "bytes": 734,
+      "sha256": "6452aba43f2d0422a1e8438693f5e20747850746e6d7e7bdbdb1c96e029c18d8",
+      "git_blob_sha": "eeb7e2a48096a64d13f74e68750bdd90f1989c89"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/_model_path_load_failure/provenance.json",
+      "bytes": 1402,
+      "sha256": "d0d2b890a0255d6dd9df97d967d50a3627d367eeabec74c83b1b8cee8d2110a1",
+      "git_blob_sha": "e345b89fe62cc83eb37d9fd1999d69a6e994c080"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/detection_input_control/summary.json",
+      "bytes": 171,
+      "sha256": "b3fdd9f5ba5bf6b2b658a3c2387068ba13e86eabc6b692751817b2229f762a5e",
+      "git_blob_sha": "98d11ca44c0c9a46f98686d167668d7b5e7727f2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/comparison.csv",
+      "bytes": 7040,
+      "sha256": "f7e824b1ea7c4a5a03c41fe2ea1a9b025492eaf4fff5446ff7b9ade03830742f",
+      "git_blob_sha": "b55ce29a0d29a96291958df441491dadc28190c5"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/comparison.json",
+      "bytes": 22259,
+      "sha256": "3a941544cf8fc4f1066a2b8063bbca3e876b4e5bdcca42c40b62498f337bc231",
+      "git_blob_sha": "a7f03ce64c660db300115499e8c2941dd726106b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/config_used.json",
+      "bytes": 734,
+      "sha256": "6452aba43f2d0422a1e8438693f5e20747850746e6d7e7bdbdb1c96e029c18d8",
+      "git_blob_sha": "eeb7e2a48096a64d13f74e68750bdd90f1989c89"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/overview.jpg",
+      "bytes": 1121732,
+      "sha256": "213ceeae4a40f8b3ace646c506a4ee2a195c2b89ae584b6693811284fea73567",
+      "git_blob_sha": "1a3e6d20bf4ed13963334dcd6c6556b4c84fa0d2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0001/automatic.json",
+      "bytes": 5049,
+      "sha256": "fc63309ab5381cb08d6ee00f2afed341f522edd7a9b285b08e63228f17f2ae59",
+      "git_blob_sha": "2c6ab8e3bef8d48711b7bac18c749d8d7a6dd5f3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0001/manual_comparison.json",
+      "bytes": 4309,
+      "sha256": "27357d2ae07d905b85d5af2a6920912beac6baa4e2f4f7b12773b05e919c51a7",
+      "git_blob_sha": "1defa44d4f6a67c5174ca1fe2d4ee70f795d3bfb"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0002/automatic.json",
+      "bytes": 4694,
+      "sha256": "119aaac40b618fe09349f4f50966f238db714b74be13e3d896e9519edab5d2b7",
+      "git_blob_sha": "0b0850ec5eca76367540ee497ee52959cfb7e33b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0002/manual_comparison.json",
+      "bytes": 4325,
+      "sha256": "45292db1ccf88c95f942fd568f1b64b413a37c299b0617e13690598f9644524a",
+      "git_blob_sha": "3a38bba64743c517dc5255b1cfe7b7a8dee2a64a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0003/automatic.json",
+      "bytes": 4687,
+      "sha256": "bb762d75db997625681dd9b8c28352b0f32d62bef97f18085e3f578bc4cf50a0",
+      "git_blob_sha": "9f902bca14377c582fa21f7a8ffb87f3b460be66"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0003/manual_comparison.json",
+      "bytes": 4318,
+      "sha256": "45568ca44a478b0918adb6cd33f336155f1acc8f38f177f8e22fe1e7bf8139b4",
+      "git_blob_sha": "a44de809881353b2d335af924eebc0793858197b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0004/automatic.json",
+      "bytes": 4709,
+      "sha256": "b8ee50c313fea0e91e32777a71e0aee64b47159e0afcf536483b9dd2d50d8fd3",
+      "git_blob_sha": "d7c6432906d7014a39997501ce8952e2fbf9d598"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0004/manual_comparison.json",
+      "bytes": 4304,
+      "sha256": "925fac27b036e06032f5f7a679e9e051606a8d7827d47d6a503491167827eb5b",
+      "git_blob_sha": "6a72887d04281e42ed1d5cfaf1fcb87662bc8123"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0005/automatic.json",
+      "bytes": 4712,
+      "sha256": "d74ead0ed36b7f195e12c5f4bb56cbd2f91db7f03d385d8078eda5516673b240",
+      "git_blob_sha": "12758fe2482d1927748e03c7b6c4f9ea397d47ff"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0005/manual_comparison.json",
+      "bytes": 4313,
+      "sha256": "0721c2aa3e28a9b40ffe9ee383c33c74b1f05e83eee813751b4630c6f1f3dc79",
+      "git_blob_sha": "30a722f53f7a678e1024d949bd7a48d6db25e45c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0006/automatic.json",
+      "bytes": 4363,
+      "sha256": "c95a544d364a789304ff2ec1acda562bffbf0e05795c4253bdd7f4e33a40b1fc",
+      "git_blob_sha": "80aa89742e6e8632473e2fb8078227de8ab3957c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0006/manual_comparison.json",
+      "bytes": 4240,
+      "sha256": "7cab0c84c41636949d7e0375b1b505daf30ef5ce69d0a54d1364729ca6026cf2",
+      "git_blob_sha": "8323530d5f7bdf25fc5adcfb434dcf3953bb8fbc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0007/automatic.json",
+      "bytes": 4349,
+      "sha256": "7fda40a78a0705a99f3c01f7ad4c2ca8ae91c9c7a51247dbb1c0fbe7148c50db",
+      "git_blob_sha": "5e3b6ec199c1231545ffa2ce80fa0bddbf916f33"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0007/manual_comparison.json",
+      "bytes": 4214,
+      "sha256": "7fa9fee9cbc356791d36eceef878855f25d5825d46344a5c13e162134b693ba8",
+      "git_blob_sha": "6ecc8a43b2cecf30174470bc5eff37d15dbf66cf"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0008/automatic.json",
+      "bytes": 743,
+      "sha256": "1326d5771f40184784c3f163d4fe7480e0040d051b3e3b3565600c3a3033214e",
+      "git_blob_sha": "a7dc627e675ad9f64158eed68e6122727f3bd021"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0008/manual_comparison.json",
+      "bytes": 4256,
+      "sha256": "e5f83fbd02f748f5228f636d4b96f92e470b8191f70d6f3c5195ed251b5ad9b3",
+      "git_blob_sha": "30dcd1d38cc6af7b8094a3711750ffde6c4607ab"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0009/automatic.json",
+      "bytes": 9248,
+      "sha256": "b8c7dec313f5a77101df9e2352cf6314bb9cb995bce8bbb53a963eae81379cc9",
+      "git_blob_sha": "ade9e4273757927c5fc5277cedcb9e5f07ff4747"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0009/manual_comparison.json",
+      "bytes": 4275,
+      "sha256": "d57137be3fa11d7ed7a2d0eecdd8ef0c9d8f27b85272b54b95f2b922190f0e74",
+      "git_blob_sha": "12d27efa4e401a8a859d286831a0620eede18442"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0010/automatic.json",
+      "bytes": 8927,
+      "sha256": "57457045418669afebea6921af52fa193eb0f1c6ac4eb0275e6a8ccdb8783a4d",
+      "git_blob_sha": "6a5c7300be4c164bc294f23ba4c93e8ca0d3073c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0010/manual_comparison.json",
+      "bytes": 4285,
+      "sha256": "8d29576a83776d8194de5bb56f9f50a1477cf7b55a290e317128a0962ca94227",
+      "git_blob_sha": "cec6a6b806bc9a017d7201f64e3fbebfe7253118"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0011/automatic.json",
+      "bytes": 4843,
+      "sha256": "e8c8ae92a683aa471097079e1eff3a687e0ef218ddf2dcbe1da211a4f7fcd676",
+      "git_blob_sha": "f32127098dd4a339c62a4eb0f3947e259e8e0f4e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0011/manual_comparison.json",
+      "bytes": 4204,
+      "sha256": "b68f458c7d9192705bf460a601344d574fb7f9eb3ad90ae6b420cec3cd0b655f",
+      "git_blob_sha": "dbe13502b841deb201ff1d6a6ecb078745bca977"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0012/automatic.json",
+      "bytes": 4836,
+      "sha256": "1db760710e821475abf710a2070543f9e73e4941d41cb1b22d62a50bd5888113",
+      "git_blob_sha": "17c636b081766e7d32e7fe0cc504f1c845ca88cc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0012/manual_comparison.json",
+      "bytes": 4199,
+      "sha256": "1b00211c65060aef66a5c827ac22c782b03732172ebdc491fcb6677473149bce",
+      "git_blob_sha": "268a4e8f31d308e4b2f6a9b062192d35dc357311"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0013/automatic.json",
+      "bytes": 4853,
+      "sha256": "a44378ea5b77a6a7e2ed09f0cadf12a2a691af7af4e59d27cc9eec481e45f419",
+      "git_blob_sha": "575f3061fde78b9ea44142472ca81d843d0ddf3e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0013/manual_comparison.json",
+      "bytes": 4248,
+      "sha256": "d083b3dae79633b33f3e415e6e1eebd6e436a2b06d0083600c59722b73f48882",
+      "git_blob_sha": "0aca317b080664b0ab907bbdfae2bb25f880b2ff"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0014/automatic.json",
+      "bytes": 4849,
+      "sha256": "9939637cc6e0dbc6a0d040945d9f8ec5d4fbb3ac8e6cfa77be8442aeba1fdd1e",
+      "git_blob_sha": "92f4ab228f918c71ee42eb6d52493901de522d64"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0014/manual_comparison.json",
+      "bytes": 4182,
+      "sha256": "2a1f4e326c19fa7c022f205f34358f981b591ea52ed88e880c9a3968e5c66db1",
+      "git_blob_sha": "d1b49b8c3020d891c61287ae9a6b3cd4cde4c66d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0015/automatic.json",
+      "bytes": 4821,
+      "sha256": "cf202e6984d8062bed142cddf52d58925bb88d3dc9b5de8d2d8a57cff807734a",
+      "git_blob_sha": "e652c461d0afd62ba2d6183a5366c1f37ecf9707"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0015/manual_comparison.json",
+      "bytes": 4278,
+      "sha256": "a7cd84ef5da5584b0049ec0a43f83cdcebb2f504cd90137d9807a7e57b42ac1d",
+      "git_blob_sha": "e445fdd38ed8d3592a3104915e66b12a7c104552"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0016/automatic.json",
+      "bytes": 4717,
+      "sha256": "ecf9960fdd70c0f5a6dfbc9b877085d4b9b9a45330db3081fe22e34f5e5c8565",
+      "git_blob_sha": "2160da4339bba92d2a37b6ea57cf53b6ee83aa22"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0016/manual_comparison.json",
+      "bytes": 4203,
+      "sha256": "fa13425b773418a0af58613ad0d4f24da14f4a5e744ce024ea426b647bff6cfc",
+      "git_blob_sha": "5475843a00dd4ae4fa5c81b6859be98f8b4327ad"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0017/automatic.json",
+      "bytes": 4838,
+      "sha256": "059cf52efdae31794f12b1560788dec9d4426e82ae288d4f70e4833fb970d830",
+      "git_blob_sha": "526c6a27cdc5a156d1a6619ae1b8f590c7492051"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0017/manual_comparison.json",
+      "bytes": 4141,
+      "sha256": "442bfb581f7b1ca576d020c1f6f718d69e9bfcb77a26daecd186f17814e09028",
+      "git_blob_sha": "d3ce7b0b78ed247f3ec43735aad62d265c8111a9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0018/automatic.json",
+      "bytes": 4838,
+      "sha256": "956a949ce83b9c1df2a35e769672f676f09c705e01bc21e58a8c801da6521d5f",
+      "git_blob_sha": "a419531d9a7750005a813931e58fa8f1b99108f8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0018/manual_comparison.json",
+      "bytes": 4158,
+      "sha256": "21cf23339742450ee57d11f6fe3a3e848ebfa973cf4cf0125d70b224cdba7bb7",
+      "git_blob_sha": "cb2d68da338fdd6cc8c14a28be1e7cd509488211"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0019/automatic.json",
+      "bytes": 4845,
+      "sha256": "1aed264a3fbdcfc3d311b9d72309760a6c8ac32ac33bed7d7ebe97e3e558ea64",
+      "git_blob_sha": "edca43f4d2e36944e0ee5423c93afe8fdf196193"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0019/manual_comparison.json",
+      "bytes": 4123,
+      "sha256": "7bfe95c69a9ebf4f6b145b3383fd05e6e3524a679713cd994cc134ce23a88e7b",
+      "git_blob_sha": "39c3256028ecacb84ba775b43ac3ce3791c827c2"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0020/automatic.json",
+      "bytes": 4843,
+      "sha256": "b83f579ea0fa6aeec1268b118001b9da878abbcac9716e3c8e1863722f85433f",
+      "git_blob_sha": "f1e559d4761ca5e7d639fb92bee3323ce6d302d9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0020/manual_comparison.json",
+      "bytes": 4178,
+      "sha256": "b218794ec1b2126fa7fea7db0707bacc67bdcf3fcffcedf68613e6e18b867a31",
+      "git_blob_sha": "bea79ea60d3103e52d2e94d253852912f9c21b2e"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0021/automatic.json",
+      "bytes": 5271,
+      "sha256": "9f2eeb80da1bbeff4661a50aa1611b6ed4343d66091f6af4bef8a6d87fe5c3ac",
+      "git_blob_sha": "ae22c544cb6a87a0ef28946497a3a4dd74744636"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0021/manual_comparison.json",
+      "bytes": 4140,
+      "sha256": "8fbd871fe43f288d28765f159b20d61428f3c8a3bf314ae358639dd63d8f52b9",
+      "git_blob_sha": "dc2e4a83a494a17c54957a1e6c7ffb695c1ad09f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0022/automatic.json",
+      "bytes": 5197,
+      "sha256": "ea28b95c952974d0e60599549a901697939aef1c540412941fbd197a11ea8ed1",
+      "git_blob_sha": "1e53f1ac18009d43fd01a9e5b0dcf439f2aa5961"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0022/manual_comparison.json",
+      "bytes": 4127,
+      "sha256": "cb453c3b9c25c56ae148cad337e82c6e1251397ce8b17bfabdd5f16d764040fb",
+      "git_blob_sha": "7df2dd2f1bde9d6ddad36300733fd8228da39a17"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0023/automatic.json",
+      "bytes": 5192,
+      "sha256": "7adf7694fec0f5e8c9b5948acf9e5b8780784a8289615721a419f154fdec755b",
+      "git_blob_sha": "2ec55a9638dcfc61cc3d598d86a2aa8efae660e1"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0023/manual_comparison.json",
+      "bytes": 4155,
+      "sha256": "bf1b9fff51b94aaa0ed7602505f51efdbd0b71d42f2cb3aeb64fb6b24c99831f",
+      "git_blob_sha": "c7722adbe79051153d5e0461ab14675310bfdd63"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0024/automatic.json",
+      "bytes": 9358,
+      "sha256": "90d358fd1d2f324831f2b14fd57b1fe8585bc80cfc478caeff74deb118034a71",
+      "git_blob_sha": "93ed8f2e35addb92cc78e56d13b3e7d0e2605365"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0024/manual_comparison.json",
+      "bytes": 4133,
+      "sha256": "f26097e3b8c287baba4503ebefc53cad94ef433c99c9e4c60db01b01c9d23139",
+      "git_blob_sha": "8891159c585ac2c53bc7eff93c2f835c1b0842b9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0025/automatic.json",
+      "bytes": 9023,
+      "sha256": "103cef185aa8a765b1c26017e04a435b81d984a156900ed7ec4b5fe76e86eca1",
+      "git_blob_sha": "0391066f4827dd0536bffb7061469e073f4159ee"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartB_pair_0025/manual_comparison.json",
+      "bytes": 4152,
+      "sha256": "d59b58716c38e4ca76049680387f22b97a64f145f52013e8f55c01c32a91a8a1",
+      "git_blob_sha": "f012c671e607b466482e41b2e7be0d0dcfdf3725"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0001/automatic.json",
+      "bytes": 4689,
+      "sha256": "486fbeaee77cb6cadf2960b52caecfaf7b6a911e43fe38b7beed6d3b60286722",
+      "git_blob_sha": "87d4817524db58e38311333d2695d20555f3a323"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0001/manual_comparison.json",
+      "bytes": 4342,
+      "sha256": "05258f1a12e2d376196f76b4cdbcbf0a0700fd206e90cc48564994c05e5d634b",
+      "git_blob_sha": "0f363be39d5329baef038497d3f16096fb17b055"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0002/automatic.json",
+      "bytes": 4697,
+      "sha256": "12a19fb1380b41bdd8fca2b1d3f826a03356b5d0dbdcf364ce0bf49c8635d644",
+      "git_blob_sha": "0d31f50e53f8bbfb7ccd55481c1e6f07915370da"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0002/manual_comparison.json",
+      "bytes": 4356,
+      "sha256": "27913dca00f563fcd2cc017d8e1001d533c453d4ee03868050921460d1cb77b6",
+      "git_blob_sha": "36e3b7bf78d01ba7becf8123e97425cb21162be3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0003/automatic.json",
+      "bytes": 8974,
+      "sha256": "3777cb5f49f13cbe9bb63baaa205a99ca2faa39419397aaf710e947ce1b72f26",
+      "git_blob_sha": "5271c1ff17531044379336884cac257b090d204d"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0003/manual_comparison.json",
+      "bytes": 4361,
+      "sha256": "2ec6992bfab503f47afee4dc0b96bab7d0859745450ffbc68e8e371eb5c71068",
+      "git_blob_sha": "c60de2d8c0b8567fd170ab9cd56ffd05e99212f5"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0004/automatic.json",
+      "bytes": 4505,
+      "sha256": "df91033c5354893cc8cba2042f46b47903a8254aa7bdfe55aaf0bdf2990712f4",
+      "git_blob_sha": "2c3bbff7310d26843b9b8e4785b009e6ee51fdfc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0004/manual_comparison.json",
+      "bytes": 4305,
+      "sha256": "e9c8a46d1da22d9acc981465b24cc8ab8949dbd7ce2289c6646093fc7f0e9036",
+      "git_blob_sha": "574db1bac05f2d85289e527bfd23444bb94dea59"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0005/automatic.json",
+      "bytes": 4505,
+      "sha256": "b6801718f5d9e93ce464ab01bfc1ee13378fcfe0d7e42492aaa79be33ca17e4d",
+      "git_blob_sha": "bb47ad58e299ea01cbab9f55aafeb2786adaa233"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0005/manual_comparison.json",
+      "bytes": 4294,
+      "sha256": "b4d594feb56504c2039259c92587a452e5a7013151e8afcafeb549be4f0c56f1",
+      "git_blob_sha": "090fb5eecb93e607e7e90b2f4cfd58611bd721d9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0006/automatic.json",
+      "bytes": 4501,
+      "sha256": "5a319fc4d1ad349a21495825c88551254a1d2e681a3dabb45f2a23facce04a82",
+      "git_blob_sha": "69c787c17c0b99277a36ae3bceaef474d1e645f5"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0006/manual_comparison.json",
+      "bytes": 4312,
+      "sha256": "058ff2a74f681a1b3ae73e71dee9c2ab4b8f46402e0145476d79ab099a645ef8",
+      "git_blob_sha": "0bff7d35a25d7632a93d4d0e20d6b25c4063f4d8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0007/automatic.json",
+      "bytes": 8862,
+      "sha256": "301be31724b425088fb9225da53c98b70a97da6c7f39bfb8530aff57d14f28e8",
+      "git_blob_sha": "a66be6c1fbb508f1538752b965071c8716eb5c5f"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0007/manual_comparison.json",
+      "bytes": 4301,
+      "sha256": "547e0563833c37075c3ddbed00b054b11ce50806e09df802977c9afff5457223",
+      "git_blob_sha": "46c88b6a3c8f977cb076aff74a731d9108a9486c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0008/automatic.json",
+      "bytes": 8857,
+      "sha256": "c9b2e6fa57d477093e7624bfd43e1f151480ffd94bf7b58b4ec8a795c4abf8f8",
+      "git_blob_sha": "ff1c8ce81f6db9c826b2bfc23d805b32a2f318ab"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0008/manual_comparison.json",
+      "bytes": 4301,
+      "sha256": "1d9363bd1f5d6bda7428c1b3f596d7752137a3304dcfb077e5cfb89d70a0d331",
+      "git_blob_sha": "433f1a536e6ccd1c691617f983469affaf4010b6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0009/automatic.json",
+      "bytes": 8851,
+      "sha256": "c254fe49c6bd147f06ffc8f724883e409eaa50f35a1398378d92e5f26b1a1e02",
+      "git_blob_sha": "6a30a8ebe67d2ec1d3550457bf06c2731e0a8288"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0009/manual_comparison.json",
+      "bytes": 4308,
+      "sha256": "b2e176847076b56718b1c87dbd1d4777fca30c25248628415e11ecd88329f023",
+      "git_blob_sha": "4e72790f2fc38d07a3d0d5cd0265a813e47cadb5"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0010/automatic.json",
+      "bytes": 9290,
+      "sha256": "a6bc584c14006ba9b8f7ce2990f32be3acf765d79b3163ddb9ddbfb6e02b3a0d",
+      "git_blob_sha": "473a5373e1d75571a069961e44fbe75e587528a4"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0010/manual_comparison.json",
+      "bytes": 4312,
+      "sha256": "9d7587bd07a189abae03898d20e7860edb37a3fadd2291c314299f220676dfb8",
+      "git_blob_sha": "42b6971cee9715c31e4a79b735d41ff4a5c3bbc9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0011/automatic.json",
+      "bytes": 5055,
+      "sha256": "3b9bee67d3d803aa77f5536753e54a77f78c7d94e2707f5c71dd1042d25afe50",
+      "git_blob_sha": "d94f6baa2b088cd3416bc0019f5f579097f74721"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0011/manual_comparison.json",
+      "bytes": 4198,
+      "sha256": "e816fc25f1c9b623c822ed79a9a7f30019a4bf113e692b8b64f8654ed9960ecc",
+      "git_blob_sha": "15f06b35f872b83381291e81482a7a1e9f93547a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0012/automatic.json",
+      "bytes": 9236,
+      "sha256": "7b1a87d771df308d93228f54fb0315c6ddfffa75eccbe3799bf862fd2907def6",
+      "git_blob_sha": "d9c7dd57e59405e41ea022d7251fb86e497868a3"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0012/manual_comparison.json",
+      "bytes": 4342,
+      "sha256": "c1ba60f04112612c1742d35d2a097d219cbb8e05182e4fa4f81245393b9257cb",
+      "git_blob_sha": "168e9069f377fe5ddf4d1d42db93d0f957927b71"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0013/automatic.json",
+      "bytes": 13484,
+      "sha256": "35d9a491fdfcc61f63f4260dff6c26e1ad76efa0781c6448b814ec3d3488e522",
+      "git_blob_sha": "56248598e2c0fc69a57a0348b75cfdc76643e6a9"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0013/manual_comparison.json",
+      "bytes": 4335,
+      "sha256": "04f15808f457c2314c8f5c35a3af21a0295e77c2698241bb3fb7aca8ec2c6d2f",
+      "git_blob_sha": "76194f06f05b4ef543816387a8feb708ebbd927a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0014/automatic.json",
+      "bytes": 13395,
+      "sha256": "5eece4d0f9162a5013f192365c3d8924834b1baf8861565996325bf6dbe542b3",
+      "git_blob_sha": "09a51c9c6af960524612b9f1bfe4718d33235910"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0014/manual_comparison.json",
+      "bytes": 4311,
+      "sha256": "bdc717787b994d307b8ebcc76978baf5c61ed50ab3dec6b975443346e81d483b",
+      "git_blob_sha": "ebcafe15ba27e582fa57ef7ff947c113f497b316"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0015/automatic.json",
+      "bytes": 13499,
+      "sha256": "f1357a4ab06fdf87b325f3e679bb0d9bd5135bf1c4df76925ad4c19ce07716cd",
+      "git_blob_sha": "492545137603f1c46aa79b41840cfb8028342902"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0015/manual_comparison.json",
+      "bytes": 4350,
+      "sha256": "ecc023f6002e0477f3d773ebe6ebff2c0df0819ef7a74a027456a657c78ce58c",
+      "git_blob_sha": "60244623a3bfbc0a320e86293c09d1b3effa2282"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0016/automatic.json",
+      "bytes": 13445,
+      "sha256": "ffb736efbcc0621c102d4edee9a6de94bcd5f3b6d7fa2c9a8909db3cd6907381",
+      "git_blob_sha": "43c59335b16223dc2ad233944ca1971f523a0d9c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0016/manual_comparison.json",
+      "bytes": 4282,
+      "sha256": "40be697196c59ee6ad566ab3682f2d78fb5cd65ee2ce93d2fed381d906d9d7ee",
+      "git_blob_sha": "39b0cb302e46e56ef5bcc8e9b6f93b82f6353ca4"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0017/automatic.json",
+      "bytes": 17650,
+      "sha256": "9b1d5b2ef24335262360303281942f93685d1f7d614396c043e907d8e48e4855",
+      "git_blob_sha": "5464ef664b2676189ef5b6b88ab4521cd4de67a6"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0017/manual_comparison.json",
+      "bytes": 4163,
+      "sha256": "ff1871b49239b9a6b6e765e5e4866873546faaf0ebb0a67409a6236b302b855b",
+      "git_blob_sha": "478d95109156f4c9e2e964681e390390d1f6679a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0018/automatic.json",
+      "bytes": 13407,
+      "sha256": "b5c8cc758a8ca69ee99100db15d174feaa4c2116bfbd4c0b80aa9cf8f3f89732",
+      "git_blob_sha": "b9770946aaba6cc4d4906f61584e2172d6fce0e8"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/PartC_pair_0018/manual_comparison.json",
+      "bytes": 4182,
+      "sha256": "a740000c6035671da5f95ac5e203906041c2c2bda494cd4cc5d66a451950f51e",
+      "git_blob_sha": "a081d2e0c189246d25fbae382e21154a13f7a7a7"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/provenance.json",
+      "bytes": 1402,
+      "sha256": "49e8d5be1964e338c6cf1c8510a4e4e106850cd370bd8a0e138e5ca9901f325f",
+      "git_blob_sha": "a5b4efb37557150bce7bd3f6712ab66390c824b0"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/run_log.json",
+      "bytes": 168,
+      "sha256": "9ed368f8c06509ce245247142c2d5ba8d76df98adcb80154c20077e54d6e2ce5",
+      "git_blob_sha": "135d1a2dfc40af3dca209d59d643eb21b2d5b326"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/summary.json",
+      "bytes": 851,
+      "sha256": "e3d3b2a7085a0f54dcac92df803c6bdab2d96908710a372b7ba868b96e51f877",
+      "git_blob_sha": "f7bfe86502eaa9335e84f34894a8481f4ccc3f2b"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/results/local43_completed/verification.json",
+      "bytes": 493,
+      "sha256": "96b8b400ef5e9a6bce80c59710678300de6791cf5629dd48de2c3a0c9297f003",
+      "git_blob_sha": "08cde9dfe5a1355786c5f11ef8f86aeca88e540c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/roi_policy.py",
+      "bytes": 2143,
+      "sha256": "54af6e5724b3a46b1de103aab3eee109d8d8efcf9184ca500bbb211e3aa4d48a",
+      "git_blob_sha": "9c547f1439b098f6f66b9aae93f04b7fcde10adc"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/run_offline.py",
+      "bytes": 7139,
+      "sha256": "a8cbf276ac660b7f0236ef2a6b7819bc990a013c7914d9609b477a3f3672c2ef",
+      "git_blob_sha": "9091c5f097468899b755ca1971bff675c934621a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/stereo/__init__.py",
+      "bytes": 49,
+      "sha256": "48569a41e6b59c012faad25fd4cdb30bbdd52de245d41aa126b77e46e3707333",
+      "git_blob_sha": "2f5e180a62b726ec7609c4f2dcc6575c88433b4a"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/stereo/geometry.py",
+      "bytes": 2396,
+      "sha256": "fe17bb063240c02707a196d13e2a12169691225918fc19e5ab01c3e7817129d6",
+      "git_blob_sha": "b642a963b24844f59bb1f69e9889b567cee9363c"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/stereo/matching.py",
+      "bytes": 4161,
+      "sha256": "70b829f850e5defee4ae7453a9f37a7179532ebae130ababd35a9eba8044c91f",
+      "git_blob_sha": "4f64a8092aa6529e6c314461cf924d7ada072521"
+    },
+    {
+      "path": "Algorithm/双目测距/v0.3/tests/test_interfaces.py",
+      "bytes": 2393,
+      "sha256": "b9e4af3fd5fa66a33ff73a6e7b1ae1fffdcb7e3b27bf1fdd835f48ada2399a76",
+      "git_blob_sha": "b625217e0fad9de1106af1fdac85fa9b04326533"
+    },
+    {
+      "path": "README.md",
+      "bytes": 15331,
+      "sha256": "66a1365b3de5c97ace717ac32ead3ace615828333fdc33b259e0bde31b7d17e9",
+      "git_blob_sha": "9c9063fff83a31f099c53c84fd9b1161801e5f61"
+    },
+    {
+      "path": "Shared/StereoRanging/DEVELOPMENT_PATH.md",
+      "bytes": 6701,
+      "sha256": "4389ee56b5274a0d41e44d6829560be690d5edf9b84ae59ed43006e467f31e9c",
+      "git_blob_sha": "05d0625156e7786c8b5496796819ccababa80670"
+    },
+    {
+      "path": "Shared/StereoRanging/interfaces.json",
+      "bytes": 2111,
+      "sha256": "990b6a88cef9738a48776b6e9b920a92fa523bfa0e0695fcca768c8070e193a9",
+      "git_blob_sha": "3e784bbb6c736c2b6e5b3cd91f24e47d220eaed1"
+    },
+    {
+      "path": "Shared/StereoRanging/PARAMETERS.md",
+      "bytes": 1078,
+      "sha256": "246abc6ec80ae1593ebddbc68f1a85910ce2caf2ef1ff14d28669bb802980d79",
+      "git_blob_sha": "04808cb4eabcf8e78731f68e60410ed93ebae109"
+    },
+    {
+      "path": "Shared/StereoRanging/publication_validation.json",
+      "bytes": 609,
+      "sha256": "a9115f1e8a8c9c7080c90591ff361e8cf6d7a11ff88edb05756b1193b9560022",
+      "git_blob_sha": "c454a2d9775bb2757e74aba5bb67cadcaaa82a11"
+    },
+    {
+      "path": "Shared/StereoRanging/README.md",
+      "bytes": 790,
+      "sha256": "39b4e80af5b03d1655deac6e953b8dabf00cd6988a21f4fd330282823e50707f",
+      "git_blob_sha": "dbb4b4160531f3b5912e061ed44cbc2644af6a29"
+    }
+  ]
+}

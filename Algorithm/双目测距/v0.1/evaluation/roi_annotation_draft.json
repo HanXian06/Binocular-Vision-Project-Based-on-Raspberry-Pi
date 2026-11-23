@@ -1,0 +1,428 @@
+[
+  {
+    "part": "PartB",
+    "pair_id": "pair_0001",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0001_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0001_R.png",
+    "roi_xywh": [
+      256,
+      200,
+      181,
+      127
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0002",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0002_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0002_R.png",
+    "roi_xywh": [
+      242,
+      188,
+      227,
+      151
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0003",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0003_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0003_R.png",
+    "roi_xywh": [
+      240,
+      173,
+      207,
+      145
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0004",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0004_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0004_R.png",
+    "roi_xywh": [
+      256,
+      178,
+      192,
+      127
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0005",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0005_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0005_R.png",
+    "roi_xywh": [
+      265,
+      170,
+      196,
+      127
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0006",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0006_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0006_R.png",
+    "roi_xywh": [
+      270,
+      245,
+      100,
+      55
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0007",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0007_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0007_R.png",
+    "roi_xywh": [
+      290,
+      244,
+      87,
+      59
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0008",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0008_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0008_R.png",
+    "roi_xywh": [
+      291,
+      248,
+      88,
+      63
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0009",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0009_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0009_R.png",
+    "roi_xywh": [
+      285,
+      254,
+      91,
+      52
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0010",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0010_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0010_R.png",
+    "roi_xywh": [
+      295,
+      248,
+      96,
+      65
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0011",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0011_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0011_R.png",
+    "roi_xywh": [
+      267,
+      277,
+      59,
+      43
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0012",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0012_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0012_R.png",
+    "roi_xywh": [
+      270,
+      277,
+      58,
+      42
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0013",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0013_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0013_R.png",
+    "roi_xywh": [
+      270,
+      277,
+      60,
+      46
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0014",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0014_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0014_R.png",
+    "roi_xywh": [
+      271,
+      277,
+      58,
+      42
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0015",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0015_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0015_R.png",
+    "roi_xywh": [
+      268,
+      278,
+      60,
+      45
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0016",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0016_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0016_R.png",
+    "roi_xywh": [
+      283,
+      273,
+      45,
+      36
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0017",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0017_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0017_R.png",
+    "roi_xywh": [
+      280,
+      272,
+      44,
+      34
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0018",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0018_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0018_R.png",
+    "roi_xywh": [
+      281,
+      273,
+      45,
+      36
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0019",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0019_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0019_R.png",
+    "roi_xywh": [
+      280,
+      272,
+      43,
+      35
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0020",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0020_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0020_R.png",
+    "roi_xywh": [
+      279,
+      273,
+      45,
+      36
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0021",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0021_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0021_R.png",
+    "roi_xywh": [
+      300,
+      271,
+      31,
+      30
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0022",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0022_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0022_R.png",
+    "roi_xywh": [
+      296,
+      271,
+      32,
+      31
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0023",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0023_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0023_R.png",
+    "roi_xywh": [
+      298,
+      271,
+      31,
+      31
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0024",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0024_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0024_R.png",
+    "roi_xywh": [
+      298,
+      271,
+      30,
+      30
+    ]
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0025",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0025_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0025_R.png",
+    "roi_xywh": [
+      298,
+      271,
+      31,
+      31
+    ]
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0001",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0001_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0001_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0002",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0002_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0002_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0003",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0003_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0003_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0004",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0004_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0004_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0005",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0005_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0005_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0006",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0006_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0006_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0007",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0007_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0007_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0008",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0008_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0008_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0009",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0009_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0009_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0010",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0010_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0010_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0011",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0011_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0011_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0012",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0012_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0012_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0013",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0013_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0013_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0014",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0014_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0014_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0015",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0015_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0015_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0016",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0016_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0016_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0017",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0017_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0017_R.png",
+    "roi_xywh": null
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0018",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0018_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0018_R.png",
+    "roi_xywh": null
+  }
+]

@@ -1,0 +1,430 @@
+{
+  "version": "v0.3",
+  "pair_id": "PartC/pair_0016",
+  "left_timestamp_ns": null,
+  "right_timestamp_ns": null,
+  "pair_time_difference_ns": null,
+  "distance_definition": "rectified_left_optical_axis_Z",
+  "objects": [
+    {
+      "detection_id": 0,
+      "class_id": 56,
+      "class_name": "chair",
+      "confidence": 0.886496901512146,
+      "bbox_xyxy": [
+        250.11167232806866,
+        256.33274005009577,
+        419.44853709294244,
+        479.0
+      ],
+      "surface_box": [
+        258,
+        267,
+        153,
+        112
+      ],
+      "status": "distance_available",
+      "final": {
+        "available": true,
+        "depth_m": 2.7110087871551514,
+        "diagnostic_median_m": 2.7110087871551514,
+        "valid_count": 12043,
+        "candidate_count": 12998,
+        "valid_fraction": 0.9265271580243114
+      },
+      "regions": {
+        "full": {
+          "available": true,
+          "depth_m": 2.7110087871551514,
+          "diagnostic_median_m": 2.7110087871551514,
+          "valid_count": 12043,
+          "candidate_count": 12998,
+          "valid_fraction": 0.9265271580243114
+        },
+        "center": {
+          "available": true,
+          "depth_m": 2.7110087871551514,
+          "diagnostic_median_m": 2.7110087871551514,
+          "valid_count": 5776,
+          "candidate_count": 6164,
+          "valid_fraction": 0.9370538611291369
+        },
+        "left": {
+          "available": true,
+          "depth_m": 2.800260066986084,
+          "diagnostic_median_m": 2.800260066986084,
+          "valid_count": 2651,
+          "candidate_count": 2813,
+          "valid_fraction": 0.9424102381798791
+        },
+        "right": {
+          "available": true,
+          "depth_m": 2.6789889335632324,
+          "diagnostic_median_m": 2.6789889335632324,
+          "valid_count": 2658,
+          "candidate_count": 2813,
+          "valid_fraction": 0.9448986846782794
+        },
+        "tile_0_0": {
+          "available": true,
+          "depth_m": 2.8471264839172363,
+          "diagnostic_median_m": 2.8471264839172363,
+          "valid_count": 1235,
+          "candidate_count": 1408,
+          "valid_fraction": 0.8771306818181818
+        },
+        "tile_0_1": {
+          "available": true,
+          "depth_m": 2.7774007320404053,
+          "diagnostic_median_m": 2.7774007320404053,
+          "valid_count": 1084,
+          "candidate_count": 1472,
+          "valid_fraction": 0.7364130434782609
+        },
+        "tile_0_2": {
+          "available": true,
+          "depth_m": 2.7002508640289307,
+          "diagnostic_median_m": 2.7002508640289307,
+          "valid_count": 1298,
+          "candidate_count": 1408,
+          "valid_fraction": 0.921875
+        },
+        "tile_1_0": {
+          "available": true,
+          "depth_m": 2.7774007320404053,
+          "diagnostic_median_m": 2.7774007320404053,
+          "valid_count": 1406,
+          "candidate_count": 1452,
+          "valid_fraction": 0.9683195592286501
+        },
+        "tile_1_1": {
+          "available": true,
+          "depth_m": 2.7002508640289307,
+          "diagnostic_median_m": 2.7002508640289307,
+          "valid_count": 1447,
+          "candidate_count": 1518,
+          "valid_fraction": 0.953227931488801
+        },
+        "tile_1_2": {
+          "available": true,
+          "depth_m": 2.668483257293701,
+          "diagnostic_median_m": 2.668483257293701,
+          "valid_count": 1384,
+          "candidate_count": 1452,
+          "valid_fraction": 0.953168044077135
+        },
+        "tile_2_0": {
+          "available": true,
+          "depth_m": 2.7002508640289307,
+          "diagnostic_median_m": 2.7002508640289307,
+          "valid_count": 1311,
+          "candidate_count": 1408,
+          "valid_fraction": 0.9311079545454546
+        },
+        "tile_2_1": {
+          "available": true,
+          "depth_m": 2.7002508640289307,
+          "diagnostic_median_m": 2.7002508640289307,
+          "valid_count": 1472,
+          "candidate_count": 1472,
+          "valid_fraction": 1.0
+        },
+        "tile_2_2": {
+          "available": true,
+          "depth_m": 2.6789889335632324,
+          "diagnostic_median_m": 2.6789889335632324,
+          "valid_count": 1406,
+          "candidate_count": 1408,
+          "valid_fraction": 0.9985795454545454
+        }
+      }
+    },
+    {
+      "detection_id": 1,
+      "class_id": 56,
+      "class_name": "chair",
+      "confidence": 0.8109699487686157,
+      "bbox_xyxy": [
+        384.0329283934373,
+        260.2089339036208,
+        465.19325366387,
+        446.5064826378455
+      ],
+      "surface_box": [
+        388,
+        269,
+        74,
+        94
+      ],
+      "status": "distance_available",
+      "final": {
+        "available": true,
+        "depth_m": 3.2558047771453857,
+        "diagnostic_median_m": 3.2558047771453857,
+        "valid_count": 4006,
+        "candidate_count": 5103,
+        "valid_fraction": 0.7850284146580443
+      },
+      "regions": {
+        "full": {
+          "available": true,
+          "depth_m": 3.2558047771453857,
+          "diagnostic_median_m": 3.2558047771453857,
+          "valid_count": 4006,
+          "candidate_count": 5103,
+          "valid_fraction": 0.7850284146580443
+        },
+        "center": {
+          "available": true,
+          "depth_m": 3.2714576721191406,
+          "diagnostic_median_m": 3.2714576721191406,
+          "valid_count": 1888,
+          "candidate_count": 2565,
+          "valid_fraction": 0.7360623781676413
+        },
+        "left": {
+          "available": true,
+          "depth_m": 2.5017030239105225,
+          "diagnostic_median_m": 2.5017030239105225,
+          "valid_count": 738,
+          "candidate_count": 1053,
+          "valid_fraction": 0.7008547008547008
+        },
+        "right": {
+          "available": true,
+          "depth_m": 3.2714576721191406,
+          "diagnostic_median_m": 3.2714576721191406,
+          "valid_count": 1053,
+          "candidate_count": 1053,
+          "valid_fraction": 1.0
+        },
+        "tile_0_0": {
+          "available": true,
+          "depth_m": 2.7110087871551514,
+          "diagnostic_median_m": 2.7110087871551514,
+          "valid_count": 252,
+          "candidate_count": 520,
+          "valid_fraction": 0.4846153846153846
+        },
+        "tile_0_1": {
+          "available": true,
+          "depth_m": 3.2714576721191406,
+          "diagnostic_median_m": 3.2714576721191406,
+          "valid_count": 508,
+          "candidate_count": 598,
+          "valid_fraction": 0.8494983277591973
+        },
+        "tile_0_2": {
+          "available": true,
+          "depth_m": 3.2714576721191406,
+          "diagnostic_median_m": 3.2714576721191406,
+          "valid_count": 520,
+          "candidate_count": 520,
+          "valid_fraction": 1.0
+        },
+        "tile_1_0": {
+          "available": true,
+          "depth_m": 2.412990093231201,
+          "diagnostic_median_m": 2.412990093231201,
+          "valid_count": 212,
+          "candidate_count": 580,
+          "valid_fraction": 0.36551724137931035
+        },
+        "tile_1_1": {
+          "available": true,
+          "depth_m": 3.2249441146850586,
+          "diagnostic_median_m": 3.2249441146850586,
+          "valid_count": 461,
+          "candidate_count": 667,
+          "valid_fraction": 0.6911544227886057
+        },
+        "tile_1_2": {
+          "available": true,
+          "depth_m": 3.2714576721191406,
+          "diagnostic_median_m": 3.2714576721191406,
+          "valid_count": 580,
+          "candidate_count": 580,
+          "valid_fraction": 1.0
+        },
+        "tile_2_0": {
+          "available": true,
+          "depth_m": 2.354543924331665,
+          "diagnostic_median_m": 2.354543924331665,
+          "valid_count": 520,
+          "candidate_count": 520,
+          "valid_fraction": 1.0
+        },
+        "tile_2_1": {
+          "available": true,
+          "depth_m": 3.2403008937835693,
+          "diagnostic_median_m": 3.2403008937835693,
+          "valid_count": 433,
+          "candidate_count": 598,
+          "valid_fraction": 0.7240802675585284
+        },
+        "tile_2_2": {
+          "available": true,
+          "depth_m": 3.2714576721191406,
+          "diagnostic_median_m": 3.2714576721191406,
+          "valid_count": 520,
+          "candidate_count": 520,
+          "valid_fraction": 1.0
+        }
+      }
+    },
+    {
+      "detection_id": 2,
+      "class_id": 56,
+      "class_name": "chair",
+      "confidence": 0.7478727698326111,
+      "bbox_xyxy": [
+        516.1905831557053,
+        247.31481405404898,
+        639.0,
+        478.7654553926908
+      ],
+      "surface_box": [
+        522,
+        258,
+        111,
+        117
+      ],
+      "status": "distance_available",
+      "final": {
+        "available": true,
+        "depth_m": 2.387590169906616,
+        "diagnostic_median_m": 2.387590169906616,
+        "valid_count": 7728,
+        "candidate_count": 9792,
+        "valid_fraction": 0.7892156862745098
+      },
+      "regions": {
+        "full": {
+          "available": true,
+          "depth_m": 2.387590169906616,
+          "diagnostic_median_m": 2.387590169906616,
+          "valid_count": 7728,
+          "candidate_count": 9792,
+          "valid_fraction": 0.7892156862745098
+        },
+        "center": {
+          "available": true,
+          "depth_m": 2.223736047744751,
+          "diagnostic_median_m": 2.223736047744751,
+          "valid_count": 3668,
+          "candidate_count": 4620,
+          "valid_fraction": 0.793939393939394
+        },
+        "left": {
+          "available": true,
+          "depth_m": 2.2531893253326416,
+          "diagnostic_median_m": 2.2531893253326416,
+          "valid_count": 1639,
+          "candidate_count": 2040,
+          "valid_fraction": 0.8034313725490196
+        },
+        "right": {
+          "available": true,
+          "depth_m": 3.3032193183898926,
+          "diagnostic_median_m": 3.3032193183898926,
+          "valid_count": 1418,
+          "candidate_count": 2040,
+          "valid_fraction": 0.6950980392156862
+        },
+        "tile_0_0": {
+          "available": true,
+          "depth_m": 1.9666566848754883,
+          "diagnostic_median_m": 1.9666566848754883,
+          "valid_count": 971,
+          "candidate_count": 1023,
+          "valid_fraction": 0.9491691104594331
+        },
+        "tile_0_1": {
+          "available": true,
+          "depth_m": 3.2403008937835693,
+          "diagnostic_median_m": 3.2403008937835693,
+          "valid_count": 1095,
+          "candidate_count": 1122,
+          "valid_fraction": 0.9759358288770054
+        },
+        "tile_0_2": {
+          "available": true,
+          "depth_m": 3.3032193183898926,
+          "diagnostic_median_m": 3.3032193183898926,
+          "valid_count": 970,
+          "candidate_count": 1023,
+          "valid_fraction": 0.9481915933528837
+        },
+        "tile_1_0": {
+          "available": true,
+          "depth_m": 2.245753049850464,
+          "diagnostic_median_m": 2.245753049850464,
+          "valid_count": 898,
+          "candidate_count": 1116,
+          "valid_fraction": 0.8046594982078853
+        },
+        "tile_1_1": {
+          "available": true,
+          "depth_m": 1.9497512578964233,
+          "diagnostic_median_m": 1.9497512578964233,
+          "valid_count": 947,
+          "candidate_count": 1224,
+          "valid_fraction": 0.7736928104575164
+        },
+        "tile_1_2": {
+          "available": true,
+          "depth_m": 3.1502926349639893,
+          "diagnostic_median_m": 3.1502926349639893,
+          "valid_count": 390,
+          "candidate_count": 1116,
+          "valid_fraction": 0.34946236559139787
+        },
+        "tile_2_0": {
+          "available": true,
+          "depth_m": 2.314500570297241,
+          "diagnostic_median_m": 2.314500570297241,
+          "valid_count": 876,
+          "candidate_count": 1023,
+          "valid_fraction": 0.8563049853372434
+        },
+        "tile_2_1": {
+          "available": true,
+          "depth_m": 2.0013623237609863,
+          "diagnostic_median_m": 2.0013623237609863,
+          "valid_count": 923,
+          "candidate_count": 1122,
+          "valid_fraction": 0.8226381461675579
+        },
+        "tile_2_2": {
+          "available": true,
+          "depth_m": 16.201505661010742,
+          "diagnostic_median_m": 16.201505661010742,
+          "valid_count": 658,
+          "candidate_count": 1023,
+          "valid_fraction": 0.6432062561094819
+        }
+      }
+    },
+    {
+      "detection_id": 3,
+      "class_id": 63,
+      "class_name": "laptop",
+      "confidence": 0.5207850933074951,
+      "bbox_xyxy": [
+        25.270996827345627,
+        272.13664568387543,
+        114.58904633155235,
+        322.6566065274752
+      ],
+      "status": "unsupported_class",
+      "final": null,
+      "regions": {}
+    }
+  ],
+  "timing_ms": {
+    "rectify_ms": 5.526299821212888,
+    "detect_ms": 20.124899921938777,
+    "stereo_ms": 67.84240016713738,
+    "regions_ms": 47.83809999935329
+  }
+}

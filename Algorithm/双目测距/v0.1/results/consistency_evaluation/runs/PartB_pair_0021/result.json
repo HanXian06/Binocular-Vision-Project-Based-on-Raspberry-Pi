@@ -1,0 +1,68 @@
+{
+  "version": "v0.1",
+  "pair_id": "PartB/pair_0021",
+  "distance_definition": "rectified_left_optical_axis_Z",
+  "unit": "m",
+  "available": true,
+  "depth_m": 2.7218527793884277,
+  "roi_xywh": [
+    300,
+    271,
+    31,
+    30
+  ],
+  "roi_pixels": 930,
+  "valid_pixels": 925,
+  "valid_fraction": 0.9946236559139785,
+  "q25_m": 2.6789889335632324,
+  "q75_m": 2.7774007320404053,
+  "iqr_m": 0.09841179847717285,
+  "reasons": [],
+  "reference_distance_m": 3,
+  "absolute_error_m": 0.27814722061157227,
+  "timing_ms": {
+    "read_ms": 9.510499890893698,
+    "rectify_ms": 18.119500018656254,
+    "matching_ms": 52.63209994882345,
+    "reproject_filter_ms": 6.360700121149421,
+    "right_matching_ms": 58.10819985345006,
+    "consistency_ms": 14.885300071910024,
+    "region_ms": 0.18279999494552612
+  },
+  "compute_total_ms": 159.79909989982843,
+  "parameter_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+  "left_sha256": "a712625933a6671e7c6e5190d7dd0d00cf25ab7e60a2b4b2a28a4bba2a4ec935",
+  "right_sha256": "3c9441b3c966ec017f320ddbd2998c02cccddea1ec3db7753667c834a60ebb99",
+  "opencv_version": "5.0.0",
+  "numpy_version": "2.5.4",
+  "notes": "Availability is pixel support only; not a calibrated probability of accuracy.",
+  "consistency_check": {
+    "enabled": true,
+    "max_diff_px": 1.0,
+    "roi_base_valid_pixels": 925,
+    "roi_checked_pixels": 925,
+    "roi_passed_pixels": 925,
+    "roi_pass_fraction_of_base": 1.0,
+    "roi_pass_fraction_of_checked": 1.0,
+    "roi_residual_median_px": 0.0625
+  },
+  "before_consistency": {
+    "available": true,
+    "depth_m": 2.7218527793884277,
+    "roi_xywh": [
+      300,
+      271,
+      31,
+      30
+    ],
+    "roi_pixels": 930,
+    "valid_pixels": 925,
+    "valid_fraction": 0.9946236559139785,
+    "q25_m": 2.6789889335632324,
+    "q75_m": 2.7774007320404053,
+    "iqr_m": 0.09841179847717285,
+    "reasons": [],
+    "absolute_error_m": 0.27814722061157227
+  },
+  "artifact_write_ms": 179.6358001884073
+}

@@ -1,0 +1,74 @@
+{
+  "part": "PartB",
+  "pair_id": "pair_0022",
+  "object": "box",
+  "nominal_distance_m": 3,
+  "reference_distance_m": 3.01,
+  "sgbm_full": {
+    "available": true,
+    "depth_m": 2.7110087871551514,
+    "absolute_error_m": 0.2989912128448484,
+    "relative_error_percent": 9.933262885210912
+  },
+  "sgbm_grid": {
+    "available": true,
+    "depth_m": 2.705629825592041,
+    "accepted_points": 64,
+    "sample_points": 64,
+    "accepted_fraction": 1.0,
+    "absolute_error_m": 0.30437017440795877,
+    "relative_error_percent": 10.111965927174712
+  },
+  "ncc_y0": {
+    "available": true,
+    "depth_m": 2.66765644995266,
+    "accepted_points": 30,
+    "sample_points": 64,
+    "accepted_fraction": 0.46875,
+    "matching_ms": 4.36919997446239,
+    "rejections": {
+      "low_similarity": 12,
+      "ambiguous": 18,
+      "weak_texture": 2,
+      "horizontal_search_limit": 2
+    },
+    "vertical_median_px": 0.0,
+    "reprojection_median_px": 0.0,
+    "vertical_limit_fraction": 0.0,
+    "sgbm_on_same_accepted_points": {
+      "available": true,
+      "depth_m": 2.7110087871551514,
+      "accepted_points": 30,
+      "sample_points": 64,
+      "accepted_fraction": 0.46875
+    },
+    "original_left_axis_z_diagnostic_m": 2.7339753280884613,
+    "absolute_error_m": 0.34234355004733974,
+    "relative_error_percent": 11.373539868682384
+  },
+  "ncc_y8": {
+    "available": true,
+    "depth_m": 2.707253338663712,
+    "accepted_points": 46,
+    "sample_points": 64,
+    "accepted_fraction": 0.71875,
+    "matching_ms": 5.378499859943986,
+    "rejections": {
+      "ambiguous": 16,
+      "weak_texture": 2
+    },
+    "vertical_median_px": 1.0,
+    "reprojection_median_px": 0.5000140595701897,
+    "vertical_limit_fraction": 0.0,
+    "sgbm_on_same_accepted_points": {
+      "available": true,
+      "depth_m": 2.705629825592041,
+      "accepted_points": 46,
+      "sample_points": 64,
+      "accepted_fraction": 0.71875
+    },
+    "original_left_axis_z_diagnostic_m": 2.7737448433821967,
+    "absolute_error_m": 0.3027466613362879,
+    "relative_error_percent": 10.058028615823519
+  }
+}

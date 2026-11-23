@@ -1,0 +1,335 @@
+[
+  {
+    "part": "PartC",
+    "pair_id": "pair_0004",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0004_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0004_R.png",
+    "roi_xywh": [
+      340,
+      302,
+      120,
+      8
+    ],
+    "object": "chair",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 1,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景",
+    "candidate_rois": {
+      "left_frame": [
+        225,
+        315,
+        45,
+        140
+      ],
+      "right_frame": [
+        565,
+        315,
+        40,
+        140
+      ],
+      "upper_junction": [
+        235,
+        295,
+        70,
+        45
+      ]
+    }
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0005",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0005_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0005_R.png",
+    "roi_xywh": [
+      340,
+      302,
+      120,
+      8
+    ],
+    "object": "chair",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 1.01,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景",
+    "candidate_rois": {
+      "left_frame": [
+        225,
+        315,
+        45,
+        140
+      ],
+      "right_frame": [
+        565,
+        315,
+        40,
+        140
+      ],
+      "upper_junction": [
+        235,
+        295,
+        70,
+        45
+      ]
+    }
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0006",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0006_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0006_R.png",
+    "roi_xywh": [
+      340,
+      302,
+      120,
+      8
+    ],
+    "object": "chair",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 0.99,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景",
+    "candidate_rois": {
+      "left_frame": [
+        225,
+        315,
+        45,
+        140
+      ],
+      "right_frame": [
+        565,
+        315,
+        40,
+        140
+      ],
+      "upper_junction": [
+        235,
+        295,
+        70,
+        45
+      ]
+    }
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0010",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0010_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0010_R.png",
+    "roi_xywh": [
+      300,
+      260,
+      115,
+      12
+    ],
+    "object": "chair",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 2,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景",
+    "candidate_rois": {
+      "left_frame": [
+        276,
+        265,
+        30,
+        145
+      ],
+      "right_frame": [
+        425,
+        270,
+        30,
+        130
+      ],
+      "upper_junction": [
+        280,
+        253,
+        45,
+        40
+      ]
+    }
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0011",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0011_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0011_R.png",
+    "roi_xywh": [
+      300,
+      260,
+      115,
+      12
+    ],
+    "object": "chair",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 2.01,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景",
+    "candidate_rois": {
+      "left_frame": [
+        276,
+        265,
+        30,
+        145
+      ],
+      "right_frame": [
+        425,
+        270,
+        30,
+        130
+      ],
+      "upper_junction": [
+        280,
+        253,
+        45,
+        40
+      ]
+    }
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0012",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0012_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0012_R.png",
+    "roi_xywh": [
+      300,
+      260,
+      115,
+      12
+    ],
+    "object": "chair",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 1.99,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景",
+    "candidate_rois": {
+      "left_frame": [
+        276,
+        265,
+        30,
+        145
+      ],
+      "right_frame": [
+        425,
+        270,
+        30,
+        130
+      ],
+      "upper_junction": [
+        280,
+        253,
+        45,
+        40
+      ]
+    }
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0016",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0016_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0016_R.png",
+    "roi_xywh": [
+      300,
+      292,
+      70,
+      10
+    ],
+    "object": "chair",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 3,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景",
+    "candidate_rois": {
+      "left_frame": [
+        275,
+        292,
+        30,
+        80
+      ],
+      "right_frame": [
+        375,
+        292,
+        30,
+        80
+      ],
+      "upper_junction": [
+        280,
+        280,
+        45,
+        35
+      ]
+    }
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0017",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0017_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0017_R.png",
+    "roi_xywh": [
+      300,
+      292,
+      70,
+      10
+    ],
+    "object": "chair",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 3.01,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景",
+    "candidate_rois": {
+      "left_frame": [
+        275,
+        292,
+        30,
+        80
+      ],
+      "right_frame": [
+        375,
+        292,
+        30,
+        80
+      ],
+      "upper_junction": [
+        280,
+        280,
+        45,
+        35
+      ]
+    }
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0018",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0018_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0018_R.png",
+    "roi_xywh": [
+      300,
+      292,
+      70,
+      10
+    ],
+    "object": "chair",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 2.99,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景",
+    "candidate_rois": {
+      "left_frame": [
+        275,
+        292,
+        30,
+        80
+      ],
+      "right_frame": [
+        375,
+        292,
+        30,
+        80
+      ],
+      "upper_junction": [
+        280,
+        280,
+        45,
+        35
+      ]
+    }
+  }
+]

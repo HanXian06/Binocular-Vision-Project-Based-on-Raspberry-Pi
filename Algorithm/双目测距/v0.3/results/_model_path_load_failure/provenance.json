@@ -1,0 +1,22 @@
+{
+  "source": {
+    "repository": "HanXian06/Binocular-Vision-Project-Based-on-Raspberry-Pi",
+    "commit": "7ee347e136078f3784885fd0ae3ee77dc016c870",
+    "model_url": "https://raw.githubusercontent.com/HanXian06/Binocular-Vision-Project-Based-on-Raspberry-Pi/7ee347e136078f3784885fd0ae3ee77dc016c870/Algorithm/Dual-Camera-YOLO/yolox_nano.onnx",
+    "model_bytes": 3659407,
+    "model_sha256": "c789161ed43c8269fcd4e67c67eeeb4e80c622da2eb296a20bc6007bd18a0b7d"
+  },
+  "camera_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+  "code_sha256": {
+    "pipeline.py": "b671ebf150a5be40522c7f92c17f18cb99408d0162c977696616ac306f0f3f74",
+    "run_offline.py": "a8cbf276ac660b7f0236ef2a6b7819bc990a013c7914d9609b477a3f3672c2ef",
+    "roi_policy.py": "54af6e5724b3a46b1de103aab3eee109d8d8efcf9184ca500bbb211e3aa4d48a",
+    "detection/__init__.py": "c4e5d3754f5eb71077710e8c7a3b94d3b36f68747ad921c91c6bdee77b2599a4",
+    "detection/yolox_backend.py": "0cac8c8c9e04ab369a7674bc5dbd91f6eaa090d47bad571b8f36aca82d17fe62",
+    "stereo/__init__.py": "48569a41e6b59c012faad25fd4cdb30bbdd52de245d41aa126b77e46e3707333",
+    "stereo/geometry.py": "fe17bb063240c02707a196d13e2a12169691225918fc19e5ab01c3e7817129d6",
+    "stereo/matching.py": "70b829f850e5defee4ae7453a9f37a7179532ebae130ababd35a9eba8044c91f"
+  },
+  "opencv_version": "5.0.0",
+  "numpy_version": "2.5.4"
+}

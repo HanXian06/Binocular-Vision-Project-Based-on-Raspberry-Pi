@@ -1,0 +1,47 @@
+{
+  "version": "v0.2",
+  "roi_policy": {
+    "id": "surface_regions_1",
+    "inset": 0.05,
+    "center": [
+      0.2,
+      0.2,
+      0.8,
+      0.8
+    ],
+    "side_width": 0.2,
+    "tiles": 3,
+    "final": "所有候选位置去重后取有效深度中位数",
+    "min_count": 30,
+    "min_fraction": 0.1
+  },
+  "freeze": {
+    "target_sha256": "cb47fb018b23a2db426611e233c891eb475047e49c45b5b89c79ae847aab2e4c",
+    "policy_sha256": "54af6e5724b3a46b1de103aab3eee109d8d8efcf9184ca500bbb211e3aa4d48a",
+    "frozen_before_any_ranging_call": true,
+    "roi_development_calls": 0
+  },
+  "config": {
+    "version": "v0.2",
+    "selection": {
+      "quality_level": 0.01,
+      "min_distance": 3,
+      "block_size": 3,
+      "cells": 3
+    },
+    "matching": {
+      "vertical_radius": 8,
+      "patch_size": 9,
+      "max_disparity": 127,
+      "min_std": 5.0,
+      "min_score": 0.75,
+      "min_margin": 0.03
+    },
+    "region": {
+      "min_points": 30,
+      "min_fraction": 0.1
+    },
+    "grid_step": 4
+  },
+  "camera_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a"
+}

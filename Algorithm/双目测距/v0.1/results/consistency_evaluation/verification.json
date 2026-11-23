@@ -1,0 +1,12 @@
+{
+  "pairs_checked": 43,
+  "identical_input_images_and_rois": true,
+  "identical_camera_and_sgbm": true,
+  "all_left_disparities_and_before_statistics_unchanged": true,
+  "new_masks_are_exact_consistency_subsets": true,
+  "surviving_depth_values_unchanged": true,
+  "legacy_mode_all_arrays_identical_to_original_sample": true,
+  "tests_passed": 10,
+  "command": "python -m unittest discover -s tests -v",
+  "camera_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a"
+}

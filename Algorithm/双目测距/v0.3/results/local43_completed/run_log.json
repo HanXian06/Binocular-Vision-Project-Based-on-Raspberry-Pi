@@ -1,0 +1,7 @@
+{
+  "version": "v0.3",
+  "authorized": "用户批准本版本YOLO本地测试与人工ROI对照",
+  "yolo_calls": 43,
+  "sgbm_calls": 43,
+  "status": "complete"
+}

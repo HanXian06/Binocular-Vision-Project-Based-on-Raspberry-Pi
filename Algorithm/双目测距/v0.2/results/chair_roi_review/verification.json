@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-23",
+  "version": "v0.2",
+  "chair_pairs": 9,
+  "roi_types": 7,
+  "method_combinations": 189,
+  "original_roi_results_reproduced": true,
+  "input_images_verified": true,
+  "unchanged_thresholds": true,
+  "tests_passed": 8,
+  "accepted_frame_grid_unique_pairs": 6
+}

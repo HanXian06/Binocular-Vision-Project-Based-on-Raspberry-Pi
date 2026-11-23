@@ -1,0 +1,149 @@
+{
+  "version": "v0.3",
+  "pair_id": "PartB/pair_0007",
+  "left_timestamp_ns": null,
+  "right_timestamp_ns": null,
+  "pair_time_difference_ns": null,
+  "distance_definition": "rectified_left_optical_axis_Z",
+  "objects": [
+    {
+      "detection_id": 0,
+      "class_id": 56,
+      "class_name": "chair",
+      "confidence": 0.38543257117271423,
+      "bbox_xyxy": [
+        1.9150191086989181,
+        300.35380876981293,
+        182.6233907846304,
+        465.15776854294995
+      ],
+      "surface_box": [
+        10,
+        308,
+        164,
+        83
+      ],
+      "status": "distance_available",
+      "final": {
+        "available": true,
+        "depth_m": 2.007266044616699,
+        "diagnostic_median_m": 2.007266044616699,
+        "valid_count": 2015,
+        "candidate_count": 10010,
+        "valid_fraction": 0.2012987012987013
+      },
+      "regions": {
+        "full": {
+          "available": true,
+          "depth_m": 2.007266044616699,
+          "diagnostic_median_m": 2.007266044616699,
+          "valid_count": 2015,
+          "candidate_count": 10010,
+          "valid_fraction": 0.2012987012987013
+        },
+        "center": {
+          "available": false,
+          "depth_m": null,
+          "diagnostic_median_m": 1.9954932928085327,
+          "valid_count": 474,
+          "candidate_count": 4950,
+          "valid_fraction": 0.09575757575757576
+        },
+        "left": {
+          "available": false,
+          "depth_m": null,
+          "diagnostic_median_m": null,
+          "valid_count": 0,
+          "candidate_count": 2170,
+          "valid_fraction": 0.0
+        },
+        "right": {
+          "available": true,
+          "depth_m": 2.01320481300354,
+          "diagnostic_median_m": 2.01320481300354,
+          "valid_count": 1878,
+          "candidate_count": 2100,
+          "valid_fraction": 0.8942857142857142
+        },
+        "tile_0_0": {
+          "available": false,
+          "depth_m": null,
+          "diagnostic_median_m": null,
+          "valid_count": 0,
+          "candidate_count": 1081,
+          "valid_fraction": 0.0
+        },
+        "tile_0_1": {
+          "available": false,
+          "depth_m": null,
+          "diagnostic_median_m": null,
+          "valid_count": 0,
+          "candidate_count": 1127,
+          "valid_fraction": 0.0
+        },
+        "tile_0_2": {
+          "available": true,
+          "depth_m": 1.9386415481567383,
+          "diagnostic_median_m": 1.9386415481567383,
+          "valid_count": 603,
+          "candidate_count": 1081,
+          "valid_fraction": 0.5578168362627197
+        },
+        "tile_1_0": {
+          "available": false,
+          "depth_m": null,
+          "diagnostic_median_m": null,
+          "valid_count": 0,
+          "candidate_count": 1128,
+          "valid_fraction": 0.0
+        },
+        "tile_1_1": {
+          "available": false,
+          "depth_m": null,
+          "diagnostic_median_m": null,
+          "valid_count": 0,
+          "candidate_count": 1176,
+          "valid_fraction": 0.0
+        },
+        "tile_1_2": {
+          "available": true,
+          "depth_m": 2.01320481300354,
+          "diagnostic_median_m": 2.01320481300354,
+          "valid_count": 798,
+          "candidate_count": 1128,
+          "valid_fraction": 0.7074468085106383
+        },
+        "tile_2_0": {
+          "available": false,
+          "depth_m": null,
+          "diagnostic_median_m": null,
+          "valid_count": 0,
+          "candidate_count": 1081,
+          "valid_fraction": 0.0
+        },
+        "tile_2_1": {
+          "available": false,
+          "depth_m": null,
+          "diagnostic_median_m": null,
+          "valid_count": 0,
+          "candidate_count": 1127,
+          "valid_fraction": 0.0
+        },
+        "tile_2_2": {
+          "available": true,
+          "depth_m": 2.0251882076263428,
+          "diagnostic_median_m": 2.0251882076263428,
+          "valid_count": 614,
+          "candidate_count": 1081,
+          "valid_fraction": 0.5679925994449584
+        }
+      }
+    }
+  ],
+  "timing_ms": {
+    "rectify_ms": 8.185999933630228,
+    "detect_ms": 22.004199912771583,
+    "stereo_ms": 63.3761000353843,
+    "regions_ms": 7.953600026667118
+  }
+}

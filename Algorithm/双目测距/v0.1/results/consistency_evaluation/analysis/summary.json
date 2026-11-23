@@ -1,0 +1,22 @@
+{
+  "total": 43,
+  "after_available": 41,
+  "before_mae_on_common_m": 0.4467507186459332,
+  "after_mae_on_common_m": 0.936047466528125,
+  "mean_extra_right_matching_ms": 64.83256742683088,
+  "mean_consistency_check_ms": 17.217295347214783,
+  "coordinate_diagnostic": {
+    "box": {
+      "before_mae_m": 0.12476320147514343,
+      "original_axis_mae_m": 0.09059579088191223
+    },
+    "person": {
+      "before_mae_m": 0.32171287801530624,
+      "original_axis_mae_m": 0.2809903815087558
+    },
+    "chair": {
+      "before_mae_m": 2.106502718395657,
+      "original_axis_mae_m": 2.1925748431480003
+    }
+  }
+}

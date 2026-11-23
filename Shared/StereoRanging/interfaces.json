@@ -1,0 +1,59 @@
+{
+  "version": "v0.3",
+  "publisher": "陈珂乐",
+  "detector": {
+    "method": "Detector.infer(frame)",
+    "input": "校正左图BGR uint8 H×W×3，首版640×480",
+    "output_fields": {
+      "detection_id": "帧内编号，不是跨帧跟踪ID",
+      "class_id": "COCO整数类别",
+      "class_name": "类别名称",
+      "confidence": "objectness×class概率；不是深度准确率",
+      "bbox_xyxy": "输入校正左图浮点像素坐标[x1,y1,x2,y2]"
+    }
+  },
+  "pipeline": {
+    "method": "StereoPipeline.process(left,right,pair_id,left_timestamp_ns=None,right_timestamp_ns=None)",
+    "image_input": "同一帧组未绘制的左右BGR原图",
+    "output": "result, rectified_images, disparity/depth/valid arrays",
+    "time_unit": "纳秒；未知为null，不伪造同步"
+  },
+  "measurement": {
+    "coordinate": "rectified_left_optical_axis_Z",
+    "unit": "m",
+    "statuses": [
+      "distance_available",
+      "insufficient_depth",
+      "unsupported_class"
+    ],
+    "null_rule": "未检测、无有效深度与不支持类别分别保留状态；距离空值不当0",
+    "supported_classes": [
+      "person",
+      "chair",
+      "book"
+    ],
+    "manual_boxes": "仅评估阶段，不能进入自动测距路径"
+  },
+  "model": {
+    "input_size": 416,
+    "padding": "左上对齐，右/下补114；无中心补边偏移",
+    "channel_order": "BGR，沿用原仓库blob输入",
+    "confidence_threshold": 0.35,
+    "nms_iou": 0.45
+  },
+  "roi": {
+    "input": "类别表面框，校正左图像素",
+    "policy": "surface_regions_1",
+    "regions": 13,
+    "final": "候选位置并集去重后中位数",
+    "min_count": 30,
+    "min_fraction": 0.1
+  },
+  "calibration": {
+    "baseline_m": 0.0585,
+    "parameter": "background1105.npz",
+    "sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+    "note": "沿用实验参数；基线精确不等于其他内外参完全正确"
+  },
+  "scope": "不包括实时相机循环、硬件同步、上下行稠密搜索或新模型训练"
+}

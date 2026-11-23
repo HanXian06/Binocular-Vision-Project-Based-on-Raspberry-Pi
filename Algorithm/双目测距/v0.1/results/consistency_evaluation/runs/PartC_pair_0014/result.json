@@ -1,0 +1,68 @@
+{
+  "version": "v0.1",
+  "pair_id": "PartC/pair_0014",
+  "distance_definition": "rectified_left_optical_axis_Z",
+  "unit": "m",
+  "available": true,
+  "depth_m": 2.6580593585968018,
+  "roi_xywh": [
+    285,
+    140,
+    55,
+    85
+  ],
+  "roi_pixels": 4675,
+  "valid_pixels": 4667,
+  "valid_fraction": 0.9982887700534759,
+  "q25_m": 2.6374542713165283,
+  "q75_m": 2.7110087871551514,
+  "iqr_m": 0.07355451583862305,
+  "reasons": [],
+  "reference_distance_m": 3.02,
+  "absolute_error_m": 0.36194064140319826,
+  "timing_ms": {
+    "read_ms": 9.829199872910976,
+    "rectify_ms": 17.515200190246105,
+    "matching_ms": 57.66020016744733,
+    "reproject_filter_ms": 8.793799905106425,
+    "right_matching_ms": 66.92170002497733,
+    "consistency_ms": 19.021299900487065,
+    "region_ms": 0.2741001080721617
+  },
+  "compute_total_ms": 180.0155001692474,
+  "parameter_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+  "left_sha256": "337be510e9cf553ace2e152950233589910fdfe194fbbc86a853454b10a26f59",
+  "right_sha256": "f68f1b88dc1c79a7c50208854ecc0aed1bdbef364e11f32d4a1b2918161f8358",
+  "opencv_version": "5.0.0",
+  "numpy_version": "2.5.4",
+  "notes": "Availability is pixel support only; not a calibrated probability of accuracy.",
+  "consistency_check": {
+    "enabled": true,
+    "max_diff_px": 1.0,
+    "roi_base_valid_pixels": 4674,
+    "roi_checked_pixels": 4674,
+    "roi_passed_pixels": 4667,
+    "roi_pass_fraction_of_base": 0.998502353444587,
+    "roi_pass_fraction_of_checked": 0.998502353444587,
+    "roi_residual_median_px": 0.0625
+  },
+  "before_consistency": {
+    "available": true,
+    "depth_m": 2.6580593585968018,
+    "roi_xywh": [
+      285,
+      140,
+      55,
+      85
+    ],
+    "roi_pixels": 4675,
+    "valid_pixels": 4674,
+    "valid_fraction": 0.9997860962566845,
+    "q25_m": 2.6374542713165283,
+    "q75_m": 2.7110087871551514,
+    "iqr_m": 0.07355451583862305,
+    "reasons": [],
+    "absolute_error_m": 0.36194064140319826
+  },
+  "artifact_write_ms": 219.41469982266426
+}

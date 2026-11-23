@@ -1,0 +1,6 @@
+{
+  "target_sha256": "cb47fb018b23a2db426611e233c891eb475047e49c45b5b89c79ae847aab2e4c",
+  "policy_sha256": "54af6e5724b3a46b1de103aab3eee109d8d8efcf9184ca500bbb211e3aa4d48a",
+  "frozen_before_any_ranging_call": true,
+  "roi_development_calls": 0
+}

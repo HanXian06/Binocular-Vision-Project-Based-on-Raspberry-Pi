@@ -1,0 +1,9 @@
+{
+  "camera_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+  "source_sha256": {
+    "evaluation\\evaluate_local_matching.py": "8d79c2a877474b738586bebe881646bb5f56cbfbdf22888202cc7918ce0676a7",
+    "stereo_ranging\\local_matching.py": "f582f93be81a601e96c1a7e85415e85fadf754ba3fab8379b375e8b199fe2617"
+  },
+  "opencv_version": "5.0.0",
+  "numpy_version": "2.5.4"
+}

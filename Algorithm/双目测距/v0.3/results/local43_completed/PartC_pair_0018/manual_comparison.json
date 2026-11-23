@@ -1,0 +1,142 @@
+{
+  "manual": {
+    "surface_box": [
+      280,
+      282,
+      120,
+      105
+    ],
+    "status": "distance_available",
+    "final": {
+      "available": true,
+      "depth_m": 2.7110087871551514,
+      "diagnostic_median_m": 2.7110087871551514,
+      "valid_count": 9235,
+      "candidate_count": 9360,
+      "valid_fraction": 0.9866452991452992
+    },
+    "regions": {
+      "full": {
+        "available": true,
+        "depth_m": 2.7110087871551514,
+        "diagnostic_median_m": 2.7110087871551514,
+        "valid_count": 9235,
+        "candidate_count": 9360,
+        "valid_fraction": 0.9866452991452992
+      },
+      "center": {
+        "available": true,
+        "depth_m": 2.7110087871551514,
+        "diagnostic_median_m": 2.7110087871551514,
+        "valid_count": 4536,
+        "candidate_count": 4536,
+        "valid_fraction": 1.0
+      },
+      "left": {
+        "available": true,
+        "depth_m": 2.7549116611480713,
+        "diagnostic_median_m": 2.7549116611480713,
+        "valid_count": 1980,
+        "candidate_count": 1980,
+        "valid_fraction": 1.0
+      },
+      "right": {
+        "available": true,
+        "depth_m": 2.6580593585968018,
+        "diagnostic_median_m": 2.6580593585968018,
+        "valid_count": 1980,
+        "candidate_count": 1980,
+        "valid_fraction": 1.0
+      },
+      "tile_0_0": {
+        "available": true,
+        "depth_m": 2.788783550262451,
+        "diagnostic_median_m": 2.788783550262451,
+        "valid_count": 986,
+        "candidate_count": 986,
+        "valid_fraction": 1.0
+      },
+      "tile_0_1": {
+        "available": true,
+        "depth_m": 2.76611065864563,
+        "diagnostic_median_m": 2.76611065864563,
+        "valid_count": 1028,
+        "candidate_count": 1044,
+        "valid_fraction": 0.9846743295019157
+      },
+      "tile_0_2": {
+        "available": true,
+        "depth_m": 2.68957781791687,
+        "diagnostic_median_m": 2.68957781791687,
+        "valid_count": 986,
+        "candidate_count": 986,
+        "valid_fraction": 1.0
+      },
+      "tile_1_0": {
+        "available": true,
+        "depth_m": 2.7549116611480713,
+        "diagnostic_median_m": 2.7549116611480713,
+        "valid_count": 1088,
+        "candidate_count": 1088,
+        "valid_fraction": 1.0
+      },
+      "tile_1_1": {
+        "available": true,
+        "depth_m": 2.7110087871551514,
+        "diagnostic_median_m": 2.7110087871551514,
+        "valid_count": 1152,
+        "candidate_count": 1152,
+        "valid_fraction": 1.0
+      },
+      "tile_1_2": {
+        "available": true,
+        "depth_m": 2.6580593585968018,
+        "diagnostic_median_m": 2.6580593585968018,
+        "valid_count": 1088,
+        "candidate_count": 1088,
+        "valid_fraction": 1.0
+      },
+      "tile_2_0": {
+        "available": true,
+        "depth_m": 2.68957781791687,
+        "diagnostic_median_m": 2.68957781791687,
+        "valid_count": 986,
+        "candidate_count": 986,
+        "valid_fraction": 1.0
+      },
+      "tile_2_1": {
+        "available": true,
+        "depth_m": 2.7218527793884277,
+        "diagnostic_median_m": 2.7218527793884277,
+        "valid_count": 937,
+        "candidate_count": 1044,
+        "valid_fraction": 0.8975095785440613
+      },
+      "tile_2_2": {
+        "available": true,
+        "depth_m": 2.6789889335632324,
+        "diagnostic_median_m": 2.6789889335632324,
+        "valid_count": 984,
+        "candidate_count": 986,
+        "valid_fraction": 0.9979716024340771
+      }
+    }
+  },
+  "evaluation": {
+    "pair_id": "PartC/pair_0018",
+    "object": "chair",
+    "reference_distance_m": 2.99,
+    "target_detected": true,
+    "association_coverage": 1.0,
+    "detection_id": 0,
+    "confidence": 0.8817537426948547,
+    "auto_available": true,
+    "auto_depth_m": 2.7110087871551514,
+    "manual_depth_m": 2.7110087871551514,
+    "auto_error_m": 0.27899121284484885,
+    "manual_error_m": 0.27899121284484885,
+    "status": "distance_available",
+    "detect_ms": 20.117799984291196,
+    "stereo_ms": 64.91589988581836
+  }
+}

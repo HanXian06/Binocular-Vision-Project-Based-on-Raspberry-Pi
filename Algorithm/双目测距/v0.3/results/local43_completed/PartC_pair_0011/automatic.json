@@ -1,0 +1,164 @@
+{
+  "version": "v0.3",
+  "pair_id": "PartC/pair_0011",
+  "left_timestamp_ns": null,
+  "right_timestamp_ns": null,
+  "pair_time_difference_ns": null,
+  "distance_definition": "rectified_left_optical_axis_Z",
+  "objects": [
+    {
+      "detection_id": 0,
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.8061114549636841,
+      "bbox_xyxy": [
+        449.48209322415863,
+        18.69127713716947,
+        619.2361802321213,
+        450.89356642503003
+      ],
+      "surface_box": [
+        483,
+        83,
+        103,
+        217
+      ],
+      "status": "distance_available",
+      "final": {
+        "available": true,
+        "depth_m": 0.3706226646900177,
+        "diagnostic_median_m": 0.3706226646900177,
+        "valid_count": 6929,
+        "candidate_count": 16896,
+        "valid_fraction": 0.4100970643939394
+      },
+      "regions": {
+        "full": {
+          "available": true,
+          "depth_m": 0.3706226646900177,
+          "diagnostic_median_m": 0.3706226646900177,
+          "valid_count": 6929,
+          "candidate_count": 16896,
+          "valid_fraction": 0.4100970643939394
+        },
+        "center": {
+          "available": true,
+          "depth_m": 0.3765706717967987,
+          "diagnostic_median_m": 0.3765706717967987,
+          "valid_count": 3698,
+          "candidate_count": 8060,
+          "valid_fraction": 0.4588089330024814
+        },
+        "left": {
+          "available": true,
+          "depth_m": 0.3724483847618103,
+          "diagnostic_median_m": 0.3724483847618103,
+          "valid_count": 1464,
+          "candidate_count": 3456,
+          "valid_fraction": 0.4236111111111111
+        },
+        "right": {
+          "available": true,
+          "depth_m": 0.3429754078388214,
+          "diagnostic_median_m": 0.3429754078388214,
+          "valid_count": 1404,
+          "candidate_count": 3456,
+          "valid_fraction": 0.40625
+        },
+        "tile_0_0": {
+          "available": true,
+          "depth_m": 0.36466410756111145,
+          "diagnostic_median_m": 0.36466410756111145,
+          "valid_count": 783,
+          "candidate_count": 1827,
+          "valid_fraction": 0.42857142857142855
+        },
+        "tile_0_1": {
+          "available": true,
+          "depth_m": 0.3538550138473511,
+          "diagnostic_median_m": 0.3538550138473511,
+          "valid_count": 525,
+          "candidate_count": 1890,
+          "valid_fraction": 0.2777777777777778
+        },
+        "tile_0_2": {
+          "available": true,
+          "depth_m": 0.34280261397361755,
+          "diagnostic_median_m": 0.34280261397361755,
+          "valid_count": 1053,
+          "candidate_count": 1827,
+          "valid_fraction": 0.5763546798029556
+        },
+        "tile_1_0": {
+          "available": true,
+          "depth_m": 0.37367555499076843,
+          "diagnostic_median_m": 0.37367555499076843,
+          "valid_count": 1174,
+          "candidate_count": 1914,
+          "valid_fraction": 0.61337513061651
+        },
+        "tile_1_1": {
+          "available": true,
+          "depth_m": 0.44767317175865173,
+          "diagnostic_median_m": 0.44767317175865173,
+          "valid_count": 1058,
+          "candidate_count": 1980,
+          "valid_fraction": 0.5343434343434343
+        },
+        "tile_1_2": {
+          "available": true,
+          "depth_m": 0.34806302189826965,
+          "diagnostic_median_m": 0.34806302189826965,
+          "valid_count": 708,
+          "candidate_count": 1914,
+          "valid_fraction": 0.36990595611285265
+        },
+        "tile_2_0": {
+          "available": true,
+          "depth_m": 0.43703481554985046,
+          "diagnostic_median_m": 0.43703481554985046,
+          "valid_count": 422,
+          "candidate_count": 1827,
+          "valid_fraction": 0.23097974822112752
+        },
+        "tile_2_1": {
+          "available": true,
+          "depth_m": 1.9441806077957153,
+          "diagnostic_median_m": 1.9441806077957153,
+          "valid_count": 883,
+          "candidate_count": 1890,
+          "valid_fraction": 0.4671957671957672
+        },
+        "tile_2_2": {
+          "available": true,
+          "depth_m": 0.33972200751304626,
+          "diagnostic_median_m": 0.33972200751304626,
+          "valid_count": 323,
+          "candidate_count": 1827,
+          "valid_fraction": 0.17679255610290093
+        }
+      }
+    },
+    {
+      "detection_id": 1,
+      "class_id": 63,
+      "class_name": "laptop",
+      "confidence": 0.3701433837413788,
+      "bbox_xyxy": [
+        25.78704760624812,
+        272.14406673724835,
+        115.11110672583946,
+        321.64246339064374
+      ],
+      "status": "unsupported_class",
+      "final": null,
+      "regions": {}
+    }
+  ],
+  "timing_ms": {
+    "rectify_ms": 6.22399989515543,
+    "detect_ms": 17.903100000694394,
+    "stereo_ms": 61.952400021255016,
+    "regions_ms": 15.034100040793419
+  }
+}

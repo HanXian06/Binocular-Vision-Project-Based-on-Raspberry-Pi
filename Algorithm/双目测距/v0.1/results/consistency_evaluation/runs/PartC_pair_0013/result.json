@@ -1,0 +1,68 @@
+{
+  "version": "v0.1",
+  "pair_id": "PartC/pair_0013",
+  "distance_definition": "rectified_left_optical_axis_Z",
+  "unit": "m",
+  "available": true,
+  "depth_m": 2.7110087871551514,
+  "roi_xywh": [
+    285,
+    140,
+    55,
+    85
+  ],
+  "roi_pixels": 4675,
+  "valid_pixels": 4663,
+  "valid_fraction": 0.9974331550802139,
+  "q25_m": 2.668483257293701,
+  "q75_m": 2.800260066986084,
+  "iqr_m": 0.1317768096923828,
+  "reasons": [],
+  "reference_distance_m": 3,
+  "absolute_error_m": 0.28899121284484863,
+  "timing_ms": {
+    "read_ms": 9.451899910345674,
+    "rectify_ms": 19.887099973857403,
+    "matching_ms": 61.16789998486638,
+    "reproject_filter_ms": 6.7368000745773315,
+    "right_matching_ms": 73.75109987333417,
+    "consistency_ms": 18.479499965906143,
+    "region_ms": 0.2669999375939369
+  },
+  "compute_total_ms": 189.74129972048104,
+  "parameter_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+  "left_sha256": "7053b2c38b604f80592f704792ecd169285c18e6b05630c9d90a207fc79fafa8",
+  "right_sha256": "b8ac2fa231b2035010c268c5a0bbc3451f5aa23ac4ceeb68232aea3e496e066d",
+  "opencv_version": "5.0.0",
+  "numpy_version": "2.5.4",
+  "notes": "Availability is pixel support only; not a calibrated probability of accuracy.",
+  "consistency_check": {
+    "enabled": true,
+    "max_diff_px": 1.0,
+    "roi_base_valid_pixels": 4675,
+    "roi_checked_pixels": 4663,
+    "roi_passed_pixels": 4663,
+    "roi_pass_fraction_of_base": 0.9974331550802139,
+    "roi_pass_fraction_of_checked": 1.0,
+    "roi_residual_median_px": 0.0625
+  },
+  "before_consistency": {
+    "available": true,
+    "depth_m": 2.7110087871551514,
+    "roi_xywh": [
+      285,
+      140,
+      55,
+      85
+    ],
+    "roi_pixels": 4675,
+    "valid_pixels": 4675,
+    "valid_fraction": 1.0,
+    "q25_m": 2.668483257293701,
+    "q75_m": 2.800260066986084,
+    "iqr_m": 0.1317768096923828,
+    "reasons": [],
+    "absolute_error_m": 0.28899121284484863
+  },
+  "artifact_write_ms": 218.9298002049327
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-23",
+  "publisher": "陈珂乐",
+  "unit_tests": {
+    "v0.1": 15,
+    "v0.2": 8,
+    "v0.3": 5,
+    "roi_protocol": 3
+  },
+  "tests_total": 31,
+  "tests_passed": 31,
+  "portable_indexes": 1113,
+  "cli_entries_passed": 4,
+  "unchanged_algorithm_py": 35,
+  "adapted_files": [
+    "Algorithm/双目测距/v0.3/detection/yolox_backend.py"
+  ],
+  "canonical_backend_identical_to_local_source": true,
+  "roi_ledger_unchanged": true,
+  "real_image_inference_calls": 0,
+  "note": "本次为发布包装验证；原数据集指标见历史统计，不重新运行算法。"
+}

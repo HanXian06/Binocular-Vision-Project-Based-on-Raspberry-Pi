@@ -1,0 +1,14 @@
+{
+  "box": {
+    "total": 25,
+    "detected": 0
+  },
+  "person": {
+    "total": 9,
+    "detected": 9
+  },
+  "chair": {
+    "total": 9,
+    "detected": 6
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "manual": {
+    "surface_box": [
+      264,
+      261,
+      75,
+      60
+    ],
+    "status": "distance_available",
+    "final": {
+      "available": true,
+      "depth_m": 1.8145685195922852,
+      "diagnostic_median_m": 1.8145685195922852,
+      "valid_count": 2928,
+      "candidate_count": 3200,
+      "valid_fraction": 0.915
+    },
+    "regions": {
+      "full": {
+        "available": true,
+        "depth_m": 1.8145685195922852,
+        "diagnostic_median_m": 1.8145685195922852,
+        "valid_count": 2928,
+        "candidate_count": 3200,
+        "valid_fraction": 0.915
+      },
+      "center": {
+        "available": true,
+        "depth_m": 1.8292021751403809,
+        "diagnostic_median_m": 1.8292021751403809,
+        "valid_count": 1582,
+        "candidate_count": 1620,
+        "valid_fraction": 0.9765432098765432
+      },
+      "left": {
+        "available": true,
+        "depth_m": 1.790692687034607,
+        "diagnostic_median_m": 1.790692687034607,
+        "valid_count": 525,
+        "candidate_count": 650,
+        "valid_fraction": 0.8076923076923077
+      },
+      "right": {
+        "available": true,
+        "depth_m": 1.800167202949524,
+        "diagnostic_median_m": 1.800167202949524,
+        "valid_count": 650,
+        "candidate_count": 650,
+        "valid_fraction": 1.0
+      },
+      "tile_0_0": {
+        "available": true,
+        "depth_m": 1.895440697669983,
+        "diagnostic_median_m": 1.895440697669983,
+        "valid_count": 174,
+        "candidate_count": 336,
+        "valid_fraction": 0.5178571428571429
+      },
+      "tile_0_1": {
+        "available": true,
+        "depth_m": 1.800167202949524,
+        "diagnostic_median_m": 1.800167202949524,
+        "valid_count": 265,
+        "candidate_count": 352,
+        "valid_fraction": 0.7528409090909091
+      },
+      "tile_0_2": {
+        "available": true,
+        "depth_m": 1.849084734916687,
+        "diagnostic_median_m": 1.849084734916687,
+        "valid_count": 330,
+        "candidate_count": 336,
+        "valid_fraction": 0.9821428571428571
+      },
+      "tile_1_0": {
+        "available": true,
+        "depth_m": 1.7813172340393066,
+        "diagnostic_median_m": 1.7813172340393066,
+        "valid_count": 365,
+        "candidate_count": 378,
+        "valid_fraction": 0.9656084656084656
+      },
+      "tile_1_1": {
+        "available": true,
+        "depth_m": 1.8390897512435913,
+        "diagnostic_median_m": 1.8390897512435913,
+        "valid_count": 393,
+        "candidate_count": 396,
+        "valid_fraction": 0.9924242424242424
+      },
+      "tile_1_2": {
+        "available": true,
+        "depth_m": 1.819420337677002,
+        "diagnostic_median_m": 1.819420337677002,
+        "valid_count": 378,
+        "candidate_count": 378,
+        "valid_fraction": 1.0
+      },
+      "tile_2_0": {
+        "available": true,
+        "depth_m": 1.7954174280166626,
+        "diagnostic_median_m": 1.7954174280166626,
+        "valid_count": 335,
+        "candidate_count": 336,
+        "valid_fraction": 0.9970238095238095
+      },
+      "tile_2_1": {
+        "available": true,
+        "depth_m": 1.800167202949524,
+        "diagnostic_median_m": 1.800167202949524,
+        "valid_count": 352,
+        "candidate_count": 352,
+        "valid_fraction": 1.0
+      },
+      "tile_2_2": {
+        "available": true,
+        "depth_m": 1.7813172340393066,
+        "diagnostic_median_m": 1.7813172340393066,
+        "valid_count": 336,
+        "candidate_count": 336,
+        "valid_fraction": 1.0
+      }
+    }
+  },
+  "evaluation": {
+    "pair_id": "PartB/pair_0020",
+    "object": "box",
+    "reference_distance_m": 1.98,
+    "target_detected": false,
+    "association_coverage": null,
+    "detection_id": null,
+    "confidence": null,
+    "auto_available": false,
+    "auto_depth_m": null,
+    "manual_depth_m": 1.8145685195922852,
+    "auto_error_m": null,
+    "manual_error_m": 0.16543148040771483,
+    "status": "target_not_detected",
+    "detect_ms": 19.455299945548177,
+    "stereo_ms": 64.09369991160929
+  }
+}

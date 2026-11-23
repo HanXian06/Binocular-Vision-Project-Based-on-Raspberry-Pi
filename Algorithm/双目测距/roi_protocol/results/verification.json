@@ -1,0 +1,20 @@
+{
+  "pairs_per_version": 43,
+  "regions_per_pair": 13,
+  "development_calls": {
+    "v0.1": 0,
+    "v0.2": 0
+  },
+  "final_calls": {
+    "v0.1": 1,
+    "v0.2": 1
+  },
+  "internal_matching_calls": {
+    "v0.1": 43,
+    "v0.2": 43
+  },
+  "roi_policy_tests_passed": 3,
+  "final_medians_recomputed": true,
+  "old_versions_unchanged": true,
+  "sgbm_vertical_search_added": false
+}

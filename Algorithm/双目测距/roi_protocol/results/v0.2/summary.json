@@ -1,0 +1,22 @@
+{
+  "all": {
+    "total": 43,
+    "available": 34,
+    "mae_m": 0.16702377681585798
+  },
+  "box": {
+    "total": 25,
+    "available": 25,
+    "mae_m": 0.13830155591377213
+  },
+  "person": {
+    "total": 9,
+    "available": 9,
+    "mae_m": 0.2468077237660964
+  },
+  "chair": {
+    "total": 9,
+    "available": 0,
+    "mae_m": null
+  }
+}

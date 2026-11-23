@@ -1,0 +1,164 @@
+{
+  "version": "v0.3",
+  "pair_id": "PartB/pair_0001",
+  "left_timestamp_ns": null,
+  "right_timestamp_ns": null,
+  "pair_time_difference_ns": null,
+  "distance_definition": "rectified_left_optical_axis_Z",
+  "objects": [
+    {
+      "detection_id": 0,
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.8204938769340515,
+      "bbox_xyxy": [
+        68.03675724909856,
+        18.93883338341346,
+        609.2555354191707,
+        477.63362004206726
+      ],
+      "surface_box": [
+        176,
+        87,
+        326,
+        231
+      ],
+      "status": "distance_available",
+      "final": {
+        "available": true,
+        "depth_m": 0.49560320377349854,
+        "diagnostic_median_m": 0.49560320377349854,
+        "valid_count": 32439,
+        "candidate_count": 58956,
+        "valid_fraction": 0.5502238957866884
+      },
+      "regions": {
+        "full": {
+          "available": true,
+          "depth_m": 0.49560320377349854,
+          "diagnostic_median_m": 0.49560320377349854,
+          "valid_count": 32439,
+          "candidate_count": 58956,
+          "valid_fraction": 0.5502238957866884
+        },
+        "center": {
+          "available": true,
+          "depth_m": 0.48848757147789,
+          "diagnostic_median_m": 0.48848757147789,
+          "valid_count": 13700,
+          "candidate_count": 26910,
+          "valid_fraction": 0.5091044221479004
+        },
+        "left": {
+          "available": true,
+          "depth_m": 0.5116264820098877,
+          "diagnostic_median_m": 0.5116264820098877,
+          "valid_count": 6407,
+          "candidate_count": 12852,
+          "valid_fraction": 0.4985216308745721
+        },
+        "right": {
+          "available": true,
+          "depth_m": 0.4635307788848877,
+          "diagnostic_median_m": 0.4635307788848877,
+          "valid_count": 8135,
+          "candidate_count": 12852,
+          "valid_fraction": 0.6329754123871771
+        },
+        "tile_0_0": {
+          "available": true,
+          "depth_m": 0.5825883746147156,
+          "diagnostic_median_m": 0.5825883746147156,
+          "valid_count": 3046,
+          "candidate_count": 6432,
+          "valid_fraction": 0.4735696517412935
+        },
+        "tile_0_1": {
+          "available": true,
+          "depth_m": 0.6146912574768066,
+          "diagnostic_median_m": 0.6146912574768066,
+          "valid_count": 3207,
+          "candidate_count": 6499,
+          "valid_fraction": 0.4934605323895984
+        },
+        "tile_0_2": {
+          "available": true,
+          "depth_m": 5.3161187171936035,
+          "diagnostic_median_m": 5.3161187171936035,
+          "valid_count": 4896,
+          "candidate_count": 6432,
+          "valid_fraction": 0.7611940298507462
+        },
+        "tile_1_0": {
+          "available": true,
+          "depth_m": 0.5108582377433777,
+          "diagnostic_median_m": 0.5108582377433777,
+          "valid_count": 2602,
+          "candidate_count": 6720,
+          "valid_fraction": 0.38720238095238096
+        },
+        "tile_1_1": {
+          "available": true,
+          "depth_m": 0.4725438952445984,
+          "diagnostic_median_m": 0.4725438952445984,
+          "valid_count": 2652,
+          "candidate_count": 6790,
+          "valid_fraction": 0.3905743740795287
+        },
+        "tile_1_2": {
+          "available": true,
+          "depth_m": 0.45699343085289,
+          "diagnostic_median_m": 0.45699343085289,
+          "valid_count": 3213,
+          "candidate_count": 6720,
+          "valid_fraction": 0.478125
+        },
+        "tile_2_0": {
+          "available": true,
+          "depth_m": 0.5003405809402466,
+          "diagnostic_median_m": 0.5003405809402466,
+          "valid_count": 3374,
+          "candidate_count": 6432,
+          "valid_fraction": 0.5245646766169154
+        },
+        "tile_2_1": {
+          "available": true,
+          "depth_m": 0.4781891703605652,
+          "diagnostic_median_m": 0.4781891703605652,
+          "valid_count": 4817,
+          "candidate_count": 6499,
+          "valid_fraction": 0.7411909524542237
+        },
+        "tile_2_2": {
+          "available": true,
+          "depth_m": 0.4629001319408417,
+          "diagnostic_median_m": 0.4629001319408417,
+          "valid_count": 4632,
+          "candidate_count": 6432,
+          "valid_fraction": 0.7201492537313433
+        }
+      }
+    },
+    {
+      "detection_id": 1,
+      "class_id": 52,
+      "class_name": "hot dog",
+      "confidence": 0.36355262994766235,
+      "bbox_xyxy": [
+        475.23866800161505,
+        256.0759676419772,
+        607.0520577063927,
+        347.17450655423676
+      ],
+      "status": "unsupported_class",
+      "final": null,
+      "regions": {}
+    }
+  ],
+  "timing_ms": {
+    "rectify_ms": 12.077099876478314,
+    "detect_ms": 39.93319999426603,
+    "stereo_ms": 74.34960012324154,
+    "regions_ms": 15.158999944105744
+  }
+}

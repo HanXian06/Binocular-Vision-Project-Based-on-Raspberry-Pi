@@ -1,0 +1,15 @@
+{
+  "checked_pairs": 43,
+  "same_frozen_algorithm_and_parameters": true,
+  "all_errors_recomputed": true,
+  "sample_pair0006_all_arrays_identical": true,
+  "algorithm_files_unchanged": [
+    "run_ranging.py",
+    "stereo_ranging/__init__.py",
+    "stereo_ranging/geometry.py",
+    "stereo_ranging/matching.py",
+    "stereo_ranging/region.py",
+    "parameters/background1105.npz",
+    "configs/sample_pair0006.json"
+  ]
+}

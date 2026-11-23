@@ -1,0 +1,73 @@
+{
+  "part": "PartC",
+  "pair_id": "pair_0006",
+  "object": "chair",
+  "nominal_distance_m": 1,
+  "reference_distance_m": 0.99,
+  "sgbm_full": {
+    "available": true,
+    "depth_m": 5.116264820098877,
+    "absolute_error_m": 4.126264820098877,
+    "relative_error_percent": 416.7944262726138
+  },
+  "sgbm_grid": {
+    "available": false,
+    "depth_m": null,
+    "accepted_points": 27,
+    "sample_points": 60,
+    "accepted_fraction": 0.45,
+    "absolute_error_m": null,
+    "relative_error_percent": null
+  },
+  "ncc_y0": {
+    "available": false,
+    "depth_m": null,
+    "accepted_points": 1,
+    "sample_points": 60,
+    "accepted_fraction": 0.016666666666666666,
+    "matching_ms": 3.1057000160217285,
+    "rejections": {
+      "ambiguous": 24,
+      "weak_texture": 34,
+      "low_similarity": 1
+    },
+    "vertical_median_px": 0.0,
+    "reprojection_median_px": 0.0,
+    "vertical_limit_fraction": 0.0,
+    "sgbm_on_same_accepted_points": {
+      "available": false,
+      "depth_m": null,
+      "accepted_points": 0,
+      "sample_points": 60,
+      "accepted_fraction": 0.0
+    },
+    "original_left_axis_z_diagnostic_m": 0.591994630414183,
+    "absolute_error_m": null,
+    "relative_error_percent": null
+  },
+  "ncc_y8": {
+    "available": false,
+    "depth_m": null,
+    "accepted_points": 1,
+    "sample_points": 60,
+    "accepted_fraction": 0.016666666666666666,
+    "matching_ms": 3.3352000173181295,
+    "rejections": {
+      "ambiguous": 25,
+      "weak_texture": 34
+    },
+    "vertical_median_px": 3.0,
+    "reprojection_median_px": 1.5008108047796358,
+    "vertical_limit_fraction": 0.0,
+    "sgbm_on_same_accepted_points": {
+      "available": false,
+      "depth_m": null,
+      "accepted_points": 0,
+      "sample_points": 60,
+      "accepted_fraction": 0.0
+    },
+    "original_left_axis_z_diagnostic_m": 0.9824039853370112,
+    "absolute_error_m": null,
+    "relative_error_percent": null
+  }
+}

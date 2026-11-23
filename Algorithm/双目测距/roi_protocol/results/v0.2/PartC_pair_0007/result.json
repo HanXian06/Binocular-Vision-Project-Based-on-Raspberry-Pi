@@ -1,0 +1,130 @@
+{
+  "part": "PartC",
+  "pair_id": "pair_0007",
+  "object": "person",
+  "reference_distance_m": 2,
+  "surface_box": [
+    240,
+    90,
+    190,
+    220
+  ],
+  "box_source": "按既有图片外观一次性固定的躯干表面框；不用于运行时读取距离分组",
+  "version": "v0.2",
+  "final": {
+    "available": true,
+    "depth_m": 1.871447682580841,
+    "diagnostic_median_m": 1.871447682580841,
+    "valid_count": 541,
+    "candidate_count": 846,
+    "valid_fraction": 0.6394799054373522,
+    "absolute_error_m": 0.12855231741915896
+  },
+  "regions": {
+    "full": {
+      "available": true,
+      "depth_m": 1.871447682580841,
+      "diagnostic_median_m": 1.871447682580841,
+      "valid_count": 541,
+      "candidate_count": 846,
+      "valid_fraction": 0.6394799054373522
+    },
+    "center": {
+      "available": true,
+      "depth_m": 1.8526040198093905,
+      "diagnostic_median_m": 1.8526040198093905,
+      "valid_count": 244,
+      "candidate_count": 394,
+      "valid_fraction": 0.6192893401015228
+    },
+    "left": {
+      "available": true,
+      "depth_m": 1.9201857936932987,
+      "diagnostic_median_m": 1.9201857936932987,
+      "valid_count": 178,
+      "candidate_count": 222,
+      "valid_fraction": 0.8018018018018018
+    },
+    "right": {
+      "available": true,
+      "depth_m": 1.8656232629887823,
+      "diagnostic_median_m": 1.8656232629887823,
+      "valid_count": 145,
+      "candidate_count": 223,
+      "valid_fraction": 0.6502242152466368
+    },
+    "tile_0_0": {
+      "available": true,
+      "depth_m": 1.921285724296308,
+      "diagnostic_median_m": 1.921285724296308,
+      "valid_count": 90,
+      "candidate_count": 124,
+      "valid_fraction": 0.7258064516129032
+    },
+    "tile_0_1": {
+      "available": false,
+      "depth_m": null,
+      "diagnostic_median_m": 1.8009355975620673,
+      "valid_count": 22,
+      "candidate_count": 47,
+      "valid_fraction": 0.46808510638297873
+    },
+    "tile_0_2": {
+      "available": true,
+      "depth_m": 1.8206742695383638,
+      "diagnostic_median_m": 1.8206742695383638,
+      "valid_count": 60,
+      "candidate_count": 114,
+      "valid_fraction": 0.5263157894736842
+    },
+    "tile_1_0": {
+      "available": true,
+      "depth_m": 1.8818782123744144,
+      "diagnostic_median_m": 1.8818782123744144,
+      "valid_count": 114,
+      "candidate_count": 129,
+      "valid_fraction": 0.8837209302325582
+    },
+    "tile_1_1": {
+      "available": false,
+      "depth_m": null,
+      "diagnostic_median_m": 1.823632046944998,
+      "valid_count": 29,
+      "candidate_count": 90,
+      "valid_fraction": 0.32222222222222224
+    },
+    "tile_1_2": {
+      "available": true,
+      "depth_m": 1.8734096201502926,
+      "diagnostic_median_m": 1.8734096201502926,
+      "valid_count": 72,
+      "candidate_count": 116,
+      "valid_fraction": 0.6206896551724138
+    },
+    "tile_2_0": {
+      "available": true,
+      "depth_m": 1.8828792932091958,
+      "diagnostic_median_m": 1.8828792932091958,
+      "valid_count": 76,
+      "candidate_count": 92,
+      "valid_fraction": 0.8260869565217391
+    },
+    "tile_2_1": {
+      "available": false,
+      "depth_m": null,
+      "diagnostic_median_m": 1.8204951849688242,
+      "valid_count": 22,
+      "candidate_count": 43,
+      "valid_fraction": 0.5116279069767442
+    },
+    "tile_2_2": {
+      "available": true,
+      "depth_m": 1.9086855656544415,
+      "diagnostic_median_m": 1.9086855656544415,
+      "valid_count": 56,
+      "candidate_count": 91,
+      "valid_fraction": 0.6153846153846154
+    }
+  },
+  "compute_ms": 132.351899985224
+}

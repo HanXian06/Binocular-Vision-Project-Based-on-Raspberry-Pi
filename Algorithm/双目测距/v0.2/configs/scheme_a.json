@@ -1,0 +1,22 @@
+{
+  "version": "v0.2",
+  "selection": {
+    "quality_level": 0.01,
+    "min_distance": 3,
+    "block_size": 3,
+    "cells": 3
+  },
+  "matching": {
+    "vertical_radius": 8,
+    "patch_size": 9,
+    "max_disparity": 127,
+    "min_std": 5.0,
+    "min_score": 0.75,
+    "min_margin": 0.03
+  },
+  "region": {
+    "min_points": 30,
+    "min_fraction": 0.1
+  },
+  "grid_step": 4
+}

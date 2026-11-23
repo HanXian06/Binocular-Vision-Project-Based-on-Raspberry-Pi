@@ -1,0 +1,142 @@
+{
+  "manual": {
+    "surface_box": [
+      255,
+      237,
+      153,
+      87
+    ],
+    "status": "distance_available",
+    "final": {
+      "available": true,
+      "depth_m": 0.9665670394897461,
+      "diagnostic_median_m": 0.9665670394897461,
+      "valid_count": 8646,
+      "candidate_count": 9916,
+      "valid_fraction": 0.871924162968939
+    },
+    "regions": {
+      "full": {
+        "available": true,
+        "depth_m": 0.9665670394897461,
+        "diagnostic_median_m": 0.9665670394897461,
+        "valid_count": 8646,
+        "candidate_count": 9916,
+        "valid_fraction": 0.871924162968939
+      },
+      "center": {
+        "available": true,
+        "depth_m": 0.9665670394897461,
+        "diagnostic_median_m": 0.9665670394897461,
+        "valid_count": 4467,
+        "candidate_count": 4784,
+        "valid_fraction": 0.9337374581939799
+      },
+      "left": {
+        "available": true,
+        "depth_m": 0.9933769106864929,
+        "diagnostic_median_m": 0.9933769106864929,
+        "valid_count": 1539,
+        "candidate_count": 2146,
+        "valid_fraction": 0.717148182665424
+      },
+      "right": {
+        "available": true,
+        "depth_m": 0.9477203488349915,
+        "diagnostic_median_m": 0.9477203488349915,
+        "valid_count": 2081,
+        "candidate_count": 2146,
+        "valid_fraction": 0.9697110904007455
+      },
+      "tile_0_0": {
+        "available": true,
+        "depth_m": 1.034138560295105,
+        "diagnostic_median_m": 1.034138560295105,
+        "valid_count": 578,
+        "candidate_count": 1056,
+        "valid_fraction": 0.5473484848484849
+      },
+      "tile_0_1": {
+        "available": true,
+        "depth_m": 0.9707035422325134,
+        "diagnostic_median_m": 0.9707035422325134,
+        "valid_count": 760,
+        "candidate_count": 1104,
+        "valid_fraction": 0.6884057971014492
+      },
+      "tile_0_2": {
+        "available": true,
+        "depth_m": 0.9530296921730042,
+        "diagnostic_median_m": 0.9530296921730042,
+        "valid_count": 953,
+        "candidate_count": 1056,
+        "valid_fraction": 0.9024621212121212
+      },
+      "tile_1_0": {
+        "available": true,
+        "depth_m": 0.9861785769462585,
+        "diagnostic_median_m": 0.9861785769462585,
+        "valid_count": 985,
+        "candidate_count": 1144,
+        "valid_fraction": 0.861013986013986
+      },
+      "tile_1_1": {
+        "available": true,
+        "depth_m": 0.9665670394897461,
+        "diagnostic_median_m": 0.9665670394897461,
+        "valid_count": 1165,
+        "candidate_count": 1196,
+        "valid_fraction": 0.9740802675585284
+      },
+      "tile_1_2": {
+        "available": true,
+        "depth_m": 0.9516968131065369,
+        "diagnostic_median_m": 0.9516968131065369,
+        "valid_count": 1073,
+        "candidate_count": 1144,
+        "valid_fraction": 0.9379370629370629
+      },
+      "tile_2_0": {
+        "available": true,
+        "depth_m": 0.9861785769462585,
+        "diagnostic_median_m": 0.9861785769462585,
+        "valid_count": 979,
+        "candidate_count": 1056,
+        "valid_fraction": 0.9270833333333334
+      },
+      "tile_2_1": {
+        "available": true,
+        "depth_m": 0.9665670394897461,
+        "diagnostic_median_m": 0.9665670394897461,
+        "valid_count": 1104,
+        "candidate_count": 1104,
+        "valid_fraction": 1.0
+      },
+      "tile_2_2": {
+        "available": true,
+        "depth_m": 0.9464022517204285,
+        "diagnostic_median_m": 0.9464022517204285,
+        "valid_count": 1049,
+        "candidate_count": 1056,
+        "valid_fraction": 0.9933712121212122
+      }
+    }
+  },
+  "evaluation": {
+    "pair_id": "PartB/pair_0009",
+    "object": "box",
+    "reference_distance_m": 1.02,
+    "target_detected": false,
+    "association_coverage": null,
+    "detection_id": null,
+    "confidence": null,
+    "auto_available": false,
+    "auto_depth_m": null,
+    "manual_depth_m": 0.9665670394897461,
+    "auto_error_m": null,
+    "manual_error_m": 0.053432960510253924,
+    "status": "target_not_detected",
+    "detect_ms": 20.28920012526214,
+    "stereo_ms": 67.89389997720718
+  }
+}

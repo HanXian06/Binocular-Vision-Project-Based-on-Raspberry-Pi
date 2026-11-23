@@ -1,0 +1,31 @@
+{
+  "version": "v0.3",
+  "pair_id": "PartB/pair_0008",
+  "left_timestamp_ns": null,
+  "right_timestamp_ns": null,
+  "pair_time_difference_ns": null,
+  "distance_definition": "rectified_left_optical_axis_Z",
+  "objects": [
+    {
+      "detection_id": 0,
+      "class_id": 5,
+      "class_name": "bus",
+      "confidence": 0.4699344336986542,
+      "bbox_xyxy": [
+        6.296250269963191,
+        0.0,
+        638.3088610722468,
+        479.0
+      ],
+      "status": "unsupported_class",
+      "final": null,
+      "regions": {}
+    }
+  ],
+  "timing_ms": {
+    "rectify_ms": 6.2281000427901745,
+    "detect_ms": 18.836299888789654,
+    "stereo_ms": 64.19140007346869,
+    "regions_ms": 0.010299962013959885
+  }
+}

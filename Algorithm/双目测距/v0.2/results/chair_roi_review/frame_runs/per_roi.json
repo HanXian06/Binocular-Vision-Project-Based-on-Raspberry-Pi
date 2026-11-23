@@ -1,0 +1,1938 @@
+[
+  {
+    "pair": "pair_0004",
+    "nominal_m": 1,
+    "reference_m": 1,
+    "roi": "left_frame",
+    "roi_xywh": [
+      225,
+      315,
+      45,
+      140
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.9834677552408795,
+    "valid_points": 13,
+    "selected_points": 79,
+    "valid_fraction": 0.16455696202531644,
+    "reasons": {
+      "ambiguous": 32,
+      "weak_texture": 32,
+      "low_similarity": 1,
+      "horizontal_search_limit": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0004",
+    "nominal_m": 1,
+    "reference_m": 1,
+    "roi": "left_frame",
+    "roi_xywh": [
+      225,
+      315,
+      45,
+      140
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.9751015578047615,
+    "valid_points": 10,
+    "selected_points": 56,
+    "valid_fraction": 0.17857142857142858,
+    "reasons": {
+      "ambiguous": 20,
+      "weak_texture": 24,
+      "low_similarity": 1,
+      "horizontal_search_limit": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0004",
+    "nominal_m": 1,
+    "reference_m": 1,
+    "roi": "left_frame",
+    "roi_xywh": [
+      225,
+      315,
+      45,
+      140
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.0356687659358204,
+    "valid_points": 25,
+    "selected_points": 385,
+    "valid_fraction": 0.06493506493506493,
+    "reasons": {
+      "ambiguous": 89,
+      "weak_texture": 265,
+      "low_similarity": 6
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0004",
+    "nominal_m": 1,
+    "reference_m": 1,
+    "roi": "right_frame",
+    "roi_xywh": [
+      565,
+      315,
+      40,
+      140
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.7987629530192591,
+    "valid_points": 7,
+    "selected_points": 191,
+    "valid_fraction": 0.03664921465968586,
+    "reasons": {
+      "weak_texture": 181,
+      "ambiguous": 3
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0004",
+    "nominal_m": 1,
+    "reference_m": 1,
+    "roi": "right_frame",
+    "roi_xywh": [
+      565,
+      315,
+      40,
+      140
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.7987629530192591,
+    "valid_points": 3,
+    "selected_points": 60,
+    "valid_fraction": 0.05,
+    "reasons": {
+      "weak_texture": 57
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0004",
+    "nominal_m": 1,
+    "reference_m": 1,
+    "roi": "right_frame",
+    "roi_xywh": [
+      565,
+      315,
+      40,
+      140
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.7969302717047401,
+    "valid_points": 9,
+    "selected_points": 350,
+    "valid_fraction": 0.025714285714285714,
+    "reasons": {
+      "weak_texture": 331,
+      "ambiguous": 10
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0004",
+    "nominal_m": 1,
+    "reference_m": 1,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      235,
+      295,
+      70,
+      45
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.7629586655139897,
+    "valid_points": 7,
+    "selected_points": 26,
+    "valid_fraction": 0.2692307692307692,
+    "reasons": {
+      "ambiguous": 18,
+      "low_similarity": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0004",
+    "nominal_m": 1,
+    "reference_m": 1,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      235,
+      295,
+      70,
+      45
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.7881836422623951,
+    "valid_points": 6,
+    "selected_points": 21,
+    "valid_fraction": 0.2857142857142857,
+    "reasons": {
+      "ambiguous": 14,
+      "low_similarity": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0004",
+    "nominal_m": 1,
+    "reference_m": 1,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      235,
+      295,
+      70,
+      45
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.7690434122607301,
+    "valid_points": 27,
+    "selected_points": 187,
+    "valid_fraction": 0.1443850267379679,
+    "reasons": {
+      "ambiguous": 87,
+      "weak_texture": 73
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0005",
+    "nominal_m": 1,
+    "reference_m": 1.01,
+    "roi": "left_frame",
+    "roi_xywh": [
+      225,
+      315,
+      45,
+      140
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.7613262737544781,
+    "valid_points": 20,
+    "selected_points": 110,
+    "valid_fraction": 0.18181818181818182,
+    "reasons": {
+      "weak_texture": 64,
+      "ambiguous": 22,
+      "low_similarity": 4
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0005",
+    "nominal_m": 1,
+    "reference_m": 1.01,
+    "roi": "left_frame",
+    "roi_xywh": [
+      225,
+      315,
+      45,
+      140
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.8539035071275729,
+    "valid_points": 8,
+    "selected_points": 59,
+    "valid_fraction": 0.13559322033898305,
+    "reasons": {
+      "weak_texture": 37,
+      "ambiguous": 13,
+      "low_similarity": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0005",
+    "nominal_m": 1,
+    "reference_m": 1.01,
+    "roi": "left_frame",
+    "roi_xywh": [
+      225,
+      315,
+      45,
+      140
+    ],
+    "method": "grid",
+    "available": true,
+    "depth_m": 1.2321413650245001,
+    "diagnostic_median_m": 1.2321413650245001,
+    "valid_points": 40,
+    "selected_points": 385,
+    "valid_fraction": 0.1038961038961039,
+    "reasons": {
+      "weak_texture": 259,
+      "ambiguous": 66,
+      "low_similarity": 20
+    },
+    "difference_from_top_reference_m": 0.2221413650245001
+  },
+  {
+    "pair": "pair_0005",
+    "nominal_m": 1,
+    "reference_m": 1.01,
+    "roi": "right_frame",
+    "roi_xywh": [
+      565,
+      315,
+      40,
+      140
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.8627313701969148,
+    "valid_points": 7,
+    "selected_points": 62,
+    "valid_fraction": 0.11290322580645161,
+    "reasons": {
+      "weak_texture": 38,
+      "ambiguous": 16,
+      "horizontal_search_limit": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0005",
+    "nominal_m": 1,
+    "reference_m": 1.01,
+    "roi": "right_frame",
+    "roi_xywh": [
+      565,
+      315,
+      40,
+      140
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.8537927054810481,
+    "valid_points": 4,
+    "selected_points": 47,
+    "valid_fraction": 0.0851063829787234,
+    "reasons": {
+      "weak_texture": 27,
+      "ambiguous": 15,
+      "horizontal_search_limit": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0005",
+    "nominal_m": 1,
+    "reference_m": 1.01,
+    "roi": "right_frame",
+    "roi_xywh": [
+      565,
+      315,
+      40,
+      140
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.8347236049633329,
+    "valid_points": 22,
+    "selected_points": 350,
+    "valid_fraction": 0.06285714285714286,
+    "reasons": {
+      "weak_texture": 257,
+      "ambiguous": 70,
+      "horizontal_search_limit": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0005",
+    "nominal_m": 1,
+    "reference_m": 1.01,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      235,
+      295,
+      70,
+      45
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.6580503339161443,
+    "valid_points": 14,
+    "selected_points": 39,
+    "valid_fraction": 0.358974358974359,
+    "reasons": {
+      "ambiguous": 25
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0005",
+    "nominal_m": 1,
+    "reference_m": 1.01,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      235,
+      295,
+      70,
+      45
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.6580503339161443,
+    "valid_points": 12,
+    "selected_points": 34,
+    "valid_fraction": 0.35294117647058826,
+    "reasons": {
+      "ambiguous": 22
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0005",
+    "nominal_m": 1,
+    "reference_m": 1.01,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      235,
+      295,
+      70,
+      45
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.2066434066139933,
+    "valid_points": 25,
+    "selected_points": 187,
+    "valid_fraction": 0.13368983957219252,
+    "reasons": {
+      "ambiguous": 82,
+      "low_similarity": 2,
+      "weak_texture": 78
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0006",
+    "nominal_m": 1,
+    "reference_m": 0.99,
+    "roi": "left_frame",
+    "roi_xywh": [
+      225,
+      315,
+      45,
+      140
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.9489154573054719,
+    "valid_points": 14,
+    "selected_points": 112,
+    "valid_fraction": 0.125,
+    "reasons": {
+      "weak_texture": 67,
+      "ambiguous": 27,
+      "low_similarity": 4
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0006",
+    "nominal_m": 1,
+    "reference_m": 0.99,
+    "roi": "left_frame",
+    "roi_xywh": [
+      225,
+      315,
+      45,
+      140
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.9559726796216894,
+    "valid_points": 9,
+    "selected_points": 60,
+    "valid_fraction": 0.15,
+    "reasons": {
+      "weak_texture": 37,
+      "ambiguous": 12,
+      "low_similarity": 2
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0006",
+    "nominal_m": 1,
+    "reference_m": 0.99,
+    "roi": "left_frame",
+    "roi_xywh": [
+      225,
+      315,
+      45,
+      140
+    ],
+    "method": "grid",
+    "available": true,
+    "depth_m": 1.0793855908617502,
+    "diagnostic_median_m": 1.0793855908617502,
+    "valid_points": 39,
+    "selected_points": 385,
+    "valid_fraction": 0.1012987012987013,
+    "reasons": {
+      "weak_texture": 263,
+      "ambiguous": 67,
+      "low_similarity": 16
+    },
+    "difference_from_top_reference_m": 0.08938559086175024
+  },
+  {
+    "pair": "pair_0006",
+    "nominal_m": 1,
+    "reference_m": 0.99,
+    "roi": "right_frame",
+    "roi_xywh": [
+      565,
+      315,
+      40,
+      140
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.819288519501403,
+    "valid_points": 5,
+    "selected_points": 159,
+    "valid_fraction": 0.031446540880503145,
+    "reasons": {
+      "weak_texture": 148,
+      "ambiguous": 6
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0006",
+    "nominal_m": 1,
+    "reference_m": 0.99,
+    "roi": "right_frame",
+    "roi_xywh": [
+      565,
+      315,
+      40,
+      140
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.8199667438421827,
+    "valid_points": 4,
+    "selected_points": 60,
+    "valid_fraction": 0.06666666666666667,
+    "reasons": {
+      "weak_texture": 52,
+      "ambiguous": 4
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0006",
+    "nominal_m": 1,
+    "reference_m": 0.99,
+    "roi": "right_frame",
+    "roi_xywh": [
+      565,
+      315,
+      40,
+      140
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.8201820050660695,
+    "valid_points": 10,
+    "selected_points": 350,
+    "valid_fraction": 0.02857142857142857,
+    "reasons": {
+      "weak_texture": 328,
+      "ambiguous": 11,
+      "horizontal_search_limit": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0006",
+    "nominal_m": 1,
+    "reference_m": 0.99,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      235,
+      295,
+      70,
+      45
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.782946276473012,
+    "valid_points": 16,
+    "selected_points": 38,
+    "valid_fraction": 0.42105263157894735,
+    "reasons": {
+      "ambiguous": 21,
+      "weak_texture": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0006",
+    "nominal_m": 1,
+    "reference_m": 0.99,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      235,
+      295,
+      70,
+      45
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.782946276473012,
+    "valid_points": 12,
+    "selected_points": 29,
+    "valid_fraction": 0.41379310344827586,
+    "reasons": {
+      "ambiguous": 16,
+      "weak_texture": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0006",
+    "nominal_m": 1,
+    "reference_m": 0.99,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      235,
+      295,
+      70,
+      45
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.8235746769955408,
+    "valid_points": 28,
+    "selected_points": 187,
+    "valid_fraction": 0.1497326203208556,
+    "reasons": {
+      "ambiguous": 69,
+      "weak_texture": 89,
+      "low_similarity": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0010",
+    "nominal_m": 2,
+    "reference_m": 2,
+    "roi": "left_frame",
+    "roi_xywh": [
+      276,
+      265,
+      30,
+      145
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.8409173187915373,
+    "valid_points": 6,
+    "selected_points": 27,
+    "valid_fraction": 0.2222222222222222,
+    "reasons": {
+      "weak_texture": 2,
+      "ambiguous": 19
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0010",
+    "nominal_m": 2,
+    "reference_m": 2,
+    "roi": "left_frame",
+    "roi_xywh": [
+      276,
+      265,
+      30,
+      145
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.8409173187915373,
+    "valid_points": 6,
+    "selected_points": 25,
+    "valid_fraction": 0.24,
+    "reasons": {
+      "weak_texture": 2,
+      "ambiguous": 17
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0010",
+    "nominal_m": 2,
+    "reference_m": 2,
+    "roi": "left_frame",
+    "roi_xywh": [
+      276,
+      265,
+      30,
+      145
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.8466562352649563,
+    "valid_points": 28,
+    "selected_points": 252,
+    "valid_fraction": 0.1111111111111111,
+    "reasons": {
+      "ambiguous": 91,
+      "weak_texture": 133
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0010",
+    "nominal_m": 2,
+    "reference_m": 2,
+    "roi": "right_frame",
+    "roi_xywh": [
+      425,
+      270,
+      30,
+      130
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 3.141381996869617,
+    "valid_points": 2,
+    "selected_points": 14,
+    "valid_fraction": 0.14285714285714285,
+    "reasons": {
+      "ambiguous": 3,
+      "weak_texture": 9
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0010",
+    "nominal_m": 2,
+    "reference_m": 2,
+    "roi": "right_frame",
+    "roi_xywh": [
+      425,
+      270,
+      30,
+      130
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 3.141381996869617,
+    "valid_points": 2,
+    "selected_points": 14,
+    "valid_fraction": 0.14285714285714285,
+    "reasons": {
+      "ambiguous": 3,
+      "weak_texture": 9
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0010",
+    "nominal_m": 2,
+    "reference_m": 2,
+    "roi": "right_frame",
+    "roi_xywh": [
+      425,
+      270,
+      30,
+      130
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.7383346565383502,
+    "valid_points": 7,
+    "selected_points": 224,
+    "valid_fraction": 0.03125,
+    "reasons": {
+      "weak_texture": 206,
+      "ambiguous": 11
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0010",
+    "nominal_m": 2,
+    "reference_m": 2,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      253,
+      45,
+      40
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 9,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "ambiguous": 6,
+      "weak_texture": 3
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0010",
+    "nominal_m": 2,
+    "reference_m": 2,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      253,
+      45,
+      40
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 9,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "ambiguous": 6,
+      "weak_texture": 3
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0010",
+    "nominal_m": 2,
+    "reference_m": 2,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      253,
+      45,
+      40
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.9243192110540146,
+    "valid_points": 3,
+    "selected_points": 110,
+    "valid_fraction": 0.02727272727272727,
+    "reasons": {
+      "weak_texture": 68,
+      "ambiguous": 39
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0011",
+    "nominal_m": 2,
+    "reference_m": 2.01,
+    "roi": "left_frame",
+    "roi_xywh": [
+      276,
+      265,
+      30,
+      145
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.875459164588499,
+    "valid_points": 9,
+    "selected_points": 19,
+    "valid_fraction": 0.47368421052631576,
+    "reasons": {
+      "ambiguous": 10
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0011",
+    "nominal_m": 2,
+    "reference_m": 2.01,
+    "roi": "left_frame",
+    "roi_xywh": [
+      276,
+      265,
+      30,
+      145
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.875459164588499,
+    "valid_points": 9,
+    "selected_points": 19,
+    "valid_fraction": 0.47368421052631576,
+    "reasons": {
+      "ambiguous": 10
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0011",
+    "nominal_m": 2,
+    "reference_m": 2.01,
+    "roi": "left_frame",
+    "roi_xywh": [
+      276,
+      265,
+      30,
+      145
+    ],
+    "method": "grid",
+    "available": true,
+    "depth_m": 1.8876033130895675,
+    "diagnostic_median_m": 1.8876033130895675,
+    "valid_points": 31,
+    "selected_points": 252,
+    "valid_fraction": 0.12301587301587301,
+    "reasons": {
+      "ambiguous": 86,
+      "weak_texture": 133,
+      "low_similarity": 2
+    },
+    "difference_from_top_reference_m": 0.12239668691043226
+  },
+  {
+    "pair": "pair_0011",
+    "nominal_m": 2,
+    "reference_m": 2.01,
+    "roi": "right_frame",
+    "roi_xywh": [
+      425,
+      270,
+      30,
+      130
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.88777025935707,
+    "valid_points": 2,
+    "selected_points": 8,
+    "valid_fraction": 0.25,
+    "reasons": {
+      "low_similarity": 1,
+      "weak_texture": 3,
+      "ambiguous": 2
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0011",
+    "nominal_m": 2,
+    "reference_m": 2.01,
+    "roi": "right_frame",
+    "roi_xywh": [
+      425,
+      270,
+      30,
+      130
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.88777025935707,
+    "valid_points": 2,
+    "selected_points": 8,
+    "valid_fraction": 0.25,
+    "reasons": {
+      "low_similarity": 1,
+      "weak_texture": 3,
+      "ambiguous": 2
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0011",
+    "nominal_m": 2,
+    "reference_m": 2.01,
+    "roi": "right_frame",
+    "roi_xywh": [
+      425,
+      270,
+      30,
+      130
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.7874293557892031,
+    "valid_points": 3,
+    "selected_points": 224,
+    "valid_fraction": 0.013392857142857142,
+    "reasons": {
+      "weak_texture": 201,
+      "ambiguous": 19,
+      "low_similarity": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0011",
+    "nominal_m": 2,
+    "reference_m": 2.01,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      253,
+      45,
+      40
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.0683379938422006,
+    "valid_points": 1,
+    "selected_points": 4,
+    "valid_fraction": 0.25,
+    "reasons": {
+      "ambiguous": 3
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0011",
+    "nominal_m": 2,
+    "reference_m": 2.01,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      253,
+      45,
+      40
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.0683379938422006,
+    "valid_points": 1,
+    "selected_points": 4,
+    "valid_fraction": 0.25,
+    "reasons": {
+      "ambiguous": 3
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0011",
+    "nominal_m": 2,
+    "reference_m": 2.01,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      253,
+      45,
+      40
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.089118727064562,
+    "valid_points": 3,
+    "selected_points": 110,
+    "valid_fraction": 0.02727272727272727,
+    "reasons": {
+      "weak_texture": 71,
+      "ambiguous": 36
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0012",
+    "nominal_m": 2,
+    "reference_m": 1.99,
+    "roi": "left_frame",
+    "roi_xywh": [
+      276,
+      265,
+      30,
+      145
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.7809141271246767,
+    "valid_points": 9,
+    "selected_points": 18,
+    "valid_fraction": 0.5,
+    "reasons": {
+      "ambiguous": 9
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0012",
+    "nominal_m": 2,
+    "reference_m": 1.99,
+    "roi": "left_frame",
+    "roi_xywh": [
+      276,
+      265,
+      30,
+      145
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.7809141271246767,
+    "valid_points": 9,
+    "selected_points": 18,
+    "valid_fraction": 0.5,
+    "reasons": {
+      "ambiguous": 9
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0012",
+    "nominal_m": 2,
+    "reference_m": 1.99,
+    "roi": "left_frame",
+    "roi_xywh": [
+      276,
+      265,
+      30,
+      145
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.7890996525868463,
+    "valid_points": 27,
+    "selected_points": 252,
+    "valid_fraction": 0.10714285714285714,
+    "reasons": {
+      "ambiguous": 91,
+      "weak_texture": 134
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0012",
+    "nominal_m": 2,
+    "reference_m": 1.99,
+    "roi": "right_frame",
+    "roi_xywh": [
+      425,
+      270,
+      30,
+      130
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 20,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "weak_texture": 19,
+      "ambiguous": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0012",
+    "nominal_m": 2,
+    "reference_m": 1.99,
+    "roi": "right_frame",
+    "roi_xywh": [
+      425,
+      270,
+      30,
+      130
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 20,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "weak_texture": 19,
+      "ambiguous": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0012",
+    "nominal_m": 2,
+    "reference_m": 1.99,
+    "roi": "right_frame",
+    "roi_xywh": [
+      425,
+      270,
+      30,
+      130
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 224,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "weak_texture": 221,
+      "ambiguous": 3
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0012",
+    "nominal_m": 2,
+    "reference_m": 1.99,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      253,
+      45,
+      40
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.9118564335796975,
+    "valid_points": 1,
+    "selected_points": 4,
+    "valid_fraction": 0.25,
+    "reasons": {
+      "ambiguous": 3
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0012",
+    "nominal_m": 2,
+    "reference_m": 1.99,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      253,
+      45,
+      40
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.9118564335796975,
+    "valid_points": 1,
+    "selected_points": 4,
+    "valid_fraction": 0.25,
+    "reasons": {
+      "ambiguous": 3
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0012",
+    "nominal_m": 2,
+    "reference_m": 1.99,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      253,
+      45,
+      40
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 1.9176340281097317,
+    "valid_points": 3,
+    "selected_points": 110,
+    "valid_fraction": 0.02727272727272727,
+    "reasons": {
+      "weak_texture": 71,
+      "ambiguous": 36
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0016",
+    "nominal_m": 3,
+    "reference_m": 3,
+    "roi": "left_frame",
+    "roi_xywh": [
+      275,
+      292,
+      30,
+      80
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.706493018304051,
+    "valid_points": 7,
+    "selected_points": 9,
+    "valid_fraction": 0.7777777777777778,
+    "reasons": {
+      "ambiguous": 2
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0016",
+    "nominal_m": 3,
+    "reference_m": 3,
+    "roi": "left_frame",
+    "roi_xywh": [
+      275,
+      292,
+      30,
+      80
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.706493018304051,
+    "valid_points": 7,
+    "selected_points": 8,
+    "valid_fraction": 0.875,
+    "reasons": {
+      "ambiguous": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0016",
+    "nominal_m": 3,
+    "reference_m": 3,
+    "roi": "left_frame",
+    "roi_xywh": [
+      275,
+      292,
+      30,
+      80
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.7718123840658153,
+    "valid_points": 17,
+    "selected_points": 140,
+    "valid_fraction": 0.12142857142857143,
+    "reasons": {
+      "ambiguous": 18,
+      "weak_texture": 105
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0016",
+    "nominal_m": 3,
+    "reference_m": 3,
+    "roi": "right_frame",
+    "roi_xywh": [
+      375,
+      292,
+      30,
+      80
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.7094249138442965,
+    "valid_points": 14,
+    "selected_points": 16,
+    "valid_fraction": 0.875,
+    "reasons": {
+      "ambiguous": 2
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0016",
+    "nominal_m": 3,
+    "reference_m": 3,
+    "roi": "right_frame",
+    "roi_xywh": [
+      375,
+      292,
+      30,
+      80
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.712889718911675,
+    "valid_points": 11,
+    "selected_points": 13,
+    "valid_fraction": 0.8461538461538461,
+    "reasons": {
+      "ambiguous": 2
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0016",
+    "nominal_m": 3,
+    "reference_m": 3,
+    "roi": "right_frame",
+    "roi_xywh": [
+      375,
+      292,
+      30,
+      80
+    ],
+    "method": "grid",
+    "available": true,
+    "depth_m": 2.6947650748763468,
+    "diagnostic_median_m": 2.6947650748763468,
+    "valid_points": 51,
+    "selected_points": 140,
+    "valid_fraction": 0.36428571428571427,
+    "reasons": {
+      "weak_texture": 63,
+      "ambiguous": 26
+    },
+    "difference_from_top_reference_m": 0.30523492512365324
+  },
+  {
+    "pair": "pair_0016",
+    "nominal_m": 3,
+    "reference_m": 3,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      280,
+      45,
+      35
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 67,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "weak_texture": 67
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0016",
+    "nominal_m": 3,
+    "reference_m": 3,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      280,
+      45,
+      35
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 34,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "weak_texture": 34
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0016",
+    "nominal_m": 3,
+    "reference_m": 3,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      280,
+      45,
+      35
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 99,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "weak_texture": 99
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0017",
+    "nominal_m": 3,
+    "reference_m": 3.01,
+    "roi": "left_frame",
+    "roi_xywh": [
+      275,
+      292,
+      30,
+      80
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.658434138643851,
+    "valid_points": 10,
+    "selected_points": 11,
+    "valid_fraction": 0.9090909090909091,
+    "reasons": {
+      "ambiguous": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0017",
+    "nominal_m": 3,
+    "reference_m": 3.01,
+    "roi": "left_frame",
+    "roi_xywh": [
+      275,
+      292,
+      30,
+      80
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.72880438678611,
+    "valid_points": 8,
+    "selected_points": 8,
+    "valid_fraction": 1.0,
+    "reasons": {},
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0017",
+    "nominal_m": 3,
+    "reference_m": 3.01,
+    "roi": "left_frame",
+    "roi_xywh": [
+      275,
+      292,
+      30,
+      80
+    ],
+    "method": "grid",
+    "available": true,
+    "depth_m": 2.763907043767634,
+    "diagnostic_median_m": 2.763907043767634,
+    "valid_points": 31,
+    "selected_points": 140,
+    "valid_fraction": 0.22142857142857142,
+    "reasons": {
+      "ambiguous": 28,
+      "weak_texture": 81
+    },
+    "difference_from_top_reference_m": 0.2460929562323657
+  },
+  {
+    "pair": "pair_0017",
+    "nominal_m": 3,
+    "reference_m": 3.01,
+    "roi": "right_frame",
+    "roi_xywh": [
+      375,
+      292,
+      30,
+      80
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.7058524017061876,
+    "valid_points": 19,
+    "selected_points": 23,
+    "valid_fraction": 0.8260869565217391,
+    "reasons": {
+      "ambiguous": 4
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0017",
+    "nominal_m": 3,
+    "reference_m": 3.01,
+    "roi": "right_frame",
+    "roi_xywh": [
+      375,
+      292,
+      30,
+      80
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.7179790249990585,
+    "valid_points": 13,
+    "selected_points": 17,
+    "valid_fraction": 0.7647058823529411,
+    "reasons": {
+      "ambiguous": 4
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0017",
+    "nominal_m": 3,
+    "reference_m": 3.01,
+    "roi": "right_frame",
+    "roi_xywh": [
+      375,
+      292,
+      30,
+      80
+    ],
+    "method": "grid",
+    "available": true,
+    "depth_m": 2.715021524251488,
+    "diagnostic_median_m": 2.715021524251488,
+    "valid_points": 48,
+    "selected_points": 140,
+    "valid_fraction": 0.34285714285714286,
+    "reasons": {
+      "weak_texture": 71,
+      "ambiguous": 21
+    },
+    "difference_from_top_reference_m": 0.29497847574851166
+  },
+  {
+    "pair": "pair_0017",
+    "nominal_m": 3,
+    "reference_m": 3.01,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      280,
+      45,
+      35
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 57,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "weak_texture": 51,
+      "ambiguous": 6
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0017",
+    "nominal_m": 3,
+    "reference_m": 3.01,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      280,
+      45,
+      35
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 34,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "ambiguous": 5,
+      "weak_texture": 29
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0017",
+    "nominal_m": 3,
+    "reference_m": 3.01,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      280,
+      45,
+      35
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 99,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "ambiguous": 9,
+      "weak_texture": 90
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0018",
+    "nominal_m": 3,
+    "reference_m": 2.99,
+    "roi": "left_frame",
+    "roi_xywh": [
+      275,
+      292,
+      30,
+      80
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.6222821426227263,
+    "valid_points": 8,
+    "selected_points": 9,
+    "valid_fraction": 0.8888888888888888,
+    "reasons": {
+      "low_similarity": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0018",
+    "nominal_m": 3,
+    "reference_m": 2.99,
+    "roi": "left_frame",
+    "roi_xywh": [
+      275,
+      292,
+      30,
+      80
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.6138020828579682,
+    "valid_points": 7,
+    "selected_points": 8,
+    "valid_fraction": 0.875,
+    "reasons": {
+      "low_similarity": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0018",
+    "nominal_m": 3,
+    "reference_m": 2.99,
+    "roi": "left_frame",
+    "roi_xywh": [
+      275,
+      292,
+      30,
+      80
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.6733662527510305,
+    "valid_points": 18,
+    "selected_points": 140,
+    "valid_fraction": 0.12857142857142856,
+    "reasons": {
+      "ambiguous": 12,
+      "weak_texture": 110
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0018",
+    "nominal_m": 3,
+    "reference_m": 2.99,
+    "roi": "right_frame",
+    "roi_xywh": [
+      375,
+      292,
+      30,
+      80
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.517447353166796,
+    "valid_points": 17,
+    "selected_points": 20,
+    "valid_fraction": 0.85,
+    "reasons": {
+      "ambiguous": 3
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0018",
+    "nominal_m": 3,
+    "reference_m": 2.99,
+    "roi": "right_frame",
+    "roi_xywh": [
+      375,
+      292,
+      30,
+      80
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 2.5163731589672373,
+    "valid_points": 13,
+    "selected_points": 16,
+    "valid_fraction": 0.8125,
+    "reasons": {
+      "ambiguous": 3
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0018",
+    "nominal_m": 3,
+    "reference_m": 2.99,
+    "roi": "right_frame",
+    "roi_xywh": [
+      375,
+      292,
+      30,
+      80
+    ],
+    "method": "grid",
+    "available": true,
+    "depth_m": 2.572134988978463,
+    "diagnostic_median_m": 2.572134988978463,
+    "valid_points": 44,
+    "selected_points": 140,
+    "valid_fraction": 0.3142857142857143,
+    "reasons": {
+      "weak_texture": 64,
+      "ambiguous": 32
+    },
+    "difference_from_top_reference_m": 0.4178650110215374
+  },
+  {
+    "pair": "pair_0018",
+    "nominal_m": 3,
+    "reference_m": 2.99,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      280,
+      45,
+      35
+    ],
+    "method": "active_area",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 63,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "weak_texture": 62,
+      "ambiguous": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0018",
+    "nominal_m": 3,
+    "reference_m": 2.99,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      280,
+      45,
+      35
+    ],
+    "method": "active_fixed",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 34,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "weak_texture": 33,
+      "ambiguous": 1
+    },
+    "difference_from_top_reference_m": null
+  },
+  {
+    "pair": "pair_0018",
+    "nominal_m": 3,
+    "reference_m": 2.99,
+    "roi": "upper_junction",
+    "roi_xywh": [
+      280,
+      280,
+      45,
+      35
+    ],
+    "method": "grid",
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": null,
+    "valid_points": 0,
+    "selected_points": 99,
+    "valid_fraction": 0.0,
+    "reasons": {
+      "weak_texture": 99
+    },
+    "difference_from_top_reference_m": null
+  }
+]

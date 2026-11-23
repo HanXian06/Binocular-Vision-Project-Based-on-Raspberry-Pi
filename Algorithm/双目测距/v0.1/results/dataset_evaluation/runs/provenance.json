@@ -1,0 +1,26 @@
+{
+  "annotation_sha256": "63e72d17bbf020d198bc4ad13798eed4568706a984c10bfa1ccda5d52cb3e42e",
+  "sgbm": {
+    "min_disparity": 0,
+    "num_disparities": 128,
+    "block_size": 5,
+    "p1": 200,
+    "p2": 800,
+    "uniqueness_ratio": 10,
+    "speckle_window_size": 100,
+    "speckle_range": 2,
+    "disp12_max_diff": 1
+  },
+  "region_thresholds": {
+    "min_pixels": 30,
+    "min_fraction": 0.1
+  },
+  "camera_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+  "algorithm_sha256": {
+    "run_ranging.py": "61758c8837442bd200ff97503e651d47d7009643d0ac12f43d162c27203ab022",
+    "stereo_ranging/__init__.py": "02e16428a11fdfcf7839ab629d81a7f2a172462369eda10d694c9ee266a3e088",
+    "stereo_ranging/geometry.py": "fe17bb063240c02707a196d13e2a12169691225918fc19e5ab01c3e7817129d6",
+    "stereo_ranging/matching.py": "70b829f850e5defee4ae7453a9f37a7179532ebae130ababd35a9eba8044c91f",
+    "stereo_ranging/region.py": "592d29788d5cffc8b938ef5da113841aecc38f7e2453e3c7b907350801817337"
+  }
+}

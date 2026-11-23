@@ -1,0 +1,15 @@
+{
+  "version": "v0.3",
+  "tests_passed": 5,
+  "real_model_main_inferences": 43,
+  "raw_input_control_inferences": 43,
+  "sgbm_computations": 43,
+  "manual_depths_identical_to_frozen_baseline_all43": true,
+  "model_git_blob": "03adac0e4539a9ce2081b8d316cdbdebfa3a72f0",
+  "model_bytes": 3659407,
+  "old_versions_unchanged": true,
+  "original_sgbm_and_geometry_unchanged": true,
+  "roi_policy_unchanged": true,
+  "no_ground_truth_in_automatic_pipeline": true,
+  "uploaded": false
+}

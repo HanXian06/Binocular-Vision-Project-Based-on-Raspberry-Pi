@@ -1,0 +1,130 @@
+{
+  "part": "PartB",
+  "pair_id": "pair_0023",
+  "object": "box",
+  "reference_distance_m": 2.99,
+  "surface_box": [
+    288,
+    261,
+    52,
+    52
+  ],
+  "box_source": "红色封面连通区外框；仅用于固定本地目标表面输入，不用于通用YOLO选区",
+  "version": "v0.1",
+  "final": {
+    "available": true,
+    "depth_m": 2.668483257293701,
+    "diagnostic_median_m": 2.668483257293701,
+    "valid_count": 1800,
+    "candidate_count": 1849,
+    "valid_fraction": 0.9734991887506761,
+    "absolute_error_m": 0.32151674270629904
+  },
+  "regions": {
+    "full": {
+      "available": true,
+      "depth_m": 2.668483257293701,
+      "diagnostic_median_m": 2.668483257293701,
+      "valid_count": 1800,
+      "candidate_count": 1849,
+      "valid_fraction": 0.9734991887506761
+    },
+    "center": {
+      "available": true,
+      "depth_m": 2.6789889335632324,
+      "diagnostic_median_m": 2.6789889335632324,
+      "valid_count": 953,
+      "candidate_count": 961,
+      "valid_fraction": 0.991675338189386
+    },
+    "left": {
+      "available": true,
+      "depth_m": 2.6789889335632324,
+      "diagnostic_median_m": 2.6789889335632324,
+      "valid_count": 356,
+      "candidate_count": 387,
+      "valid_fraction": 0.9198966408268734
+    },
+    "right": {
+      "available": true,
+      "depth_m": 2.647716760635376,
+      "diagnostic_median_m": 2.647716760635376,
+      "valid_count": 344,
+      "candidate_count": 344,
+      "valid_fraction": 1.0
+    },
+    "tile_0_0": {
+      "available": true,
+      "depth_m": 2.8234987258911133,
+      "diagnostic_median_m": 2.8234987258911133,
+      "valid_count": 169,
+      "candidate_count": 196,
+      "valid_fraction": 0.8622448979591837
+    },
+    "tile_0_1": {
+      "available": true,
+      "depth_m": 2.6580593585968018,
+      "diagnostic_median_m": 2.6580593585968018,
+      "valid_count": 192,
+      "candidate_count": 210,
+      "valid_fraction": 0.9142857142857143
+    },
+    "tile_0_2": {
+      "available": true,
+      "depth_m": 2.6580593585968018,
+      "diagnostic_median_m": 2.6580593585968018,
+      "valid_count": 196,
+      "candidate_count": 196,
+      "valid_fraction": 1.0
+    },
+    "tile_1_0": {
+      "available": true,
+      "depth_m": 2.6949143409729004,
+      "diagnostic_median_m": 2.6949143409729004,
+      "valid_count": 210,
+      "candidate_count": 210,
+      "valid_fraction": 1.0
+    },
+    "tile_1_1": {
+      "available": true,
+      "depth_m": 2.76611065864563,
+      "diagnostic_median_m": 2.76611065864563,
+      "valid_count": 225,
+      "candidate_count": 225,
+      "valid_fraction": 1.0
+    },
+    "tile_1_2": {
+      "available": true,
+      "depth_m": 2.6374542713165283,
+      "diagnostic_median_m": 2.6374542713165283,
+      "valid_count": 210,
+      "candidate_count": 210,
+      "valid_fraction": 1.0
+    },
+    "tile_2_0": {
+      "available": true,
+      "depth_m": 2.6580593585968018,
+      "diagnostic_median_m": 2.6580593585968018,
+      "valid_count": 192,
+      "candidate_count": 196,
+      "valid_fraction": 0.9795918367346939
+    },
+    "tile_2_1": {
+      "available": true,
+      "depth_m": 2.668483257293701,
+      "diagnostic_median_m": 2.668483257293701,
+      "valid_count": 210,
+      "candidate_count": 210,
+      "valid_fraction": 1.0
+    },
+    "tile_2_2": {
+      "available": true,
+      "depth_m": 2.647716760635376,
+      "diagnostic_median_m": 2.647716760635376,
+      "valid_count": 196,
+      "candidate_count": 196,
+      "valid_fraction": 1.0
+    }
+  },
+  "compute_ms": 76.39920013025403
+}

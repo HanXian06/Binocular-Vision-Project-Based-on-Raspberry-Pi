@@ -1,0 +1,75 @@
+{
+  "part": "PartB",
+  "pair_id": "pair_0013",
+  "object": "box",
+  "nominal_distance_m": 1.5,
+  "reference_distance_m": 1.49,
+  "sgbm_full": {
+    "available": true,
+    "depth_m": 1.3719016313552856,
+    "absolute_error_m": 0.11809836864471435,
+    "relative_error_percent": 7.926065009712373
+  },
+  "sgbm_grid": {
+    "available": true,
+    "depth_m": 1.3719016313552856,
+    "accepted_points": 156,
+    "sample_points": 165,
+    "accepted_fraction": 0.9454545454545454,
+    "absolute_error_m": 0.11809836864471435,
+    "relative_error_percent": 7.926065009712373
+  },
+  "ncc_y0": {
+    "available": true,
+    "depth_m": 1.3743584863757459,
+    "accepted_points": 59,
+    "sample_points": 165,
+    "accepted_fraction": 0.3575757575757576,
+    "matching_ms": 8.261300157755613,
+    "rejections": {
+      "low_similarity": 55,
+      "weak_texture": 25,
+      "ambiguous": 24,
+      "horizontal_search_limit": 2
+    },
+    "vertical_median_px": 0.0,
+    "reprojection_median_px": 4.4938668397781776e-14,
+    "vertical_limit_fraction": 0.0,
+    "sgbm_on_same_accepted_points": {
+      "available": true,
+      "depth_m": 1.3719016313552856,
+      "accepted_points": 59,
+      "sample_points": 165,
+      "accepted_fraction": 0.3575757575757576
+    },
+    "original_left_axis_z_diagnostic_m": 1.4071062619786088,
+    "absolute_error_m": 0.11564151362425412,
+    "relative_error_percent": 7.761175411023767
+  },
+  "ncc_y8": {
+    "available": true,
+    "depth_m": 1.3737781222416352,
+    "accepted_points": 98,
+    "sample_points": 165,
+    "accepted_fraction": 0.593939393939394,
+    "matching_ms": 10.736900148913264,
+    "rejections": {
+      "ambiguous": 36,
+      "weak_texture": 25,
+      "low_similarity": 6
+    },
+    "vertical_median_px": 2.0,
+    "reprojection_median_px": 1.000239209689864,
+    "vertical_limit_fraction": 0.01020408163265306,
+    "sgbm_on_same_accepted_points": {
+      "available": true,
+      "depth_m": 1.3719016313552856,
+      "accepted_points": 93,
+      "sample_points": 165,
+      "accepted_fraction": 0.5636363636363636
+    },
+    "original_left_axis_z_diagnostic_m": 1.4055291676312986,
+    "absolute_error_m": 0.11622187775836479,
+    "relative_error_percent": 7.800126024051328
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "manual": {
+    "surface_box": [
+      180,
+      15,
+      390,
+      225
+    ],
+    "status": "distance_available",
+    "final": {
+      "available": true,
+      "depth_m": 0.8679377436637878,
+      "diagnostic_median_m": 0.8679377436637878,
+      "valid_count": 38750,
+      "candidate_count": 68706,
+      "valid_fraction": 0.5639973219223939
+    },
+    "regions": {
+      "full": {
+        "available": true,
+        "depth_m": 0.8679377436637878,
+        "diagnostic_median_m": 0.8679377436637878,
+        "valid_count": 38750,
+        "candidate_count": 68706,
+        "valid_fraction": 0.5639973219223939
+      },
+      "center": {
+        "available": true,
+        "depth_m": 0.8646292090415955,
+        "diagnostic_median_m": 0.8646292090415955,
+        "valid_count": 17700,
+        "candidate_count": 31590,
+        "valid_fraction": 0.560303893637227
+      },
+      "left": {
+        "available": true,
+        "depth_m": 1.0549817085266113,
+        "diagnostic_median_m": 1.0549817085266113,
+        "valid_count": 7186,
+        "candidate_count": 15048,
+        "valid_fraction": 0.47753854332801704
+      },
+      "right": {
+        "available": true,
+        "depth_m": 0.8657292723655701,
+        "diagnostic_median_m": 0.8657292723655701,
+        "valid_count": 8033,
+        "candidate_count": 15048,
+        "valid_fraction": 0.5338250930356193
+      },
+      "tile_0_0": {
+        "available": true,
+        "depth_m": 1.037291407585144,
+        "diagnostic_median_m": 1.037291407585144,
+        "valid_count": 2317,
+        "candidate_count": 7475,
+        "valid_fraction": 0.3099665551839465
+      },
+      "tile_0_1": {
+        "available": true,
+        "depth_m": 0.8591707348823547,
+        "diagnostic_median_m": 0.8591707348823547,
+        "valid_count": 4660,
+        "candidate_count": 7605,
+        "valid_fraction": 0.6127547666009204
+      },
+      "tile_0_2": {
+        "available": true,
+        "depth_m": 0.8613458275794983,
+        "diagnostic_median_m": 0.8613458275794983,
+        "valid_count": 4486,
+        "candidate_count": 7475,
+        "valid_fraction": 0.6001337792642141
+      },
+      "tile_1_0": {
+        "available": true,
+        "depth_m": 1.0517206192016602,
+        "diagnostic_median_m": 1.0517206192016602,
+        "valid_count": 3820,
+        "candidate_count": 7820,
+        "valid_fraction": 0.4884910485933504
+      },
+      "tile_1_1": {
+        "available": true,
+        "depth_m": 0.8537806868553162,
+        "diagnostic_median_m": 0.8537806868553162,
+        "valid_count": 4912,
+        "candidate_count": 7956,
+        "valid_fraction": 0.6173956762192057
+      },
+      "tile_1_2": {
+        "available": true,
+        "depth_m": 0.8591707348823547,
+        "diagnostic_median_m": 0.8591707348823547,
+        "valid_count": 4209,
+        "candidate_count": 7820,
+        "valid_fraction": 0.538235294117647
+      },
+      "tile_2_0": {
+        "available": true,
+        "depth_m": 1.00660240650177,
+        "diagnostic_median_m": 1.00660240650177,
+        "valid_count": 4115,
+        "candidate_count": 7475,
+        "valid_fraction": 0.5505016722408027
+      },
+      "tile_2_1": {
+        "available": true,
+        "depth_m": 0.8442471623420715,
+        "diagnostic_median_m": 0.8442471623420715,
+        "valid_count": 3970,
+        "candidate_count": 7605,
+        "valid_fraction": 0.5220249835634451
+      },
+      "tile_2_2": {
+        "available": true,
+        "depth_m": 0.8602569103240967,
+        "diagnostic_median_m": 0.8602569103240967,
+        "valid_count": 6261,
+        "candidate_count": 7475,
+        "valid_fraction": 0.8375919732441471
+      }
+    }
+  },
+  "evaluation": {
+    "pair_id": "PartC/pair_0002",
+    "object": "person",
+    "reference_distance_m": 1.02,
+    "target_detected": true,
+    "association_coverage": 0.9951943843322393,
+    "detection_id": 0,
+    "confidence": 0.5757789611816406,
+    "auto_available": true,
+    "auto_depth_m": 0.8679377436637878,
+    "manual_depth_m": 0.8679377436637878,
+    "auto_error_m": 0.15206225633621218,
+    "manual_error_m": 0.15206225633621218,
+    "status": "distance_available",
+    "detect_ms": 19.171599997207522,
+    "stereo_ms": 72.42099987342954
+  }
+}

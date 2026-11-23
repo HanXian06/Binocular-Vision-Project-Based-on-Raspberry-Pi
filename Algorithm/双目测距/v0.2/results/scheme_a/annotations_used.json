@@ -1,0 +1,733 @@
+[
+  {
+    "part": "PartB",
+    "pair_id": "pair_0001",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0001_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0001_R.png",
+    "roi_xywh": [
+      256,
+      200,
+      181,
+      127
+    ],
+    "object": "box",
+    "nominal_distance_m": 0.5,
+    "reference_distance_m": 0.5,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0002",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0002_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0002_R.png",
+    "roi_xywh": [
+      242,
+      188,
+      227,
+      151
+    ],
+    "object": "box",
+    "nominal_distance_m": 0.5,
+    "reference_distance_m": 0.51,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0003",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0003_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0003_R.png",
+    "roi_xywh": [
+      240,
+      173,
+      207,
+      145
+    ],
+    "object": "box",
+    "nominal_distance_m": 0.5,
+    "reference_distance_m": 0.49,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0004",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0004_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0004_R.png",
+    "roi_xywh": [
+      256,
+      178,
+      192,
+      127
+    ],
+    "object": "box",
+    "nominal_distance_m": 0.5,
+    "reference_distance_m": 0.52,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0005",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0005_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0005_R.png",
+    "roi_xywh": [
+      265,
+      170,
+      196,
+      127
+    ],
+    "object": "box",
+    "nominal_distance_m": 0.5,
+    "reference_distance_m": 0.48,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0006",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0006_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0006_R.png",
+    "roi_xywh": [
+      270,
+      245,
+      100,
+      55
+    ],
+    "object": "box",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 1,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0007",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0007_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0007_R.png",
+    "roi_xywh": [
+      290,
+      244,
+      87,
+      59
+    ],
+    "object": "box",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 1.01,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0008",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0008_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0008_R.png",
+    "roi_xywh": [
+      291,
+      248,
+      88,
+      63
+    ],
+    "object": "box",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 0.99,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0009",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0009_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0009_R.png",
+    "roi_xywh": [
+      285,
+      254,
+      91,
+      52
+    ],
+    "object": "box",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 1.02,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0010",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0010_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0010_R.png",
+    "roi_xywh": [
+      295,
+      248,
+      96,
+      65
+    ],
+    "object": "box",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 0.98,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0011",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0011_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0011_R.png",
+    "roi_xywh": [
+      267,
+      277,
+      59,
+      43
+    ],
+    "object": "box",
+    "nominal_distance_m": 1.5,
+    "reference_distance_m": 1.5,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0012",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0012_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0012_R.png",
+    "roi_xywh": [
+      270,
+      277,
+      58,
+      42
+    ],
+    "object": "box",
+    "nominal_distance_m": 1.5,
+    "reference_distance_m": 1.51,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0013",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0013_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0013_R.png",
+    "roi_xywh": [
+      270,
+      277,
+      60,
+      46
+    ],
+    "object": "box",
+    "nominal_distance_m": 1.5,
+    "reference_distance_m": 1.49,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0014",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0014_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0014_R.png",
+    "roi_xywh": [
+      271,
+      277,
+      58,
+      42
+    ],
+    "object": "box",
+    "nominal_distance_m": 1.5,
+    "reference_distance_m": 1.52,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0015",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0015_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0015_R.png",
+    "roi_xywh": [
+      268,
+      278,
+      60,
+      45
+    ],
+    "object": "box",
+    "nominal_distance_m": 1.5,
+    "reference_distance_m": 1.48,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0016",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0016_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0016_R.png",
+    "roi_xywh": [
+      283,
+      273,
+      45,
+      36
+    ],
+    "object": "box",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 2,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0017",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0017_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0017_R.png",
+    "roi_xywh": [
+      280,
+      272,
+      44,
+      34
+    ],
+    "object": "box",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 2.01,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0018",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0018_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0018_R.png",
+    "roi_xywh": [
+      281,
+      273,
+      45,
+      36
+    ],
+    "object": "box",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 1.99,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0019",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0019_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0019_R.png",
+    "roi_xywh": [
+      280,
+      272,
+      43,
+      35
+    ],
+    "object": "box",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 2.02,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0020",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0020_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0020_R.png",
+    "roi_xywh": [
+      279,
+      273,
+      45,
+      36
+    ],
+    "object": "box",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 1.98,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0021",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0021_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0021_R.png",
+    "roi_xywh": [
+      300,
+      271,
+      31,
+      30
+    ],
+    "object": "box",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 3,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0022",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0022_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0022_R.png",
+    "roi_xywh": [
+      296,
+      271,
+      32,
+      31
+    ],
+    "object": "box",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 3.01,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0023",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0023_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0023_R.png",
+    "roi_xywh": [
+      298,
+      271,
+      31,
+      31
+    ],
+    "object": "box",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 2.99,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0024",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0024_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0024_R.png",
+    "roi_xywh": [
+      298,
+      271,
+      30,
+      30
+    ],
+    "object": "box",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 3.02,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartB",
+    "pair_id": "pair_0025",
+    "left": "repo://Dataset/Data1105/PartB/left/pair_0025_L.png",
+    "right": "repo://Dataset/Data1105/PartB/right/pair_0025_R.png",
+    "roi_xywh": [
+      298,
+      271,
+      31,
+      31
+    ],
+    "object": "box",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 2.98,
+    "reference_source": "PartB/ReadmeB：计划距离及约±1/2厘米变化",
+    "roi_note": "包装盒正面；先按红色外观建议内缩矩形，再逐张目视确认；0006沿用原样例框"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0001",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0001_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0001_R.png",
+    "roi_xywh": [
+      315,
+      60,
+      110,
+      130
+    ],
+    "object": "person",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 1,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "躯干中央衣服表面"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0002",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0002_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0002_R.png",
+    "roi_xywh": [
+      315,
+      60,
+      110,
+      130
+    ],
+    "object": "person",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 1.02,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "躯干中央衣服表面"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0003",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0003_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0003_R.png",
+    "roi_xywh": [
+      315,
+      60,
+      110,
+      130
+    ],
+    "object": "person",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 0.98,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "躯干中央衣服表面"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0004",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0004_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0004_R.png",
+    "roi_xywh": [
+      340,
+      302,
+      120,
+      8
+    ],
+    "object": "chair",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 1,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0005",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0005_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0005_R.png",
+    "roi_xywh": [
+      340,
+      302,
+      120,
+      8
+    ],
+    "object": "chair",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 1.01,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0006",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0006_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0006_R.png",
+    "roi_xywh": [
+      340,
+      302,
+      120,
+      8
+    ],
+    "object": "chair",
+    "nominal_distance_m": 1,
+    "reference_distance_m": 0.99,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0007",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0007_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0007_R.png",
+    "roi_xywh": [
+      282,
+      115,
+      70,
+      100
+    ],
+    "object": "person",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 2,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "躯干中央衣服表面"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0008",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0008_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0008_R.png",
+    "roi_xywh": [
+      282,
+      115,
+      70,
+      100
+    ],
+    "object": "person",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 2.02,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "躯干中央衣服表面"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0009",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0009_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0009_R.png",
+    "roi_xywh": [
+      282,
+      115,
+      70,
+      100
+    ],
+    "object": "person",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 1.98,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "躯干中央衣服表面"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0010",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0010_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0010_R.png",
+    "roi_xywh": [
+      300,
+      260,
+      115,
+      12
+    ],
+    "object": "chair",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 2,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0011",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0011_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0011_R.png",
+    "roi_xywh": [
+      300,
+      260,
+      115,
+      12
+    ],
+    "object": "chair",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 2.01,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0012",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0012_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0012_R.png",
+    "roi_xywh": [
+      300,
+      260,
+      115,
+      12
+    ],
+    "object": "chair",
+    "nominal_distance_m": 2,
+    "reference_distance_m": 1.99,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0013",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0013_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0013_R.png",
+    "roi_xywh": [
+      285,
+      140,
+      55,
+      85
+    ],
+    "object": "person",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 3,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "躯干中央衣服表面"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0014",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0014_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0014_R.png",
+    "roi_xywh": [
+      285,
+      140,
+      55,
+      85
+    ],
+    "object": "person",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 3.02,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "躯干中央衣服表面"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0015",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0015_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0015_R.png",
+    "roi_xywh": [
+      285,
+      140,
+      55,
+      85
+    ],
+    "object": "person",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 2.98,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "躯干中央衣服表面"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0016",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0016_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0016_R.png",
+    "roi_xywh": [
+      300,
+      292,
+      70,
+      10
+    ],
+    "object": "chair",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 3,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0017",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0017_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0017_R.png",
+    "roi_xywh": [
+      300,
+      292,
+      70,
+      10
+    ],
+    "object": "chair",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 3.01,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景"
+  },
+  {
+    "part": "PartC",
+    "pair_id": "pair_0018",
+    "left": "repo://Dataset/Data1105/PartC/left/pair_0018_L.png",
+    "right": "repo://Dataset/Data1105/PartC/right/pair_0018_R.png",
+    "roi_xywh": [
+      300,
+      292,
+      70,
+      10
+    ],
+    "object": "chair",
+    "nominal_distance_m": 3,
+    "reference_distance_m": 2.99,
+    "reference_source": "PartC/ReadmeC + 任务单：按图像中的交替分组对应1/2/3米",
+    "roi_note": "椅背上端的材料表面；避开大块网孔和背景"
+  }
+]

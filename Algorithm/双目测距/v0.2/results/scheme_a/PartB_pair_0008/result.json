@@ -1,0 +1,73 @@
+{
+  "part": "PartB",
+  "pair_id": "pair_0008",
+  "object": "box",
+  "nominal_distance_m": 1,
+  "reference_distance_m": 0.99,
+  "version": "v0.2",
+  "roi_xywh": [
+    291,
+    248,
+    88,
+    63
+  ],
+  "selection_ms": 5.188999930396676,
+  "grid_full": {
+    "available": true,
+    "depth_m": 0.9188344449993198,
+    "diagnostic_median_m": 0.9188344449993198,
+    "valid_points": 175,
+    "selected_points": 352,
+    "valid_fraction": 0.4971590909090909,
+    "matching_ms": 21.246900083497167,
+    "selected_cells": 9,
+    "valid_cells": 9,
+    "rejected": {
+      "ambiguous": 125,
+      "weak_texture": 47,
+      "low_similarity": 5
+    },
+    "reprojection_median_px": 1.0002640258381328,
+    "absolute_error_m": 0.07116555500068023
+  },
+  "grid_equal_count": {
+    "available": true,
+    "depth_m": 0.9187509156228428,
+    "diagnostic_median_m": 0.9187509156228428,
+    "valid_points": 52,
+    "selected_points": 116,
+    "valid_fraction": 0.4482758620689655,
+    "matching_ms": 7.798299891874194,
+    "selected_cells": 9,
+    "valid_cells": 9,
+    "rejected": {
+      "ambiguous": 46,
+      "weak_texture": 15,
+      "low_similarity": 3
+    },
+    "reprojection_median_px": 1.0002648597112116,
+    "absolute_error_m": 0.07124908437715716
+  },
+  "shi_tomasi": {
+    "available": true,
+    "depth_m": 0.9172493830938089,
+    "diagnostic_median_m": 0.9172493830938089,
+    "valid_points": 78,
+    "selected_points": 116,
+    "valid_fraction": 0.6724137931034483,
+    "matching_ms": 7.9869001638144255,
+    "selected_cells": 9,
+    "valid_cells": 9,
+    "rejected": {
+      "ambiguous": 36,
+      "low_similarity": 1,
+      "weak_texture": 1
+    },
+    "reprojection_median_px": 1.0002665663287913,
+    "absolute_error_m": 0.07275061690619111
+  },
+  "sgbm_reference": {
+    "depth_m": 0.9232879281044006,
+    "absolute_error_m": 0.06671207189559936
+  }
+}

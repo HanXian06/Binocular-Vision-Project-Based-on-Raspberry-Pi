@@ -1,0 +1,122 @@
+{
+  "all": {
+    "sgbm_full": {
+      "total": 43,
+      "available": 43,
+      "mae_m": 0.5807679163855176,
+      "sgbm_full_mae_on_same_pairs_m": 0.5807679163855176,
+      "severe_over20_count": 7
+    },
+    "sgbm_grid": {
+      "total": 43,
+      "available": 37,
+      "mae_m": 0.22184705760027912,
+      "sgbm_full_mae_on_same_pairs_m": 0.2246577573144758,
+      "severe_over20_count": 3
+    },
+    "ncc_y0": {
+      "total": 43,
+      "available": 33,
+      "mae_m": 0.1816741941122302,
+      "sgbm_full_mae_on_same_pairs_m": 0.17490595972899234,
+      "severe_over20_count": 1
+    },
+    "ncc_y8": {
+      "total": 43,
+      "available": 33,
+      "mae_m": 0.16963226402126125,
+      "sgbm_full_mae_on_same_pairs_m": 0.17687663493734418,
+      "severe_over20_count": 1
+    }
+  },
+  "box": {
+    "sgbm_full": {
+      "total": 25,
+      "available": 25,
+      "mae_m": 0.12476320147514343,
+      "sgbm_full_mae_on_same_pairs_m": 0.12476320147514343,
+      "severe_over20_count": 0
+    },
+    "sgbm_grid": {
+      "total": 25,
+      "available": 25,
+      "mae_m": 0.12467385053634643,
+      "sgbm_full_mae_on_same_pairs_m": 0.12476320147514343,
+      "severe_over20_count": 0
+    },
+    "ncc_y0": {
+      "total": 25,
+      "available": 24,
+      "mae_m": 0.13397629900199853,
+      "sgbm_full_mae_on_same_pairs_m": 0.11985336537162462,
+      "severe_over20_count": 0
+    },
+    "ncc_y8": {
+      "total": 25,
+      "available": 25,
+      "mae_m": 0.1346401649994481,
+      "sgbm_full_mae_on_same_pairs_m": 0.12476320147514343,
+      "severe_over20_count": 0
+    }
+  },
+  "person": {
+    "sgbm_full": {
+      "total": 9,
+      "available": 9,
+      "mae_m": 0.32171287801530624,
+      "sgbm_full_mae_on_same_pairs_m": 0.32171287801530624,
+      "severe_over20_count": 1
+    },
+    "sgbm_grid": {
+      "total": 9,
+      "available": 9,
+      "mae_m": 0.3212076624234517,
+      "sgbm_full_mae_on_same_pairs_m": 0.32171287801530624,
+      "severe_over20_count": 2
+    },
+    "ncc_y0": {
+      "total": 9,
+      "available": 9,
+      "mae_m": 0.308868581072848,
+      "sgbm_full_mae_on_same_pairs_m": 0.32171287801530624,
+      "severe_over20_count": 1
+    },
+    "ncc_y8": {
+      "total": 9,
+      "available": 8,
+      "mae_m": 0.27898257346442734,
+      "sgbm_full_mae_on_same_pairs_m": 0.3397311145067215,
+      "severe_over20_count": 1
+    }
+  },
+  "chair": {
+    "sgbm_full": {
+      "total": 9,
+      "available": 9,
+      "mae_m": 2.106502718395657,
+      "sgbm_full_mae_on_same_pairs_m": 2.106502718395657,
+      "severe_over20_count": 6
+    },
+    "sgbm_grid": {
+      "total": 9,
+      "available": 3,
+      "mae_m": 0.7335419686635335,
+      "sgbm_full_mae_on_same_pairs_m": 0.7659470272064209,
+      "severe_over20_count": 1
+    },
+    "ncc_y0": {
+      "total": 9,
+      "available": 0,
+      "mae_m": null,
+      "sgbm_full_mae_on_same_pairs_m": null,
+      "severe_over20_count": 0
+    },
+    "ncc_y8": {
+      "total": 9,
+      "available": 0,
+      "mae_m": null,
+      "sgbm_full_mae_on_same_pairs_m": null,
+      "severe_over20_count": 0
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "diagnostic_script_sha256": "483b845373694b53cdedf86bb4f4d9a5f5c0d635f99224596e0bb125b0ea2599",
+  "camera_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+  "sift_nfeatures": 2500,
+  "sift_contrast_threshold": 0.02,
+  "mutual_descriptor_ratio": 0.7,
+  "diagnostic_disparity_range_px": [
+    0,
+    128
+  ],
+  "diagnostic_abs_vertical_limit_px": 12,
+  "note": "特征仅作诊断；人物诊断区域含外套，测距ROI不变。现场参考距离为近似记录。",
+  "analysis_final_derived_feature_comparison_fields": "补充字段由已保存对应点与原数组计算；公式与当前诊断脚本一致。"
+}

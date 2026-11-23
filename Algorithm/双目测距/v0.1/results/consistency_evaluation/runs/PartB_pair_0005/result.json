@@ -1,0 +1,68 @@
+{
+  "version": "v0.1",
+  "pair_id": "PartB/pair_0005",
+  "distance_definition": "rectified_left_optical_axis_Z",
+  "unit": "m",
+  "available": true,
+  "depth_m": 0.46831604838371277,
+  "roi_xywh": [
+    265,
+    170,
+    196,
+    127
+  ],
+  "roi_pixels": 24892,
+  "valid_pixels": 10478,
+  "valid_fraction": 0.4209384541218062,
+  "q25_m": 0.46227118372917175,
+  "q75_m": 0.47919943928718567,
+  "iqr_m": 0.016928255558013916,
+  "reasons": [],
+  "reference_distance_m": 0.48,
+  "absolute_error_m": 0.011683951616287214,
+  "timing_ms": {
+    "read_ms": 10.223600082099438,
+    "rectify_ms": 15.737800160422921,
+    "matching_ms": 60.68410002626479,
+    "reproject_filter_ms": 8.184799924492836,
+    "right_matching_ms": 67.07139988429844,
+    "consistency_ms": 15.550699783489108,
+    "region_ms": 0.38650003261864185
+  },
+  "compute_total_ms": 177.83889989368618,
+  "parameter_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+  "left_sha256": "7140a0ebe170efbbe5761afd5689340233826bd0f6516874cd7ff4b61b9da1d0",
+  "right_sha256": "b6340cc8461e92e66cec716f0e0b48772e13395a5c90bbf083860f46ba286aa1",
+  "opencv_version": "5.0.0",
+  "numpy_version": "2.5.4",
+  "notes": "Availability is pixel support only; not a calibrated probability of accuracy.",
+  "consistency_check": {
+    "enabled": true,
+    "max_diff_px": 1.0,
+    "roi_base_valid_pixels": 13389,
+    "roi_checked_pixels": 10920,
+    "roi_passed_pixels": 10478,
+    "roi_pass_fraction_of_base": 0.7825827171558742,
+    "roi_pass_fraction_of_checked": 0.9595238095238096,
+    "roi_residual_median_px": 0.125
+  },
+  "before_consistency": {
+    "available": true,
+    "depth_m": 0.47058314085006714,
+    "roi_xywh": [
+      265,
+      170,
+      196,
+      127
+    ],
+    "roi_pixels": 24892,
+    "valid_pixels": 13389,
+    "valid_fraction": 0.5378836573999679,
+    "q25_m": 0.46227118372917175,
+    "q75_m": 0.4819144606590271,
+    "iqr_m": 0.019643276929855347,
+    "reasons": [],
+    "absolute_error_m": 0.009416859149932844
+  },
+  "artifact_write_ms": 234.6697999164462
+}

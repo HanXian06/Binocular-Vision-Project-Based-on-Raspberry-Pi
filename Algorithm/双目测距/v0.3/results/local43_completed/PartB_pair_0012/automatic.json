@@ -1,0 +1,164 @@
+{
+  "version": "v0.3",
+  "pair_id": "PartB/pair_0012",
+  "left_timestamp_ns": null,
+  "right_timestamp_ns": null,
+  "pair_time_difference_ns": null,
+  "distance_definition": "rectified_left_optical_axis_Z",
+  "objects": [
+    {
+      "detection_id": 0,
+      "class_id": 0,
+      "class_name": "person",
+      "confidence": 0.6793720126152039,
+      "bbox_xyxy": [
+        0.9906798142653245,
+        224.8033699622521,
+        259.0420855008639,
+        423.2579598060021
+      ],
+      "surface_box": [
+        52,
+        254,
+        156,
+        100
+      ],
+      "status": "distance_available",
+      "final": {
+        "available": true,
+        "depth_m": 1.7140130996704102,
+        "diagnostic_median_m": 1.7140130996704102,
+        "valid_count": 3694,
+        "candidate_count": 11782,
+        "valid_fraction": 0.3135291122050586
+      },
+      "regions": {
+        "full": {
+          "available": true,
+          "depth_m": 1.7140130996704102,
+          "diagnostic_median_m": 1.7140130996704102,
+          "valid_count": 3694,
+          "candidate_count": 11782,
+          "valid_fraction": 0.3135291122050586
+        },
+        "center": {
+          "available": true,
+          "depth_m": 1.7859926223754883,
+          "diagnostic_median_m": 1.7859926223754883,
+          "valid_count": 2017,
+          "candidate_count": 5580,
+          "valid_fraction": 0.36146953405017923
+        },
+        "left": {
+          "available": false,
+          "depth_m": null,
+          "diagnostic_median_m": null,
+          "valid_count": 0,
+          "candidate_count": 2580,
+          "valid_fraction": 0.0
+        },
+        "right": {
+          "available": true,
+          "depth_m": 1.6436309814453125,
+          "diagnostic_median_m": 1.6436309814453125,
+          "valid_count": 1271,
+          "candidate_count": 2494,
+          "valid_fraction": 0.5096230954290297
+        },
+        "tile_0_0": {
+          "available": false,
+          "depth_m": null,
+          "diagnostic_median_m": null,
+          "valid_count": 0,
+          "candidate_count": 1260,
+          "valid_fraction": 0.0
+        },
+        "tile_0_1": {
+          "available": true,
+          "depth_m": 7.24224853515625,
+          "diagnostic_median_m": 7.24224853515625,
+          "valid_count": 222,
+          "candidate_count": 1316,
+          "valid_fraction": 0.16869300911854104
+        },
+        "tile_0_2": {
+          "available": true,
+          "depth_m": 4.074629783630371,
+          "diagnostic_median_m": 4.074629783630371,
+          "valid_count": 787,
+          "candidate_count": 1260,
+          "valid_fraction": 0.6246031746031746
+        },
+        "tile_1_0": {
+          "available": false,
+          "depth_m": null,
+          "diagnostic_median_m": null,
+          "valid_count": 0,
+          "candidate_count": 1350,
+          "valid_fraction": 0.0
+        },
+        "tile_1_1": {
+          "available": true,
+          "depth_m": 1.8316938877105713,
+          "diagnostic_median_m": 1.8316938877105713,
+          "valid_count": 518,
+          "candidate_count": 1410,
+          "valid_fraction": 0.36737588652482267
+        },
+        "tile_1_2": {
+          "available": true,
+          "depth_m": 1.8390897512435913,
+          "diagnostic_median_m": 1.8390897512435913,
+          "valid_count": 567,
+          "candidate_count": 1350,
+          "valid_fraction": 0.42
+        },
+        "tile_2_0": {
+          "available": false,
+          "depth_m": null,
+          "diagnostic_median_m": null,
+          "valid_count": 0,
+          "candidate_count": 1260,
+          "valid_fraction": 0.0
+        },
+        "tile_2_1": {
+          "available": true,
+          "depth_m": 1.6240172386169434,
+          "diagnostic_median_m": 1.6240172386169434,
+          "valid_count": 663,
+          "candidate_count": 1316,
+          "valid_fraction": 0.5037993920972644
+        },
+        "tile_2_2": {
+          "available": true,
+          "depth_m": 1.6240172386169434,
+          "diagnostic_median_m": 1.6240172386169434,
+          "valid_count": 937,
+          "candidate_count": 1260,
+          "valid_fraction": 0.7436507936507937
+        }
+      }
+    },
+    {
+      "detection_id": 1,
+      "class_id": 45,
+      "class_name": "bowl",
+      "confidence": 0.4723474681377411,
+      "bbox_xyxy": [
+        500.6317725548377,
+        293.66563943716193,
+        639.0,
+        372.7675951444186
+      ],
+      "status": "unsupported_class",
+      "final": null,
+      "regions": {}
+    }
+  ],
+  "timing_ms": {
+    "rectify_ms": 5.814099917188287,
+    "detect_ms": 20.264900056645274,
+    "stereo_ms": 67.71269999444485,
+    "regions_ms": 12.983799912035465
+  }
+}

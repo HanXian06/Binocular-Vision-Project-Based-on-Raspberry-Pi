@@ -1,0 +1,7 @@
+{
+  "numeric_tests": 5,
+  "repeat_result": "disparity/depth/mask and ROI statistics identical",
+  "sample": "PartB/pair_0006",
+  "parameter_copy_unchanged": true,
+  "scope": "single-pair offline v0.1"
+}

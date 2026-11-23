@@ -1,0 +1,12 @@
+{
+  "version": "v0.2",
+  "date": "2026-11-21",
+  "pair_count": 43,
+  "tests_passed": 8,
+  "v01_manifest_all_files_unchanged": true,
+  "same_original_images_and_roi": true,
+  "same_ncc_and_geometry_source": true,
+  "all_43_grid_baselines_identical": true,
+  "active_and_equal_grid_point_counts_equal": true,
+  "documentation_note": "运行后仅更新包的版本说明文字；算法代码未改变。"
+}

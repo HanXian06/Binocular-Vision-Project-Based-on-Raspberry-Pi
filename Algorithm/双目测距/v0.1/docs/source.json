@@ -1,0 +1,11 @@
+{
+  "version": "v0.1",
+  "created_date": "2026-11-20",
+  "dataset_revision": "03445cf5d2eadb918949b145bb2907336ecc12db",
+  "sample_source": "Dataset/Data1105/PartB/pair_0006",
+  "reference_source": "PartB/ReadmeB approximate distance rule",
+  "parameter_source": "ranging_development_handoff_20261113/parameters/background1105.npz",
+  "parameter_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+  "left_sha256": "33c09c50b1e9bca7aa93ace3459b05c8421fae03722af5fcb57c06c15ac9b9c6",
+  "right_sha256": "7877a79852ade99bfade0f92aa065bf2077eff1e440e30db09bac8edc0a06e5d"
+}

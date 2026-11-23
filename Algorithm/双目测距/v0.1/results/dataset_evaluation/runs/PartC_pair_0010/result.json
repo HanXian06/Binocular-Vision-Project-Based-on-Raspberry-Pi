@@ -1,0 +1,38 @@
+{
+  "version": "v0.1",
+  "pair_id": "PartC/pair_0010",
+  "distance_definition": "rectified_left_optical_axis_Z",
+  "unit": "m",
+  "available": true,
+  "depth_m": 4.124019622802734,
+  "roi_xywh": [
+    300,
+    260,
+    115,
+    12
+  ],
+  "roi_pixels": 1380,
+  "valid_pixels": 236,
+  "valid_fraction": 0.17101449275362318,
+  "q25_m": 1.8242981433868408,
+  "q75_m": 4.279642581939697,
+  "iqr_m": 2.4553444385528564,
+  "reasons": [],
+  "reference_distance_m": 2,
+  "absolute_error_m": 2.1240196228027344,
+  "timing_ms": {
+    "read_ms": 8.614900056272745,
+    "rectify_ms": 18.08539987541735,
+    "matching_ms": 57.7777000144124,
+    "reproject_filter_ms": 5.790699971839786,
+    "region_ms": 9.066500002518296
+  },
+  "compute_total_ms": 99.33519992046058,
+  "parameter_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+  "left_sha256": "85796c9f49daa29fcb454734bf2dd884681b0a3b2d2bc81ed54edd87f4283596",
+  "right_sha256": "b34fc18efb3eebaf662618972919b681664bd8c0e60aae7053c30ab12b7fb73c",
+  "opencv_version": "5.0.0",
+  "numpy_version": "2.5.4",
+  "notes": "Availability is pixel support only; not a calibrated probability of accuracy.",
+  "artifact_write_ms": 116.09579995274544
+}

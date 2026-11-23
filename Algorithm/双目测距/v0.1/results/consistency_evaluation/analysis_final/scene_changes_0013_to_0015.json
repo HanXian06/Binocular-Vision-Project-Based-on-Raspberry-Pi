@@ -1,0 +1,106 @@
+{
+  "background": [
+    {
+      "side": "left",
+      "from_pair": 13,
+      "to_pair": 14,
+      "points": 200,
+      "median_xy": [
+        -0.039764404296875,
+        0.03814697265625
+      ],
+      "median_abs_xy": [
+        0.040557861328125,
+        0.041229248046875
+      ]
+    },
+    {
+      "side": "left",
+      "from_pair": 13,
+      "to_pair": 15,
+      "points": 200,
+      "median_xy": [
+        0.014678955078125,
+        0.024627685546875
+      ],
+      "median_abs_xy": [
+        0.0316162109375,
+        0.03485107421875
+      ]
+    },
+    {
+      "side": "right",
+      "from_pair": 13,
+      "to_pair": 14,
+      "points": 200,
+      "median_xy": [
+        -0.06464004516601562,
+        0.024200439453125
+      ],
+      "median_abs_xy": [
+        0.06536865234375,
+        0.0327606201171875
+      ]
+    },
+    {
+      "side": "right",
+      "from_pair": 13,
+      "to_pair": 15,
+      "points": 200,
+      "median_xy": [
+        -0.019802093505859375,
+        0.0055694580078125
+      ],
+      "median_abs_xy": [
+        0.03082275390625,
+        0.0218048095703125
+      ]
+    }
+  ],
+  "body_appearance": [
+    {
+      "side": "left",
+      "from_pair": 13,
+      "to_pair": 14,
+      "inliers": 90,
+      "approximate_image_scale": 0.9740234552549387,
+      "shift_at_center_xy": [
+        -3.2293218326940405,
+        0.9656675464301259
+      ]
+    },
+    {
+      "side": "left",
+      "from_pair": 13,
+      "to_pair": 15,
+      "inliers": 104,
+      "approximate_image_scale": 1.0232921802384398,
+      "shift_at_center_xy": [
+        -0.5811163280236542,
+        -1.5992453368289148
+      ]
+    },
+    {
+      "side": "right",
+      "from_pair": 13,
+      "to_pair": 14,
+      "inliers": 102,
+      "approximate_image_scale": 0.9843989815019627,
+      "shift_at_center_xy": [
+        -3.3544535206484625,
+        -0.01175168055129916
+      ]
+    },
+    {
+      "side": "right",
+      "from_pair": 13,
+      "to_pair": 15,
+      "inliers": 95,
+      "approximate_image_scale": 1.0291639629742566,
+      "shift_at_center_xy": [
+        -5.988379007037793,
+        -1.5611662542991382
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "version": "v0.1",
+  "roi_policy": {
+    "id": "surface_regions_1",
+    "inset": 0.05,
+    "center": [
+      0.2,
+      0.2,
+      0.8,
+      0.8
+    ],
+    "side_width": 0.2,
+    "tiles": 3,
+    "final": "所有候选位置去重后取有效深度中位数",
+    "min_count": 30,
+    "min_fraction": 0.1
+  },
+  "freeze": {
+    "target_sha256": "cb47fb018b23a2db426611e233c891eb475047e49c45b5b89c79ae847aab2e4c",
+    "policy_sha256": "54af6e5724b3a46b1de103aab3eee109d8d8efcf9184ca500bbb211e3aa4d48a",
+    "frozen_before_any_ranging_call": true,
+    "roi_development_calls": 0
+  },
+  "config": {
+    "run_id": "sample_pair0006",
+    "pair_id": "PartB/pair_0006",
+    "left_image": "../data/sample/pair_0006_L.png",
+    "right_image": "../data/sample/pair_0006_R.png",
+    "camera_parameters": "../parameters/background1105.npz",
+    "camera_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+    "roi_xywh": [
+      270,
+      245,
+      100,
+      55
+    ],
+    "reference_distance_m": 1.0,
+    "reference_source": "PartB/ReadmeB approximate record",
+    "sgbm": {
+      "min_disparity": 0,
+      "num_disparities": 128,
+      "block_size": 5,
+      "p1": 200,
+      "p2": 800,
+      "uniqueness_ratio": 10,
+      "speckle_window_size": 100,
+      "speckle_range": 2,
+      "disp12_max_diff": 1
+    },
+    "region_thresholds": {
+      "min_pixels": 30,
+      "min_fraction": 0.1
+    },
+    "visualization_depth_max_m": 4.0,
+    "roi_description": "Manual rectangle on rectified left packaging front; selected before measuring depth; avoids hands and chair"
+  },
+  "camera_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a"
+}

@@ -1,0 +1,18 @@
+{
+  "pair_count": 43,
+  "original_images_verified_against_baseline_sha": true,
+  "original_roi_and_references_unchanged": true,
+  "unchanged_files": [
+    "run_ranging.py",
+    "stereo_ranging/matching.py",
+    "stereo_ranging/geometry.py",
+    "stereo_ranging/region.py",
+    "stereo_ranging/consistency.py",
+    "parameters/background1105.npz",
+    "configs/sample_pair0006.json"
+  ],
+  "tests_passed": 15,
+  "candidate_coordinates_and_score_gates_verified": true,
+  "version": "v0.1",
+  "date": "2026-11-21"
+}

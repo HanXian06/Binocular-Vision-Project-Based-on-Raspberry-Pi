@@ -1,0 +1,15 @@
+{
+  "authorization": "v0.3开发及YOLO本地评估，用户明确批准",
+  "main": {
+    "version": "v0.3",
+    "authorized": "用户批准本版本YOLO本地测试与人工ROI对照",
+    "yolo_calls": 43,
+    "sgbm_calls": 43,
+    "status": "complete"
+  },
+  "control": {
+    "yolo_calls": 43,
+    "sgbm_calls": 0
+  },
+  "initial_failure": "模型路径加载失败，推理次数0"
+}

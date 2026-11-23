@@ -1,0 +1,29 @@
+{
+  "counting_unit": "一次完整数据集批量运行；另记录内部推理次数，不将内部次数隐藏为零",
+  "roi_development_limit_per_version": 5,
+  "roi_development_used": {
+    "v0.1": 0,
+    "v0.2": 0
+  },
+  "independent_final_limit_per_version": 1,
+  "independent_final_used": {
+    "v0.1": 1,
+    "v0.2": 1
+  },
+  "events": [
+    {
+      "version": "v0.1",
+      "kind": "independent_final",
+      "status": "complete",
+      "pairs_completed": 43,
+      "matching_calls": 43
+    },
+    {
+      "version": "v0.2",
+      "kind": "independent_final",
+      "status": "complete",
+      "pairs_completed": 43,
+      "matching_calls": 43
+    }
+  ]
+}

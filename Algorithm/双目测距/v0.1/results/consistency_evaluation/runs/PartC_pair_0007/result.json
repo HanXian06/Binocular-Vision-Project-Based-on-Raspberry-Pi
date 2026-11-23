@@ -1,0 +1,68 @@
+{
+  "version": "v0.1",
+  "pair_id": "PartC/pair_0007",
+  "distance_definition": "rectified_left_optical_axis_Z",
+  "unit": "m",
+  "available": true,
+  "depth_m": 1.8292021751403809,
+  "roi_xywh": [
+    282,
+    115,
+    70,
+    100
+  ],
+  "roi_pixels": 7000,
+  "valid_pixels": 6277,
+  "valid_fraction": 0.8967142857142857,
+  "q25_m": 1.7954174280166626,
+  "q75_m": 1.849084734916687,
+  "iqr_m": 0.053667306900024414,
+  "reasons": [],
+  "reference_distance_m": 2,
+  "absolute_error_m": 0.17079782485961914,
+  "timing_ms": {
+    "read_ms": 10.36870013922453,
+    "rectify_ms": 14.944399939849973,
+    "matching_ms": 51.3440000358969,
+    "reproject_filter_ms": 5.6169000454247,
+    "right_matching_ms": 68.9348999876529,
+    "consistency_ms": 14.817900024354458,
+    "region_ms": 0.546199968084693
+  },
+  "compute_total_ms": 166.57300014048815,
+  "parameter_sha256": "9740a0c42f90be52148122be90d507f061546bcc596a4ad4efe62dd1076e262a",
+  "left_sha256": "ce14ee609326f02362ba74200fceffa534b89dcfe7c8cf629ffc76b5fb66dd4d",
+  "right_sha256": "610c644197737e0450bf32b4e6fed295357ceec5e83ea7a0f7967be1d9e68d45",
+  "opencv_version": "5.0.0",
+  "numpy_version": "2.5.4",
+  "notes": "Availability is pixel support only; not a calibrated probability of accuracy.",
+  "consistency_check": {
+    "enabled": true,
+    "max_diff_px": 1.0,
+    "roi_base_valid_pixels": 6717,
+    "roi_checked_pixels": 6396,
+    "roi_passed_pixels": 6277,
+    "roi_pass_fraction_of_base": 0.9344945660264999,
+    "roi_pass_fraction_of_checked": 0.9813946216385241,
+    "roi_residual_median_px": 0.07421875
+  },
+  "before_consistency": {
+    "available": true,
+    "depth_m": 1.8292021751403809,
+    "roi_xywh": [
+      282,
+      115,
+      70,
+      100
+    ],
+    "roi_pixels": 7000,
+    "valid_pixels": 6717,
+    "valid_fraction": 0.9595714285714285,
+    "q25_m": 1.7954174280166626,
+    "q75_m": 1.849084734916687,
+    "iqr_m": 0.053667306900024414,
+    "reasons": [],
+    "absolute_error_m": 0.17079782485961914
+  },
+  "artifact_write_ms": 225.20330012775958
+}

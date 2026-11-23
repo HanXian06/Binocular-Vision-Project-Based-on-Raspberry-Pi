@@ -1,0 +1,130 @@
+{
+  "part": "PartC",
+  "pair_id": "pair_0016",
+  "object": "chair",
+  "reference_distance_m": 3,
+  "surface_box": [
+    280,
+    282,
+    120,
+    105
+  ],
+  "box_source": "按既有图片外观一次性固定的可见椅背框",
+  "version": "v0.1",
+  "final": {
+    "available": true,
+    "depth_m": 2.7110087871551514,
+    "diagnostic_median_m": 2.7110087871551514,
+    "valid_count": 8808,
+    "candidate_count": 9360,
+    "valid_fraction": 0.941025641025641,
+    "absolute_error_m": 0.28899121284484863
+  },
+  "regions": {
+    "full": {
+      "available": true,
+      "depth_m": 2.7110087871551514,
+      "diagnostic_median_m": 2.7110087871551514,
+      "valid_count": 8808,
+      "candidate_count": 9360,
+      "valid_fraction": 0.941025641025641
+    },
+    "center": {
+      "available": true,
+      "depth_m": 2.7002508640289307,
+      "diagnostic_median_m": 2.7002508640289307,
+      "valid_count": 4456,
+      "candidate_count": 4536,
+      "valid_fraction": 0.982363315696649
+    },
+    "left": {
+      "available": true,
+      "depth_m": 2.7438032627105713,
+      "diagnostic_median_m": 2.7438032627105713,
+      "valid_count": 1887,
+      "candidate_count": 1980,
+      "valid_fraction": 0.953030303030303
+    },
+    "right": {
+      "available": true,
+      "depth_m": 2.68957781791687,
+      "diagnostic_median_m": 2.68957781791687,
+      "valid_count": 1980,
+      "candidate_count": 1980,
+      "valid_fraction": 1.0
+    },
+    "tile_0_0": {
+      "available": true,
+      "depth_m": 2.8234987258911133,
+      "diagnostic_median_m": 2.8234987258911133,
+      "valid_count": 768,
+      "candidate_count": 986,
+      "valid_fraction": 0.7789046653144016
+    },
+    "tile_0_1": {
+      "available": true,
+      "depth_m": 2.76611065864563,
+      "diagnostic_median_m": 2.76611065864563,
+      "valid_count": 898,
+      "candidate_count": 1044,
+      "valid_fraction": 0.8601532567049809
+    },
+    "tile_0_2": {
+      "available": true,
+      "depth_m": 2.7002508640289307,
+      "diagnostic_median_m": 2.7002508640289307,
+      "valid_count": 974,
+      "candidate_count": 986,
+      "valid_fraction": 0.9878296146044625
+    },
+    "tile_1_0": {
+      "available": true,
+      "depth_m": 2.7110087871551514,
+      "diagnostic_median_m": 2.7110087871551514,
+      "valid_count": 1086,
+      "candidate_count": 1088,
+      "valid_fraction": 0.9981617647058824
+    },
+    "tile_1_1": {
+      "available": true,
+      "depth_m": 2.6789889335632324,
+      "diagnostic_median_m": 2.6789889335632324,
+      "valid_count": 1142,
+      "candidate_count": 1152,
+      "valid_fraction": 0.9913194444444444
+    },
+    "tile_1_2": {
+      "available": true,
+      "depth_m": 2.668483257293701,
+      "diagnostic_median_m": 2.668483257293701,
+      "valid_count": 1088,
+      "candidate_count": 1088,
+      "valid_fraction": 1.0
+    },
+    "tile_2_0": {
+      "available": true,
+      "depth_m": 2.7218527793884277,
+      "diagnostic_median_m": 2.7218527793884277,
+      "valid_count": 983,
+      "candidate_count": 986,
+      "valid_fraction": 0.9969574036511156
+    },
+    "tile_2_1": {
+      "available": true,
+      "depth_m": 2.7110087871551514,
+      "diagnostic_median_m": 2.7110087871551514,
+      "valid_count": 908,
+      "candidate_count": 1044,
+      "valid_fraction": 0.8697318007662835
+    },
+    "tile_2_2": {
+      "available": true,
+      "depth_m": 2.7438032627105713,
+      "diagnostic_median_m": 2.7438032627105713,
+      "valid_count": 961,
+      "candidate_count": 986,
+      "valid_fraction": 0.9746450304259635
+    }
+  },
+  "compute_ms": 81.62730000913143
+}

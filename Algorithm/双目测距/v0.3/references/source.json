@@ -1,0 +1,7 @@
+{
+  "repository": "HanXian06/Binocular-Vision-Project-Based-on-Raspberry-Pi",
+  "commit": "7ee347e136078f3784885fd0ae3ee77dc016c870",
+  "model_url": "https://raw.githubusercontent.com/HanXian06/Binocular-Vision-Project-Based-on-Raspberry-Pi/7ee347e136078f3784885fd0ae3ee77dc016c870/Algorithm/Dual-Camera-YOLO/yolox_nano.onnx",
+  "model_bytes": 3659407,
+  "model_sha256": "c789161ed43c8269fcd4e67c67eeeb4e80c622da2eb296a20bc6007bd18a0b7d"
+}

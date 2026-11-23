@@ -1,0 +1,73 @@
+{
+  "part": "PartB",
+  "pair_id": "pair_0012",
+  "object": "box",
+  "nominal_distance_m": 1.5,
+  "reference_distance_m": 1.51,
+  "sgbm_full": {
+    "available": true,
+    "depth_m": 1.4176316261291504,
+    "absolute_error_m": 0.09236837387084962,
+    "relative_error_percent": 6.117110852374147
+  },
+  "sgbm_grid": {
+    "available": true,
+    "depth_m": 1.4176316261291504,
+    "accepted_points": 139,
+    "sample_points": 140,
+    "accepted_fraction": 0.9928571428571429,
+    "absolute_error_m": 0.09236837387084962,
+    "relative_error_percent": 6.117110852374147
+  },
+  "ncc_y0": {
+    "available": true,
+    "depth_m": 1.4148546243258915,
+    "accepted_points": 57,
+    "sample_points": 140,
+    "accepted_fraction": 0.40714285714285714,
+    "matching_ms": 7.244100095704198,
+    "rejections": {
+      "weak_texture": 27,
+      "ambiguous": 19,
+      "low_similarity": 37
+    },
+    "vertical_median_px": 0.0,
+    "reprojection_median_px": 2.0097183471152322e-14,
+    "vertical_limit_fraction": 0.0,
+    "sgbm_on_same_accepted_points": {
+      "available": true,
+      "depth_m": 1.4176316261291504,
+      "accepted_points": 56,
+      "sample_points": 140,
+      "accepted_fraction": 0.4
+    },
+    "original_left_axis_z_diagnostic_m": 1.443982460482539,
+    "absolute_error_m": 0.09514537567410852,
+    "relative_error_percent": 6.301018256563479
+  },
+  "ncc_y8": {
+    "available": true,
+    "depth_m": 1.4133226980954943,
+    "accepted_points": 94,
+    "sample_points": 140,
+    "accepted_fraction": 0.6714285714285714,
+    "matching_ms": 9.93130006827414,
+    "rejections": {
+      "weak_texture": 27,
+      "ambiguous": 19
+    },
+    "vertical_median_px": 2.0,
+    "reprojection_median_px": 1.0002347350888234,
+    "vertical_limit_fraction": 0.010638297872340425,
+    "sgbm_on_same_accepted_points": {
+      "available": true,
+      "depth_m": 1.4117493629455566,
+      "accepted_points": 93,
+      "sample_points": 140,
+      "accepted_fraction": 0.6642857142857143
+    },
+    "original_left_axis_z_diagnostic_m": 1.4466810783793744,
+    "absolute_error_m": 0.09667730190450574,
+    "relative_error_percent": 6.402470324801706
+  }
+}

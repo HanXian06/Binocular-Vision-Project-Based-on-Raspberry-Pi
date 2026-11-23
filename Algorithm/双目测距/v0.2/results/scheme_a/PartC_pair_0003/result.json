@@ -1,0 +1,70 @@
+{
+  "part": "PartC",
+  "pair_id": "pair_0003",
+  "object": "person",
+  "nominal_distance_m": 1,
+  "reference_distance_m": 0.98,
+  "version": "v0.2",
+  "roi_xywh": [
+    315,
+    60,
+    110,
+    130
+  ],
+  "selection_ms": 6.542999995872378,
+  "grid_full": {
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.813551047039227,
+    "valid_points": 73,
+    "selected_points": 864,
+    "valid_fraction": 0.08449074074074074,
+    "matching_ms": 31.334600178524852,
+    "selected_cells": 9,
+    "valid_cells": 8,
+    "rejected": {
+      "ambiguous": 166,
+      "weak_texture": 625
+    },
+    "reprojection_median_px": 1.0002408261598588,
+    "absolute_error_m": null
+  },
+  "grid_equal_count": {
+    "available": false,
+    "depth_m": null,
+    "diagnostic_median_m": 0.8131959491039477,
+    "valid_points": 37,
+    "selected_points": 465,
+    "valid_fraction": 0.07956989247311828,
+    "matching_ms": 17.83140003681183,
+    "selected_cells": 9,
+    "valid_cells": 8,
+    "rejected": {
+      "ambiguous": 91,
+      "weak_texture": 337
+    },
+    "reprojection_median_px": 1.0002408261598588,
+    "absolute_error_m": null
+  },
+  "shi_tomasi": {
+    "available": true,
+    "depth_m": 0.8148102968902542,
+    "diagnostic_median_m": 0.8148102968902542,
+    "valid_points": 56,
+    "selected_points": 465,
+    "valid_fraction": 0.12043010752688173,
+    "matching_ms": 18.898699898272753,
+    "selected_cells": 9,
+    "valid_cells": 8,
+    "rejected": {
+      "weak_texture": 310,
+      "ambiguous": 99
+    },
+    "reprojection_median_px": 1.0002394427067576,
+    "absolute_error_m": 0.1651897031097458
+  },
+  "sgbm_reference": {
+    "depth_m": 0.8024330139160156,
+    "absolute_error_m": 0.17756698608398436
+  }
+}
